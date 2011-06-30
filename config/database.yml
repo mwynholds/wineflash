@@ -1,0 +1,15 @@
+development:
+  adapter: mysql2
+  database: wineflash_development
+  username: root
+  password:
+  host: localhost
+  reconnect: true
+
+test:
+  adapter: mysql2
+  database: wineflash_test
+  username: root
+  password:
+  host: localhost
+  reconnect: true

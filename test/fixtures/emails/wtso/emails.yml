@@ -1,0 +1,54 @@
+- message_id: 1
+  source: wtso
+  subject: Chateau Fonplegade Saint Emilion Grand Cru Classe 2003 Library Release
+  deals:
+    - wine: Chateau Fonplegade Saint Emilion Grand Cru Classe 2003 Library Release
+      varietal: Bordeaux Blend
+      vintage: 2003
+      price: 29.99
+      country: France
+      size: 750
+
+- message_id: 2
+  source: wtso
+  subject: Inman Family Wines Russian River Valley Pinot Noir 2006
+  deals:
+    - wine: Inman Family Wines Russian River Valley Pinot Noir 2006
+      varietal: Pinot Noir
+      vintage: 2006
+      price: 17.99
+      country: USA
+      size: 750
+
+- message_id: 4
+  source: wtso
+  subject: Conundrum (by Caymus Vineyards) Proprietary White Wine 2009
+  deals:
+    - wine: Conundrum (by Caymus Vineyards) Proprietary White Wine 2009
+      varietal: White Wine
+      vintage: 2009
+      price: 18.79
+      country: USA
+      size: 750
+
+- message_id: 5
+  source: wtso
+  subject: Vilafonte Series M Paarl 2006
+  deals:
+    - wine: Vilafonte Series M Paarl 2006
+      varietal: Bordeaux Style Red Blend
+      vintage: 2006
+      price: 19.99
+      country: South Africa
+      size: 750
+
+- message_id: 6
+  source: wtso
+  subject: Domaine Laleure Piot Pernard Vergelesses 1er Cru Les Vergelesses Rouge 2008
+  deals:
+    - wine: Domaine Laleure Piot Pernard Vergelesses 1er Cru Les Vergelesses Rouge 2008
+      varietal: Pinot Noir
+      vintage: 2008
+      price: 27.99
+      country: France
+      size: 750

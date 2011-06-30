@@ -1,0 +1,11 @@
+development:
+  server: imap.gmail.com
+  username: wineflashapp
+  password: superflash
+  ssl: true
+
+test:
+  server: imap.gmail.com
+  username: wineflashapp
+  password: superflash
+  ssl: true
