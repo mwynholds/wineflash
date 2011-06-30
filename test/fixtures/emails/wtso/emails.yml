@@ -1,5 +1,5 @@
 - message_id: 1
-  source: wtso
+  source: WTSO
   subject: Chateau Fonplegade Saint Emilion Grand Cru Classe 2003 Library Release
   deals:
     - wine: Chateau Fonplegade Saint Emilion Grand Cru Classe 2003 Library Release
@@ -10,7 +10,7 @@
       size: 750
 
 - message_id: 2
-  source: wtso
+  source: WTSO
   subject: Inman Family Wines Russian River Valley Pinot Noir 2006
   deals:
     - wine: Inman Family Wines Russian River Valley Pinot Noir 2006
@@ -21,7 +21,7 @@
       size: 750
 
 - message_id: 4
-  source: wtso
+  source: WTSO
   subject: Conundrum (by Caymus Vineyards) Proprietary White Wine 2009
   deals:
     - wine: Conundrum (by Caymus Vineyards) Proprietary White Wine 2009
@@ -32,7 +32,7 @@
       size: 750
 
 - message_id: 5
-  source: wtso
+  source: WTSO
   subject: Vilafonte Series M Paarl 2006
   deals:
     - wine: Vilafonte Series M Paarl 2006
@@ -43,7 +43,7 @@
       size: 750
 
 - message_id: 6
-  source: wtso
+  source: WTSO
   subject: Domaine Laleure Piot Pernard Vergelesses 1er Cru Les Vergelesses Rouge 2008
   deals:
     - wine: Domaine Laleure Piot Pernard Vergelesses 1er Cru Les Vergelesses Rouge 2008

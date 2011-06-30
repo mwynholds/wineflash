@@ -1,6 +1,13 @@
 class Parser::Base
 
+  @@parsers = []
   @@countries = {}
+
+  cattr_accessor :parsers
+
+  def self.inherited(subclass)
+    @@parsers << subclass
+  end
 
   def self.countries=(country_config)
     country_config.each do |country, synonyms|
@@ -9,6 +16,14 @@ class Parser::Base
         @@countries[synonym] = country
       end
     end
+  end
+
+  def self.parser_for(mime)
+    @@parsers.each do |parser|
+      return parser.new(mime) if parser.supports? mime
+    end
+
+    nil
   end
 
   def initialize(mime)

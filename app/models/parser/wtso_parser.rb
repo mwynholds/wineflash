@@ -1,7 +1,15 @@
 class Parser::WTSOParser < Parser::Base
 
+  def self.supports?(mime)
+    mime.from[0] == 'wines@wtso.com'
+  end
+
   def valid?
     ! @dom.xpath("//td[text() = 'Appellation:']").empty?
+  end
+
+  def source
+    'WTSO'
   end
 
   def wine
