@@ -45,7 +45,7 @@ class FlashEmailTest < MiniTest::Spec
 
           actual_deal.wine.must_equal expected_deal['wine']
           actual_deal.varietal.must_equal expected_deal['varietal']
-          actual_deal.vintage.must_equal expected_deal['vintage']
+          actual_deal.vintage.must_equal expected_deal['vintage'].to_s
           actual_deal.price.must_equal expected_deal['price']
           actual_deal.country.must_equal expected_deal['country']
           actual_deal.size.must_equal expected_deal['size']
