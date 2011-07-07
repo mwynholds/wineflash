@@ -4,6 +4,9 @@ class CreateFlashEmailsTable < ActiveRecord::Migration
       t.column :message_id, :string
       t.column :source, :string
       t.column :subject, :string
+      t.column :raw, :text
+      t.column :raw_sha256, :string
+      t.column :status, :string
       
       t.timestamps
     end

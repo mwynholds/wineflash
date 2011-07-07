@@ -16,7 +16,7 @@ class FlashEmailTest < MiniTest::Spec
         message_id = actual.match(/.*\/(\d)\.txt$/).captures[0]
         File.open actual do |f|
           email = FlashEmail.parse f.read
-          unless email.nil?
+          if email.parsed?
             email.message_id = message_id
             source[:actual][message_id] = email
           end

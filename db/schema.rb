@@ -28,6 +28,9 @@ ActiveRecord::Schema.define(:version => 20110629231802) do
     t.string   "message_id"
     t.string   "source"
     t.string   "subject"
+    t.text     "raw"
+    t.string   "raw_sha256"
+    t.string   "status"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
