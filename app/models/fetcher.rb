@@ -4,7 +4,7 @@ class Fetcher
     @box = Mailbox.new
   end
 
-  def fetch_latest(opts = {})
+  def fetch(opts = {})
 
     options = { }.merge(opts)
 
@@ -17,7 +17,15 @@ class Fetcher
       mime = @box.fetch uid
       email = FlashEmail.parse mime
 
-      next unless email.parsed?
+      if !email.identified?
+        @box.archive uid, '_unidentified'
+        next
+      end
+
+      if !email.parsed?
+        @box.archive uid, '_invalid'
+        next
+      end
 
       if FlashEmail.where(:raw_sha256 => email.raw_sha256).exists?
         puts "Deleting duplicate email: #{email.subject}"
@@ -35,13 +43,16 @@ class Fetcher
       end
 
       label = "archive/#{email.source}"
-      @box.archive uid, label
+      new_uid = @box.archive uid, label
+      email.message_id = new_uid
+      email.save
     end
 
+    count
   end
 
   def fetch_next(opts = {})
-    fetch_latest opts.merge(:max => 1)
+    fetch opts.merge(:max => 1)
   end
 
 #  def self.save_latest(dir, options = {})

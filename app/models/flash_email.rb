@@ -19,20 +19,25 @@ class FlashEmail < ActiveRecord::Base
       return email
     end
 
+    email.source = parser.source
+
     unless parser.valid?
       puts "Email is invalid: #{mime.subject}"
       return email
     end
 
-    email.source = parser.source
     email.deals << Deal.new(:wine => parser.wine, :country => parser.country, :vintage => parser.vintage,
                             :varietal => parser.varietal, :size => parser.size, :price => parser.price)
 
     email
   end
 
-  def parsed?
+  def identified?
     ! source.nil?
+  end
+
+  def parsed?
+    ! deals.empty?
   end
 
   def label
