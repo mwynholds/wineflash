@@ -1,4 +1,8 @@
+require 'mail'
+
 class Fetcher
+
+  attr_reader :box
 
   def initialize
     @box = Mailbox.new
@@ -55,18 +59,36 @@ class Fetcher
     fetch opts.merge(:max => 1)
   end
 
-#  def self.save_latest(dir, options = {})
-#    fetch(options) do |message_id, msg|
-#      File.open "#{dir}/#{message_id}.txt", 'w' do |f|
-#        f.write msg.force_encoding('UTF-8')
-#      end
-#    end
-#
-#    nil
-#  end
-#
-#  def self.create_test_fixtures
-#    save_latest "#{Rails.root}/test/fixtures/emails", :folder => 'test/wtso'
-#  end
+  def testable(uids, source, opts = {})
+    options = { :label => '_unidentified' }.merge(opts)
+    uids = [ uids ] unless uids.is_a? Array
+
+    dir = "#{Rails.root}/test/fixtures/emails/#{source}"
+    Dir.mkdir(dir) unless Dir.exists? dir
+
+    File.open "#{dir}/emails.yml", 'a' do |emails|
+      uids.each do |uid|
+        msg = @box.fetch uid, options[:label]
+        File.open "#{dir}/#{uid}.txt", 'w' do |raw|
+          raw.write msg.force_encoding('UTF-8')
+        end
+
+        mime = Mail.new msg.force_encoding('ASCII-8BIT')
+        emails.write <<EOF
+- message_id: #{uid}
+  source: #{source}
+  subject: #{mime.subject}
+  deals:
+    - wine:
+      varietal:
+      vintage:
+      price:
+      country:
+      size:
+
+EOF
+      end
+    end
+  end
 
 end
