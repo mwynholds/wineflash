@@ -2,6 +2,8 @@ class FlashEmail < ActiveRecord::Base
 
   has_many :deals
 
+  validates :raw_sha256, :uniqueness => true
+
   def self.parse(msg)
     mime = Mail.new msg.force_encoding('ASCII-8BIT')
 

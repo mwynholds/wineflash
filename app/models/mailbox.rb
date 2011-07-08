@@ -25,6 +25,22 @@ class Mailbox
     @labels = labels
   end
 
+  def search(subject, label = 'INBOX')
+    @imap.examine label
+    @imap.uid_search ['SUBJECT', subject]
+  end
+
+  def list(label = 'INBOX')
+    @imap.examine label
+    @imap.uid_search ['NOT', 'DELETED']
+  end
+
+  def fetch(uid, label = 'INBOX')
+    @imap.examine label
+    msg = @imap.uid_fetch(uid, 'RFC822')
+    msg[0].attr['RFC822']
+  end
+
   def archive(uid, label)
     tokens = []
     label.split('/').each do |token|
@@ -57,9 +73,9 @@ class Mailbox
     end
   end
 
-  def search(subject, label = 'INBOX')
-    @imap.examine label
-    @imap.uid_search ['SUBJECT', subject]
+  def delete(uid, label = 'INBOX')
+    @imap.select label
+    @imap.uid_store uid, '+FLAGS', [:Deleted]
   end
 
   def labels
@@ -78,11 +94,6 @@ class Mailbox
     @imap.examine from_label
     resp = @imap.uid_copy uid, to_label
     resp.data.code.data.split(' ')[2].to_i
-  end
-
-  def delete(uid, label)
-    @imap.select label
-    @imap.uid_store uid, '+FLAGS', [:Deleted]
   end
 
   def mark_as_seen(uid, label)
