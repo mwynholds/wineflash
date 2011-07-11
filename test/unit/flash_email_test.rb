@@ -13,7 +13,7 @@ class FlashEmailTest < MiniTest::Spec
 
       actuals = Dir.glob "#{dir}/*.txt"
       actuals.each do |actual|
-        message_id = actual.match(/.*\/(\d)\.txt$/).captures[0]
+        message_id = actual.match(/.*\/(\d+)\.txt$/).captures[0]
         File.open actual do |f|
           email = FlashEmail.parse f.read
           if email.parsed?
@@ -40,23 +40,25 @@ class FlashEmailTest < MiniTest::Spec
         source[:actual].length.must_equal source[:expected].length
       end
 
-      it 'sets correct properties' do
-        source[:actual].each do |message_id, actual|
-          expected = source[:expected][message_id.to_i]
+      source[:actual].each do |message_id, actual|
+        expected = source[:expected][message_id.to_i]
 
-          actual.source.must_equal expected['source']
-          actual.subject.must_equal expected['subject']
-          actual.deals.length.must_equal expected['deals'].length
+        describe "Wine-#{expected['subject']}" do
+          it 'sets the correct properties' do
+            actual.source.must_equal expected['source']
+            actual.subject.must_equal expected['subject']
+            actual.deals.length.must_equal expected['deals'].length
 
-          actual.deals.each_with_index do |actual_deal, i|
-            expected_deal = expected['deals'][i]
+            actual.deals.each_with_index do |actual_deal, i|
+              expected_deal = expected['deals'][i]
 
-            actual_deal.wine.must_equal expected_deal['wine']
-            actual_deal.varietal.must_equal expected_deal['varietal']
-            actual_deal.vintage.must_equal expected_deal['vintage'].to_s
-            actual_deal.price.must_equal expected_deal['price']
-            actual_deal.country.must_equal expected_deal['country']
-            actual_deal.size.must_equal expected_deal['size']
+              actual_deal.wine.must_equal expected_deal['wine']
+              actual_deal.varietal.must_equal expected_deal['varietal']
+              actual_deal.vintage.must_equal expected_deal['vintage'].to_s
+              actual_deal.price.must_equal expected_deal['price']
+              actual_deal.country.must_equal expected_deal['country']
+              actual_deal.size.must_equal expected_deal['size']
+            end
           end
         end
       end

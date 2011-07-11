@@ -1,0 +1,654 @@
+Delivered-To: wineflashapp@gmail.com
+Received: by 10.143.13.7 with SMTP id q7cs101803wfi;
+        Mon, 27 Jun 2011 09:34:09 -0700 (PDT)
+Received: by 10.236.206.51 with SMTP id k39mr9848262yho.458.1309192448890;
+        Mon, 27 Jun 2011 09:34:08 -0700 (PDT)
+Return-Path: <RobertSchagrinCrushWineSpirits-jkcihk1pcdjykf1r@createsend2.com>
+Received: from mo115.createsend.com (mo115.createsend.com [206.72.127.115])
+        by mx.google.com with ESMTP id z8si28423532yhl.142.2011.06.27.09.34.07;
+        Mon, 27 Jun 2011 09:34:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of RobertSchagrinCrushWineSpirits-jkcihk1pcdjykf1r@createsend2.com designates 206.72.127.115 as permitted sender) client-ip=206.72.127.115;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of RobertSchagrinCrushWineSpirits-jkcihk1pcdjykf1r@createsend2.com designates 206.72.127.115 as permitted sender) smtp.mail=RobertSchagrinCrushWineSpirits-jkcihk1pcdjykf1r@createsend2.com; dkim=pass (test mode) header.i=offers@crushwineco.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=crushwineco.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers@crushwineco.com;
+ bh=IQrK1RII7R8b9yoOjQFFz7CVgb8=;
+ b=qV+tJyel6x/LQ92RZsaQc/3t4dcpBn/U22dSiSW5JXGCwMgHjCjn27z1L0eXu1LzOc6aUT6keTxV
+   7SWlCvviVbnmnWH6BCiQGqAuYKaYUUA1+EBe5JQ3bBpqAf5/PXhq
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=crushwineco.com;
+ b=JApGDjempxm+g+G9KDMvhggKWztQ0FTPMKgKDqRHoS32jQAYgFIqLpfe12go8/uZnR4+ZMIRyiB1
+   SzfvH3vtY3ltQ91BEp+qLvVtyhwFSIHlEsit1ggbZ0ulMmkbeEUn;
+Received: by mo115.createsend.com (PowerMTA(TM) v3.5r15) id h12og00vne0s for <wineflashapp@gmail.com>; Tue, 28 Jun 2011 02:25:29 +1000 (envelope-from <RobertSchagrinCrushWineSpirits-jkcihk1pcdjykf1r@createsend2.com>)
+From: "Robert Schagrin, Crush Wine & Spirits" <offers@crushwineco.com> 
+To: "wineflashapp@gmail.com" <wineflashapp@gmail.com>
+Reply-To: offers@crushwineco.com
+Date: Tue, 28 Jun 2011 02:25:02 +1000
+Subject: THE Summer Champagne Steal: Roederer Brut Premier
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_7a2c2d97e6334e12949b6920894c94fe"
+X-Mailer: createsend2.com
+X-Complaints-To: abuse@createsend2.com
+List-Unsubscribe: <http://unsub.createsend2.com/t/r/u/jkcihk/pcdjykf/>
+Received: from [72.43.111.114] by createsend2.com via HTTP; Tue, 28 Jun
+ 2011 02:25:02 +1000
+Message-ID: <cm.022502.jkcihk.pcdjykf.r@createsend2.com>
+
+--_=aspNetEmail=_7a2c2d97e6334e12949b6920894c94fe
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+-----------------------------------------------------------------
+THE SUMMER CHAMPAGNE STEAL: ROEDERER BRUT PREMIER
+-----------------------------------------------------------------
+
+Summer Champagne Steal
+NV Roederer Brut Premier Champagne
+
+-----------------------------------------------------------------
+
+BACK UP THE TRUCK for Prestige Bubbles at=20
+as low as $31.95
+
+-----------------------------------------------------------------
+Roederer Brut Premier is widely acknowledged to be one of the
+best non-vintage Champagnes in existence - at an incredible value
+for high-class bubbly from the very same Roederer of Cristal
+fame.
+-----------------------------------------------------------------
+
+Richard Juhlin, the Champagne guru, calls it "a Cristal-like
+Champagne of outstanding finesse."
+
+Featured in our Holiday Catalog, the response was overwhelming.
+We'd sell cases, and a week later they'd be back looking for
+more, spouting accolades.
+
+We sold through our massive tranche last winter way more quickly
+than we could have anticipated... so we went back and were able
+to secure another parcel at the same crazy pricing.             =20
+                    =20
+Today we're excited to toast the upcoming holiday weekend by
+presenting the official Champagne Steal of Summer: NV Roederer
+Brut Premier at $35.95 a pop.=20
+
+A bottle is good, but everyone should seriously consider a
+six-pack or today's case offer, which brings bottles as low as
+$31.95 each.
+
+The Brut Premier is full of crisp, fresh orchard fruits held in
+tension   with richer notes of dark minerals and a finishing wrap
+of round   creaminess that bears witness to the house's
+significant use of barrel-aged reserve wines in the final blend.=20
+ There's a strikingly similar finesse to their prestige Cristal
+cuv=C3=A9e,   along with plenty of the house's signature freshness,
+elegance and   power.
+
+Champagne under $40 is a tough category, and one that we're
+always asked about, so we're thrilled that we're able to offer
+such a high caliber one today - and at well below the $40 mark.
+Roederer manages to turn out a wine with amazing complexity that
+belies its very affordable price.=20
+
+I've also said before, and I'll say again: The Brut Premier is a
+rather rare case of an affordable, non-vintage Champagne
+perfectly worthy of cellaring - so take some to stash away while
+this special pricing lasts. The wine takes on a luxurious texture
+in the mouth with a few years' rest, all those crisp fruits
+shifting into a baseline of supporting acidity as the deeper
+flavors move into luscious caramel and cream territory. Today
+represents a fantastic opportunity to stock up for the rest of
+the summer and beyond while pricing is as low as ever.
+
+We should be able to confirm orders up to a case while supplies
+last; if you'd like more than a case, please let us know, and
+we'll do our best. To order, please reply to this email or call
+the store at (212) 980-9463.
+
+Robert Schagrin
+Managing Partner
+Crush Wine & Spirits
+
+-----------------------------------------------------------------
+Roederer Brut Premier
+-----------------------------------------------------------------
+Special Email Bottle Price: $35.95
+Compare at up to $55
+
+Special Email 6-Pack Price: $199.95 ($33.33 / btl)
+
+Special Email Case (12 btls) Price: $383.40 ($31.95 / btl)
+
+Wine is in stock!
+NET | No further discount=20
+
+
+-----------------------------------------------------------------
+Big House, Small Mind
+-----------------------------------------------------------------
+
+
+Roederer is a big house that functions as a negociant-manipulant
+(they buy grapes and make their own wine). But they also own 214
+hectares of vines in Champagne, 127 of which are Grand Cru
+vineyards.
+
+"These vineyards," notes Liem in his profile on the house,
+"account for 70 percent of the house's total needs, an
+astonishingly high figure that undoubtedly contributes to the
+quality and consistency of Roederer's wines." Roederer is also,
+admirably, experimenting with more environmentally friendly
+viticultural practices, including trials with biodynamics.
+
+In the cellar, they've always given due attention to site
+specificity, vinifying each parcel separately as well as making a
+vintage cuv=C3=A9e in all but the worst years. The goal is to express
+the character of the vintage and the uniqueness of different
+sites, and it's a mentality that's rare, yet admirable, in
+Champagne.
+
+
+-----------------------------------------------------------------
+
+
+We sent this email to =
+wineflashapp@gmail.com.=
+
+If you no longer wish to hear from us, click the link below to
+instantly unsubscribe:
+http://crushwinespirits.createsend2.com=
+/t/r/u/jkcihk/=
+=
+pcdjykf=
+/o/
+
+Thanks,
+Robert Schagrin, Crush Wine & Spirits=
+
+
+
+
+
+
+
+
+--_=aspNetEmail=_7a2c2d97e6334e12949b6920894c94fe
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crush Wine &amp; Spirits</title>
+</head>
+<body style=3D"font-family:Verdana;font-size:12px;" >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Verdana;" >
+        <tr>
+            <td align=3D"center">
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-width:1px;border-style:solid;border-color:#7072B3;border-=
+bottom-style:none;" >
+                    <tr>
+                        <td align=3D"left" valign=3D"bottom">
+                            <img src=3D"http=
+://i6.=
+createsend2.com=
+/ti/r/93/0C2/4DE/054952/images/header.jpg" width=3D"=
+655" height=3D"189" alt=3D"Crush Wine &amp; Spirits - the truth is in the=
+ bottle" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"655" border=3D"0" cellspacing=
+=3D"16" cellpadding=3D"0" style=3D"font-family:Verdana;" >
+                                <tr>
+                                    <td colspan=3D"3" width=3D"655" align=
+=3D"left">
+                                        <h3 style=3D"color:#7072B3;margin=
+-bottom:4px;margin-top:0px;font-size:12px;" >
+                                            June 27, 2011</h3>
+                                        <h1 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:bold;" >
+                                            Summer Champagne Steal</h1>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:normal;" >
+                                            NV Roederer Brut Premier Cham=
+pagne</h2>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:14pt;font-weight:normal;" >
+                                            <b>BACK UP THE TRUCK for Pres=
+tige Bubbles at <br>
+as low as $31.95</b></h2>
+                                        <p style=3D"font-size:14pt;" >
+                                            Roederer Brut Premier is wide=
+ly acknowledged to be one of the best non-vintage Champagnes in existence=
+ - at an incredible value for high-class bubbly from the very same Roeder=
+er of Cristal fame.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align=3D"left" valign=3D"top" wid=
+th=3D"401" style=3D"font-size:12px;" >
+                                        <p>Richard Juhlin, the Champagne =
+guru, calls it &quot;a Cristal-like Champagne of outstanding finesse.&quo=
+t;</p>
+<p>Featured in our Holiday Catalog, the response was overwhelming. We'd s=
+ell cases, and a week later they'd be back looking for more, spouting acc=
+olades.</p>
+<p>We sold through our massive tranche last winter <em>way</em> more quic=
+kly than we could have anticipated... so we went back and were able to se=
+cure <b>another</b><strong>&nbsp;parcel at the same crazy pricing.</stron=
+g></p>
+<table border=3D"0" align=3D"right" style=3D"margin-right:10px;margin-bot=
+tom:5px;" >
+    <tbody>
+        <tr>
+            <td><img alt=3D"" src=3D"http://www.crushwineco.com/images/ma=
+iler/Roederer_200.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Today we're excited to toast the upcoming holiday weekend by presentin=
+g <strong>the official Champagne Steal of Summer: NV Roederer Brut Premie=
+r at $35.95 a pop. </strong></p>
+<p>A bottle is good, but everyone should <em>seriously</em> consider a si=
+x-pack or <strong>today&rsquo;s case offer, which brings bottles as low a=
+s $31.95 each.</strong></p>
+<p>The Brut Premier is full of crisp, fresh orchard fruits held in tensio=
+n   with richer notes of dark minerals and a finishing wrap of round   cr=
+eaminess that bears witness to <strong>the house&rsquo;s significant use =
+of barrel-aged reserve wines in the final blend.</strong>   There's a str=
+ikingly similar finesse to their prestige Cristal cuv&eacute;e,   along w=
+ith plenty of the house&rsquo;s signature freshness, elegance and   power=
+.</p>
+<p>Champagne under $40 is a tough category, and one that we&rsquo;re alwa=
+ys asked about, so we&rsquo;re thrilled that we&rsquo;re able to offer su=
+ch a high caliber one today - and at <em>well</em> below the $40 mark.<st=
+rong>&nbsp;Roederer manages to turn out a wine with amazing complexity th=
+at belies its very affordable price.</strong>&nbsp;</p>
+<p>I've also said before, and I'll say again: The Brut Premier is <strong=
+>a rather rare case of an affordable, non-vintage Champagne perfectly wor=
+thy of cellaring </strong>- so take some to stash away while this special=
+ pricing lasts. The wine takes on a luxurious texture in the mouth with a=
+ few years' rest, all those crisp fruits shifting into a baseline of supp=
+orting acidity as the deeper flavors move into luscious caramel and cream=
+ territory. Today represents <strong>a fantastic opportunity to stock up =
+for the rest of the summer and beyond while pricing is as low as ever.</s=
+trong></p>
+<p>We should be able to confirm orders up to a case while supplies last; =
+if you'd like more than a case, please let us know, and we'll do our best=
+. <strong>To order, please reply to this email or call the store at (212)=
+ 980-9463.</strong></p>
+<p>Robert Schagrin<br />
+Managing Partner<br />
+Crush Wine &amp; Spirits</p>
+<h2 style=3D"color:#7072B3;font-size:13px;font-weight:bold;margin-bottom:=
+5px;" >
+                                                <a name=3D"896B2AC905DDBE=
+4D"></a><div style=3D"text-align:left;font-size:22px;" >Roederer Brut Pre=
+mier</div></h2>
+                                            <p><span style=3D"color:rgb(2=
+55, 0, 0);" ><font size=3D"4">Special Email Bottle Price: $35.95</font></=
+span><br />
+<em>Compare at up to $55</em></p>
+<p><span style=3D"color:rgb(255, 0, 0);" ><font size=3D"4">Special Email =
+6-Pack Price: $199.95 ($33.33 / btl)</font></span></p>
+<p><span style=3D"color:rgb(255, 0, 0);" ><font size=3D"4">Special Email =
+Case (12 btls) Price: $383.40 ($31.95 / btl)</font></span><br />
+<br />
+<strong><em>Wine is in stock!<br />
+NET | No further discount </em></strong></p></td>
+                                    <td  width=3D"1" style=3D"border-righ=
+t-width:1px;border-right-style:solid;border-right-color:#DDDEED;" >
+                                        &nbsp;
+                                    </td>
+                                    <td valign=3D"top">
+                                        <table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"217" style=3D"font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"bottom" wid=
+th=3D"34">
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend2.com=
+/t/r/l/jkcihk/=
+=
+pcdjykf=
+/y/">
+                                                        <img src=3D"=
+http=
+://i7.createsend2.com=
+/ti/r/93/0C2/4DE/054952/=
+images/twitter.gif" alt=3D"twitter" width=3D"34" height=3D"32" style=3D"b=
+order-width:0px;" /></a>
+                                                </td>
+                                                <td  valign=3D"bottom" wi=
+dth=3D"183" align=3D"left" style=3D"padding-bottom:4px;" >
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend2.com=
+/t/r/l/jkcihk/=
+=
+pcdjykf=
+/j/" style=3D"color:#7072B3;font-size:15px;vertical-align:t=
+ext-bottom;" >Follow us on Twitter</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td valign=3D"bottom" wid=
+th=3D"34">
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend2.com=
+/t/r/l/jkcihk/=
+=
+pcdjykf=
+/t/">
+                                                        <img src=3D"=
+http=
+://i8.createsend2.com=
+/ti/r/93/0C2/4DE/054952/=
+images/facebook.gif" alt=3D"facebook" width=3D"34" height=3D"32" style=3D=
+"border-width:0px;" /></a>
+                                                </td>
+                                                <td  valign=3D"bottom" wi=
+dth=3D"183" align=3D"left" style=3D"padding-bottom:4px;" >
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend2.com=
+/t/r/l/jkcihk/=
+=
+pcdjykf=
+/i/" style=3D"color:#7072B3;font-size:15px;vertical-align:t=
+ext-bottom;" >Find us on Facebook</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td valign=3D"bottom" wid=
+th=3D"34">
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend2.com=
+/t/r/l/jkcihk/=
+=
+pcdjykf=
+/d/">
+                                                        <img src=3D"=
+http=
+://i9.createsend2.com=
+/ti/r/93/0C2/4DE/054952/=
+images/feed.gif" alt=3D"feed" width=3D"34" height=3D"32" style=3D"border-=
+width:0px;" /></a>
+                                                </td>
+                                                <td  valign=3D"bottom" wi=
+dth=3D"183" align=3D"left" style=3D"padding-bottom:4px;" >
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend2.com=
+/t/r/l/jkcihk/=
+=
+pcdjykf=
+/h/" style=3D"color:#7072B3;font-size:15px;vertical-align:t=
+ext-bottom;" >Crush RSS Feeds</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan=3D"2" style=3D=
+"border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#D=
+DDEED;" >
+                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan=3D"2">
+                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan=3D"2" width=3D=
+"217"  align=3D"left" style=3D"font-size:12px;background-color:#EDEDDE;pa=
+dding-top:0px;padding-bottom:20px;padding-right:20px;padding-left:20px;" =
+>
+                                                    <br />
+<h2 style=3D"color:#7072B3;font-size:20px;font-weight:bold;text-align:cen=
+ter;margin-bottom:10px;" ><a name=3D"64F23FB552014778"></a><center>Big Ho=
+use,<br>
+ Small Mind</center></h2>
+                                                        <center>
+<p>Roederer is a big house that functions as a negociant-manipulant (they=
+ buy grapes and make their own wine). But <strong>they also own 214 hecta=
+res of vines in Champagne, 127 of which are Grand Cru vineyards.</strong>=
+</p>
+<p>&ldquo;These vineyards,&rdquo; notes Liem in his profile on the house,=
+ &ldquo;account for 70 percent of the house&rsquo;s total needs, an aston=
+ishingly high figure that undoubtedly contributes to the quality and cons=
+istency of Roederer&rsquo;s wines.&rdquo; <strong>Roederer is also, admir=
+ably, experimenting with more environmentally friendly viticultural pract=
+ices,</strong> including trials with biodynamics.</p>
+<p>In the cellar, <strong>they&rsquo;ve always given due attention to sit=
+e specificity, vinifying each parcel separatel</strong><strong>y</strong>=
+ as well as making a vintage cuv&eacute;e in all but the worst years. The=
+ goal is to express the character of the vintage and the uniqueness of di=
+fferent sites, and it's <strong>a mentality that's rare, yet admirable, i=
+n Champagne.</strong></p>
+</center>
+<h2 style=3D"color:#7072B3;font-size:20px;font-weight:bold;text-align:cen=
+ter;margin-bottom:10px;" ><a name=3D"02FD19ED3822E1D5"></a></h2>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan=3D"3" width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A=
+;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"center" ali=
+gn=3D"left" width=3D"138">
+                                                    <img src=3D"=
+http=
+://i10.createsend2.com=
+/ti/r/93/0C2/4DE/054952/ima=
+ges/crushlogosmall.jpg" alt=3D"Crush Wine & Spirits" width=3D"138" height=
+=3D"102" />
+                                                </td>
+                                                <td width=3D"10">
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"475" valign=3D=
+"top" align=3D"left">
+                                                    <p>We are here to ser=
+ve you. We want to customize our email correspondence to best
+                                                    fit your needs by com=
+municating with you as often as you prefer. If at any time
+                                                    you would like to cha=
+nge the frequency of emails from us or unsubscribe from this
+                                                    list please
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend2.com=
+/t/r/u/jkcihk/=
+=
+pcdjykf=
+/r/">click here</a>.</p>
+                                                    <p>Crush and the Crus=
+h Logo are trademarks and/or service marks of Crush Wine & Spirits Inc.  =
+                                                   and are registered in =
+the United States and may be registered in other jurisdictions           =
+                                                  including international=
+ly. All other trademarks are not owned by Crush Wine & Spirits, Inc.     =
+                                                 and are the property of =
+their respective owners, who may or may not be affiliated with,          =
+                                                connected to, or sponsore=
+d by us. &copy;2007 Crush Wine & Spirits, Inc. New York, NY - All        =
+                                               Rights Reserved.</p>
+                                                    </td>
+                                            </tr>
+                                        </table>
+ <table width=3D"623" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"color:#8A8A8A;line-height:12px;font-size:10px;font-family:Verdana;=
+" >
+                                           <tr>
+                                            <td valign=3D"top" align=3D"l=
+eft" width=3D"623">      =20
+                                                 *All wines in this offer=
+ing available subject to remaining unsold.<br />
+                                                 **All email offers valid=
+ for one week unless otherwise noted.<br />
+                                                 ***Crush is not responsi=
+ble for typographical errors. All prices are subject to change without no=
+tice.
+                                            </td>
+                                           </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan=3D"3" width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"10" cellpadding=3D"0" style=3D"color:#8A8A8=
+A;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"201">
+                                                    <b>Shipping / Deliver=
+y Fine Print</b><br />
+                                                    <br />
+                                                    1. Availability of al=
+l wine pending phone or email confirmation.<br />
+                                                    2. We are pleased to =
+offer free local delivery with purchases of $50 or more. There
+                                                    is a $150 minimum for=
+ free delivery to non-local addresses south of 96th street
+                                                    in Manhattan and a $2=
+00 minimum for free delivery to non-local addresses north of
+                                                    96th street in Manhat=
+tan. Maps and guidelines for delivery to Brooklyn, Queens,
+                                                    Staten Island and the=
+ Bronx are outlined <a href=3D"http://crushwinespirits.createsend2.com=
+/t/r/l/jkcihk/=
+pcdjykf=
+/k/">
+                                                        here</a>. Orders =
+not meeting the minimum are subject to a delivery charge. Please
+                                                    note that delivery mi=
+nimums are subject to change during Crush sale events.<br />
+                                                    3. Deliveries within =
+Manhattan will be made the next business day if your order
+                                                    is placed by noon. We=
+ will make our best efforts to deliver all "Neighborhood" deliveries
+                                                    on the same day. Deli=
+very to Westchester, the Hamptons etc. is periodic - please
+                                                    call for our regular =
+schedule.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    4. If wine is shipped=
+ to you, we contract with a 3rd party carrier who will ship
+                                                    wine that you have al=
+ready purchased. Ownership of any Wine that Crush sells changes
+                                                    hands at the time of =
+purchase in the state of New York and is subject to sales tax
+                                                    in this state. By req=
+uesting that your wine be shipped to you, you are authorizing
+                                                    us to engage a common=
+ carrier to deliver your wine on your behalf. Crush Wine &
+                                                    Spirits is not respon=
+sible for any breakage or damage of wine by said common carrier.
+                                                    WE MAKE NO REPRESENTA=
+TION TO THE LEGAL RIGHTS OF ANYONE TO SHIP OR IMPORT WINES
+                                                    INTO ANY STATES OUTSI=
+DE OF NEW YORK. You, the buyer, are solely responsible for
+                                                    shipment of alcoholic=
+ beverage products and assume all obligations for compliance
+                                                    with your State's law=
+s.<br />
+                                                    5. We do not profit o=
+n shipping. All shipping charges cover styrofoam shippers,
+                                                    3rd party carrier cha=
+rges, and nominal labor to pack and deliver your wine for shipment
+                                                    to the 3rd party carr=
+ier.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    6. We do not sell win=
+e we don't own and we guarantee the deliver of all pre-arrival
+                                                    wine; we cannot, howe=
+ver, guarantee the exact arrival date due to shipping circumstances
+                                                    beyond our control.<b=
+r />
+                                                    7. We are happy to ho=
+ld your wine, free of charge, until the appropriate shipping
+                                                    season. To keep our p=
+rices as sharp as possible however, we cannot store customer
+                                                    wine beyond the appro=
+priate shipping season. We therefore reserve the right to charge
+                                                    $10 per month, per ca=
+se, for wine that has not been taken during the first appropriate
+                                                    shipping season. <a h=
+ref=3D"http://crushwinespirits.createsend2.com=
+/t/r/l/jkcihk/=
+pcdjykf=
+/u/">Click here</a>
+                                                    for more.<br />
+                                                    8. Alcoholic beverage=
+s may be sold and delivered only to persons who are at least
+                                                    21 years old. In plac=
+ing your order, you represent to us that you are at least 21
+                                                    years old and that th=
+e person to whom the delivery will be made is at least 21 years
+                                                    old.<br />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Verdana;border-width:1px;border-style:solid;border-c=
+olor:#7072B3;border-top-style:none;" >
+                    <tr>
+                        <td style=3D"background-color:#BEBD86;height:19px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=3D"background-color:#7072B3;height:11px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://createsend2.com=
+/t/r/o/jkcihk/=
+=
+pcdjykf=
+/o.gif"  width=3D"1" height=3D"1" border=3D"0" style=3D=
+"height:1px !important;width:1px !important;border-width:0 !important;mar=
+gin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important=
+;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impo=
+rtant;padding-right:0 !important;padding-left:0 !important;" ></body>
+</html>=
+
+
+
+
+--_=aspNetEmail=_7a2c2d97e6334e12949b6920894c94fe--

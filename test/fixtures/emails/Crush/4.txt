@@ -1,0 +1,504 @@
+Delivered-To: wineflashapp@gmail.com
+Received: by 10.142.242.5 with SMTP id p5cs130148wfh;
+        Wed, 22 Jun 2011 08:59:14 -0700 (PDT)
+Received: by 10.236.161.4 with SMTP id v4mr1291341yhk.355.1308758353399;
+        Wed, 22 Jun 2011 08:59:13 -0700 (PDT)
+Return-Path: <RobertSchagrinCrushWineSpirits-jklhdld1pcdjykf1r@cmail1.com>
+Received: from mo112.createsend.com (mo112.createsend.com [206.72.127.112])
+        by mx.google.com with ESMTP id o5si3728238yhk.140.2011.06.22.08.59.11;
+        Wed, 22 Jun 2011 08:59:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of RobertSchagrinCrushWineSpirits-jklhdld1pcdjykf1r@cmail1.com designates 206.72.127.112 as permitted sender) client-ip=206.72.127.112;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of RobertSchagrinCrushWineSpirits-jklhdld1pcdjykf1r@cmail1.com designates 206.72.127.112 as permitted sender) smtp.mail=RobertSchagrinCrushWineSpirits-jklhdld1pcdjykf1r@cmail1.com; dkim=pass (test mode) header.i=offers@crushwineco.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=crushwineco.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers@crushwineco.com;
+ bh=83Xh998W+drKDFrrAlDuYVDVCus=;
+ b=CYsIopCxbO0t0/Vvaq+MoyZhYy9vLdxOhScO4YyLqSR92d6984rEMrciINrkUF7If6pBXkbZLWxe
+   yInqA4jQa66UeXWdH5epo6P5exNwd0IhurXCZk0sGgrTR4Bj93JY
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=crushwineco.com;
+ b=Of728rBoQAf7SCiDa+BbOhvOMCZ9Yd2ciYLpfFPnTn4g+W6uIhnWM1ai2SHm2tZw0bMfmBNzop4Y
+   /bGkOrWNQqvzL3N8muf0LZptRIl223BV88Pcf+ddIF8PGAFnb4Xq;
+Received: by mo112.createsend.com (PowerMTA(TM) v3.5r15) id h088l20vne00 for <wineflashapp@gmail.com>; Thu, 23 Jun 2011 01:10:30 +1000 (envelope-from <RobertSchagrinCrushWineSpirits-jklhdld1pcdjykf1r@cmail1.com>)
+From: "Robert Schagrin, Crush Wine & Spirits" <offers@crushwineco.com> 
+To: "wineflashapp@gmail.com" <wineflashapp@gmail.com>
+Reply-To: offers@crushwineco.com
+Date: Thu, 23 Jun 2011 01:10:02 +1000
+Subject: 2008 Sassicaia: Italy's "First Growth"
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_6dac8c48b36840a1880dc294504a1a60"
+X-Mailer: cmail1.com
+X-Complaints-To: abuse@cmail1.com
+List-Unsubscribe: <http://unsub.cmail1.com/t/r/u/jklhdld/pcdjykf/>
+Received: from [72.43.111.114] by cmail1.com via HTTP; Thu, 23 Jun 2011
+ 01:10:02 +1000
+Message-ID: <cm.011002.jklhdld.pcdjykf.r@cmail1.com>
+
+--_=aspNetEmail=_6dac8c48b36840a1880dc294504a1a60
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+-----------------------------------------------------------------
+2008 SASSICAIA: ITALY'S "FIRST GROWTH"
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+The Original. The Only.
+-----------------------------------------------------------------
+2008 Sassicaia
+-----------------------------------------------------------------
+Italy's "First Growth" at the most compelling price in the
+nation. =20
+-----------------------------------------------------------------
+When it was first released to the public in 1968, Sassicaia
+sparked a revolution and spawned a riot of imitators - and thus
+an entire genre of wines that came to be known as "Super
+Tuscans." But NONE were - or have ever been - able to match the
+awesome breed, refinement and class that Sassicaia possesses.   =20
+                              =20
+
+Today I'm excited to offer the just released 2008  Tenuta San
+Guido Sassicaia, which is one of the  greatest Sassicaia releases
+in the last two decades. Keep in mind that  this is after the
+freak-out reviews of the 2006, which Galloni called  "simply
+glorious" as well as "awesome."
+
+Galloni hasn't yet published his  "official" verdict on the 2008
+- but given the early excitement from reviewers it seems destined
+for a monumental status. The classic balance, full yet silky
+tannins matched to deep fruit and fresh aromatics of this 08 is
+down-right intoxicating.
+
+And when it hits, you can bet that pricing will bump up
+accordingly, as it always does, with the  wider audience pushing
+to get in on the action. Today's pricing at $169.95 on single
+bottles is among the lowest in the nation; if you're interested
+in a six-pack, we are happy to take an additional 6% off this
+single-bottle price.
+
+Sassicaia is one of the core wines I've regularly collected since
+the 1985 vintage, and I deeply admire the traditional,
+built-for-the-long-haul style. With its majority of Cabernet
+Sauvignon (plus 15% Cab Franc), this has always, to me, been
+incredibly reminiscent of a great Pauillac yet with a distinctly
+Italian spirit.
+
+Sassicaia was originally created by the Marchese Mario Incisa
+della Rocchetta, a Francophile aristocrat in Tuscany. He was
+passionate about wine and recognized that his home had a stony
+soil (indeed, sasso means "stone" in the local dialect) that was
+similar to the area in Bordeaux where his favorite wines came
+from, so he planted Cabernet Sauvignon grapes and began making
+wine for himself. At first, it was just for private consumption,
+but in 1968 the first Sassicaia was released to the public, and a
+revolution was born in the land of Sangiovese.
+
+Sassicaia sparked plenty of "Super Tuscan" imitators (the
+majority of which flaunted considerably more over-the-top
+international styles), but this bottling remains coveted for both
+its originality and the sheer, consistent elegance it's
+maintained through the years. The greatest vintages of Sassicaia
+are cellar monuments that remain vibrant, fresh and highly sought
+after today - and they fetch corresponding prices. Today offers
+an excellent opportunity to put bottles or cases away at the
+sharpest pricing you're likely to ever see for this bottling.
+
+To place your order, please reply to this email or call the store
+at (212) 980-9463.
+
+Robert Schagrin
+Managing Partner
+Crush Wine & Spirits
+
+-----------------------------------------------------------------
+
+
+2008 Sassicaia
+-----------------------------------------------------------------
+Special Email Bottle Price: $169.95
+Compare at up to $175
+
+"6 on Six"
+Purchase a six-pack or more and=20
+receive an additional 6% discount.
+
+Wine is pre-arrival - expected July
+NET | No further discount=20
+
+
+
+We sent this email to =
+wineflashapp@gmail.com.=
+
+If you no longer wish to hear from us, click the link below to
+instantly unsubscribe:
+http://crushwinespirits.cmail1.com=
+/t/r/u/jklhdld/=
+=
+pcdjykf=
+/t/
+
+Thanks,
+Robert Schagrin, Crush Wine & Spirits=
+
+
+
+
+
+
+
+
+--_=aspNetEmail=_6dac8c48b36840a1880dc294504a1a60
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crush Wine &amp; Spirits</title>
+</head>
+<body style=3D"font-family:Verdana;font-size:12px;" >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Verdana;" >
+        <tr>
+            <td align=3D"center">
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-width:1px;border-style:solid;border-color:#7072B3;border-=
+bottom-style:none;" >
+                    <tr>
+                        <td align=3D"left" valign=3D"bottom">
+                            <img src=3D"http=
+://i3.=
+cmail1.com=
+/ti/r/62/D01/BE0/020338/images/header.jpg" width=3D"=
+655" height=3D"189" alt=3D"Crush Wine &amp; Spirits - the truth is in the=
+ bottle" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"655" border=3D"0" cellspacing=
+=3D"16" cellpadding=3D"0" style=3D"font-family:Verdana;" >
+                                <tr>
+                                    <td width=3D"655" align=3D"left">
+                                        <h3 style=3D"color:#7072B3;margin=
+-bottom:4px;margin-top:0px;font-size:12px;" >
+                                            June 22, 2011</h3>
+                                        <h1 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:bold;" >
+                                            The Original. The Only.</h1>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:normal;" >
+                                            2008 Sassicaia</h2>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:14pt;font-weight:normal;" >
+                                            </h2>
+                                        <p style=3D"font-size:14pt;" >
+                                            Italy's "First Growth" at the=
+ most compelling price in the nation.  </p>
+                                        <span style=3D"font-size:12px;" >=
+<p>When it was first released to the public in 1968, Sassicaia sparked a =
+revolution and spawned a riot of imitators - and thus an entire <em>genre=
+</em> of wines that came to be known as &quot;Super Tuscans.&quot; But <s=
+trong>NONE were - or have ever been - able to match the awesome breed, re=
+finement and class that Sassicaia possesses.</strong></p>
+<table border=3D"0" align=3D"right" style=3D"margin-left:10px;margin-bott=
+om:5px;" >
+    <tbody>
+        <tr>
+            <td><img alt=3D"" src=3D"http://www.crushwineco.com/images/ma=
+iler/SassicaiaNVNV.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Today I&rsquo;m excited to offer the just released <strong>2008  Tenut=
+a San Guido Sassicaia, which is one of the  greatest Sassicaia releases i=
+n the last two decades.</strong> Keep in mind that  this is <em>after</em=
+> the freak-out reviews of the 2006, which Galloni called  &ldquo;simply =
+glorious&rdquo; as well as &ldquo;awesome.&rdquo;</p>
+<p>Galloni hasn&rsquo;t yet published his  &quot;official&quot; verdict o=
+n the 2008 - but given the early excitement from reviewers it seems desti=
+ned for a monumental status. The classic balance, full yet silky tannins =
+matched to deep fruit and fresh aromatics, of this 08 is down-right intox=
+icating.</p>
+<p>And when it hits, you can bet that pricing will bump up accordingly, a=
+s it always does, with the  wider audience pushing to get in on the actio=
+n. <strong>Today's pricing at $169.95 on single bottles is among the lowe=
+st in the nation;</strong> <u><em>if you're interested in a six-pack, we =
+are happy to take an additional 6% off this single-bottle price.</em></u>=
+</p>
+<p>Sassicaia is one of the core wines I&rsquo;ve regularly collected sinc=
+e the 1985 vintage, and I deeply admire the traditional, built-for-the-lo=
+ng-haul style. With its majority of Cabernet Sauvignon (plus 15% Cab Fran=
+c),<strong> this has always, to me, been incredibly reminiscent of a grea=
+t Pauillac yet with a distinctly Italian spirit.</strong></p>
+<p>Sassicaia was originally created by the Marchese Mario Incisa della Ro=
+cchetta, a Francophile aristocrat in Tuscany. He was passionate about win=
+e and recognized that his home had a stony soil (indeed, <em>sasso</em> m=
+eans &ldquo;stone&rdquo; in the local dialect) that was similar to the ar=
+ea in Bordeaux where his favorite wines came from, so he planted Cabernet=
+ Sauvignon grapes and began making wine for himself. At first, it was jus=
+t for private consumption, but<strong> in 1968 the first Sassicaia was re=
+leased to the public, and a revolution was born in the land of Sangiovese=
+.</strong></p>
+<p>Sassicaia sparked plenty of &quot;Super Tuscan&quot; imitators (the ma=
+jority of which flaunted considerably more over-the-top international sty=
+les), but this bottling remains coveted for both its originality and the =
+sheer, consistent elegance it's maintained through the years. <strong>The=
+ greatest vintages of Sassicaia are cellar monuments that remain vibrant,=
+ fresh and highly sought after today - and they fetch corresponding price=
+s. </strong>Today offers an excellent opportunity to put bottles or cases=
+ away at the sharpest pricing you're likely to <em>ever</em> see for this=
+ bottling.</p>
+<p><strong>To place your order, please reply to this email or call the st=
+ore at (212) 980-9463.</strong></p>
+<p>Robert Schagrin<br />
+Managing Partner<br />
+Crush Wine &amp; Spirits</p>
+<h2 style=3D"color:#7072B3;font-size:13px;font-weight:bold;margin-bottom:=
+5px;" >
+                                                    <a name=3D"4854C95B78=
+AB397E"></a><div style=3D"text-align:left;font-size:22px;" >2008 Sassicai=
+a</div></h2>
+                                                <p><span style=3D"color:r=
+gb(255, 0, 0);" ><font size=3D"4">Special Email Bottle Price: $169.95</fo=
+nt></span><br />
+<strong><em>Compare at up to $175</em></strong></p>
+<p><span style=3D"color:rgb(255, 0, 0);" ><font size=3D"4">&quot;6 on Six=
+&quot;<br />
+Purchase a six-pack or more and <br />
+receive an additional 6% discount.</font></span><br />
+<br />
+<strong><em>Wine is pre-arrival - expected July<br />
+NET | No further discount </em></strong></p>
+                                        </span>
+                                    </td>
+                                </tr>
+                  =20
+                                <tr>
+                                    <td width=3D"655"border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:12px;font=
+-size:10px;font-family:Verdana;" >
+                                        <table width=3D"623" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:1=
+2px;font-size:10px;font-family:Verdana;" >
+        <tr>
+ <td  width=3D"623" border=3D"0" valign=3D"bottom" align=3D"left" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:12px;font=
+-size:10px;font-family:Verdana;" >
+<p><strong>Pre-arrival</strong><br />
+While we guarantee the delivery of pre-arrival wines, many of the factors=
+ in the delivery are beyond our control. We do the best we can to estimat=
+e the expected arrival times of your wine, but we cannot guarantee any sp=
+ecific arrival dates. Please keep in mind, delays can arise unexpectedly =
+and we are occasionally given inaccurate and/or incomplete information by=
+ our shipping agent. If at any time you feel you need to cancel your pre-=
+arrival order, you may do so. We will refund you the original purchase pr=
+ice less a 10% cancellation fee.</p>
+			      =20
+         =20
+=20
+                                                    <table border=3D"0" a=
+lign=3D"left" style=3D"margin-right:10px;margin-bottom:5px;" >
+    <tbody>
+        <tr>
+            <td><img src=3D"http=
+://i4.cmail1.com=
+=
+/ti/r/62/D01/BE0/020338/images/crushlogosmall.jpg" alt=3D"" /></=
+td>
+        </tr>
+    </tbody>
+</table><p>We are here to serve you. We want to customize our email corre=
+spondence to best
+                                                    fit your needs, by co=
+mmunicating with you as often as you prefer. If at any time
+                                                    you would like unsubs=
+cribe from this list please <a href=3D"http://crushwinespirits.=
+cmail1.com=
+/t/r/u/jklhdld/=
+pcdjykf=
+/r/">Clic=
+k Here</a>.</p>
+                                                    <p>Crush and the Crus=
+h Logo are trademarks and/or service marks of Crush Wine & Spirits Inc.  =
+                                                   and are registered in =
+the United States and may be registered in other jurisdictions           =
+                                                  including international=
+ly. All other trademarks are not owned by Crush Wine & Spirits, Inc.     =
+                                                 are the property of thei=
+r respective owners, who may or may not be affiliated with,              =
+                                                connected to, or sponsore=
+d by us. &copy;2007 Crush Wine & Spirits, Inc. New York, NY - All Rights =
+                                                    Reserved.</p>
+                                              =20
+</td>
+                                      =20
+</tr>
+                                           <tr>
+                                            <td  valign=3D"top" align=3D"=
+left" width=3D"623">      =20
+                                                 *All wines in this offer=
+ing available subject to remaining unsold<br />
+                                                 **All email offers valid=
+ for one week unless otherwise noted<br />
+                                                 ***Crush not responsible=
+ for typographical errors. All prices are subject to change without      =
+                                               notice.
+                                            </td>
+                                           </tr>
+                                        </table>
+                                     =20
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"10" cellpadding=3D"0" style=3D"color:#8A8A8=
+A;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"201">
+                                                    <b>Shipping / Deliver=
+y Fine Print</b><br />
+                                                    <br />
+                                                    1. Availability of al=
+l wine pending phone or email confirmation.<br />
+                                                    2. We are pleased to =
+offer free local delivery with purchases of $50 or more. There
+                                                    is a $150 minimum for=
+ free delivery to non-local addresses south of 96th street
+                                                    in Manhattan and a $2=
+00 minimum for free delivery to non-local addresses north of
+                                                    96th street in Manhat=
+tan. Maps and guidelines for delivery to Brooklyn, Queens,
+                                                    Staten Island and the=
+ Bronx are outlined <a href=3D"http://crushwinespirits.cmail1.com=
+/t/r/l/jklhdld/=
+pcdjykf=
+/y/">
+                                                        here</a>. Orders =
+not meeting the minimum are subject to a delivery charge. Please
+                                                    note that delivery mi=
+nimums are subject to change during Crush sale events.<br />
+                                                    3. Deliveries within =
+Manhattan will be made the next business day if your order
+                                                    is placed by noon. We=
+ will make our best efforts to deliver all "Neighborhood" deliveries
+                                                    on the same day. Deli=
+very to Westchester, the Hamptons etc. is periodic - please
+                                                    call for our regular =
+schedule.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    4. If wine is shipped=
+ to you, we contract with a 3rd party carrier who will ship
+                                                    wine that you have al=
+ready purchased. Ownership of any Wine that Crush sells changes
+                                                    hands at the time of =
+purchase in the state of New York and is subject to sales tax
+                                                    in this state. By req=
+uesting that your wine be shipped to you, you are authorizing
+                                                    us to engage a common=
+ carrier to deliver your wine on your behalf. Crush Wine &
+                                                    Spirits is not respon=
+sible for any breakage or damage of wine by said common carrier.
+                                                    WE MAKE NO REPRESENTA=
+TION TO THE LEGAL RIGHTS OF ANYONE TO SHIP OR IMPORT WINES
+                                                    INTO ANY STATES OUTSI=
+DE OF NEW YORK. You, the buyer, are solely responsible for
+                                                    shipment of alcoholic=
+ beverage products and assume all obligations for compliance
+                                                    with your State's law=
+s.<br />
+                                                    5. We do not profit o=
+n shipping. All shipping charges cover styrofoam shippers,
+                                                    3rd party carrier cha=
+rges, and nominal labor to pack and deliver your wine for shipment
+                                                    to the 3rd party carr=
+ier.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    6. We do not sell win=
+e we don&rsquo;t own and we guarantee the delivery of all pre-arrival
+                                                    wine; we cannot, howe=
+ver, guarantee the exact arrival date due to shipping circumstances
+                                                    beyond our control.<b=
+r />
+                                                    7. We are happy to ho=
+ld your wine, free of charge, until the appropriate shipping
+                                                    season. To keep our p=
+rices as sharp as possible however, we cannot store customer
+                                                    wine beyond the appro=
+priate shipping season. We therefore reserve the right to charge
+                                                    $10 per month, per ca=
+se, for wine that has not been taken during the first appropriate
+                                                    shipping season. <a h=
+ref=3D"http://crushwinespirits.cmail1.com=
+/t/r/l/jklhdld/=
+pcdjykf=
+/j/">Click here</a>
+                                                    for more.<br />
+                                                    8. Alcoholic beverage=
+s may be sold and delivered only to persons who are at least
+                                                    21 years old. In plac=
+ing your order, you represent to us that you are at least 21
+                                                    years old and that th=
+e person to whom the delivery will be made is at least 21 years
+                                                    old.<br />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Verdana;border-width:1px;border-style:solid;border-c=
+olor:#7072B3;border-top-style:none;" >
+                    <tr>
+                        <td style=3D"background-color:#BEBD86;height:19px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=3D"background-color:#7072B3;height:11px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://cmail1.com=
+/t/r/o/jklhdld/=
+=
+pcdjykf=
+/o.gif"  width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;" ></body>
+</html>=
+
+
+
+
+--_=aspNetEmail=_6dac8c48b36840a1880dc294504a1a60--

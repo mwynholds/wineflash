@@ -18,8 +18,8 @@ class Fetcher
       break if options[:max] && count >= options[:max]
       count += 1
 
-      mime = @box.fetch uid
-      email = FlashEmail.parse mime
+      raw = @box.fetch uid
+      email = FlashEmail.parse raw
 
       if !email.identified?
         @box.archive uid, '_unidentified'

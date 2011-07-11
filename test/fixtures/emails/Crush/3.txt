@@ -1,0 +1,1544 @@
+Delivered-To: wineflashapp@gmail.com
+Received: by 10.143.27.11 with SMTP id e11cs71646wfj;
+        Mon, 4 Jul 2011 10:13:35 -0700 (PDT)
+Received: by 10.90.181.13 with SMTP id d13mr5399952agf.151.1309799614331;
+        Mon, 04 Jul 2011 10:13:34 -0700 (PDT)
+Return-Path: <RobertSchagrinCrushWineSpirits-junzl1pcdjykf1r@createsend1.com>
+Received: from mo111.createsend.com (mo111.createsend.com [206.72.127.111])
+        by mx.google.com with ESMTP id j19si945935anp.98.2011.07.04.10.13.34;
+        Mon, 04 Jul 2011 10:13:34 -0700 (PDT)
+Received-SPF: pass (google.com: domain of RobertSchagrinCrushWineSpirits-junzl1pcdjykf1r@createsend1.com designates 206.72.127.111 as permitted sender) client-ip=206.72.127.111;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of RobertSchagrinCrushWineSpirits-junzl1pcdjykf1r@createsend1.com designates 206.72.127.111 as permitted sender) smtp.mail=RobertSchagrinCrushWineSpirits-junzl1pcdjykf1r@createsend1.com; dkim=pass (test mode) header.i=offers@crushwineco.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=crushwineco.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers@crushwineco.com;
+ bh=7WMGjxKNtZCjjUMDu+eekXOTNBI=;
+ b=m4JEVRXwvzYh3gUr+/OG6UYu9q3rQZ05vIsgGRnqAjh0UoK7CVVSN4FMOrM8UcKTzijhYpENc3Nn
+   LiwHqU+/SAsRDci0iyClKq+IzE+/e0bRL9VIQ7EwvLU9enwheUnI
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=crushwineco.com;
+ b=pn1n4d73dV5ftobKpWJJ+DKLMeyTvWgzzw7zCkekQX9qW93iRlfQmxpp3ILPER6icZKQtghaS9d3
+   nusbCSdcv+Pw7Ki0SOv5nRY+OCXjnVWVlZ2DpFJ5dTx/c81gbNF+;
+Received: by mo111.createsend.com (PowerMTA(TM) v3.5r15) id h27qbs0vne0v for <wineflashapp@gmail.com>; Tue, 5 Jul 2011 03:11:29 +1000 (envelope-from <RobertSchagrinCrushWineSpirits-junzl1pcdjykf1r@createsend1.com>)
+From: "Robert Schagrin, Crush Wine & Spirits" <offers@crushwineco.com> 
+To: "wineflashapp@gmail.com" <wineflashapp@gmail.com>
+Reply-To: offers@crushwineco.com
+Date: Tue, 05 Jul 2011 03:10:02 +1000
+Subject: ONE DAY SALE! Angerville, Bachelet, Ponsot, Donnhoff...
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_79bb5d1ca4934b988051254ee7543dcd"
+X-Mailer: createsend1.com
+X-Complaints-To: abuse@createsend1.com
+List-Unsubscribe: <http://unsub.createsend1.com/t/r/u/junzl/pcdjykf/>
+Received: from [72.43.111.114] by createsend1.com via HTTP; Tue, 05 Jul
+ 2011 03:10:02 +1000
+Message-ID: <cm.031002.junzl.pcdjykf.r@createsend1.com>
+
+--_=aspNetEmail=_79bb5d1ca4934b988051254ee7543dcd
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+ONE DAY (4th of July) SALE!
+Angerville, Bachelet, Barthod, Conterno, Drouhin, Hirtzberger,
+Egon M=C3=BCller, FX Pichler, Pr=C3=BCm, Veuve Clicquot...
+-----------------------------------------------------------------
+ORDERS *ONLY* TAKEN BY EMAIL!!!
+FIRST COME, FIRST SERVED!!!
+
+-----------------------------------------------------------------
+Some early fireworks for your holiday.
+-----------------------------------------------------------------
+
+A finely curated list of the greatest winemakers/bottles in the
+world (with an obvious focus on Burgundy) marked way, way down
+for one day only.
+
+We'll be closing early today, at 7pm, and when we do, that's it
+ - SALE OVER.                                   =20
+
+So let's get to it - just a few things to keep in mind as you
+peruse the list below.
+
+1) WE WILL ONLY BE TAKING ORDERS VIA EMAIL - THE ONLY WAY TO
+ORDER IS TO REPLY TO THIS EMAIL! This way we can log exactly
+when orders come in and allocate first come, first served.
+NO WEB ORDERS, NO PHONE ORDERS, NO EXCEPTIONS!=20
+
+2) Please give us your payment information. If you have credit
+cards on file, let us know which one to use. We cannot hold wine
+without payment information!=20
+
+3) All sales are final - no exceptions.
+
+4) While the wine is all in stock, we'll need a few days to pack
+it up, so nothing will be available for pickup or delivery until
+next Monday, July 11th.
+
+That's all. So enjoy the savings, enjoy the holiday.
+
+AND REMEMBER, THE ONLY WAY TO ORDER IS TO REPLY TO THIS EMAIL!
+
+Robert Schagrin
+Managing Partner
+Crush Wine & Spirits
+
+-----------------------------------------------------------------
+4th of July Cellar
+-----------------------------------------------------------------
+AUSTRIA                                                     =20
+2009 Hirtzberger Gruner Veltliner Honivogl Smaragd 1.5 L
+In stock 2...Was: $179.95...Now: $113.95
+
+2007 Hirtzberger Riesling Singerriedl Smaragd 3.0 L
+In stock: 1...Was: $449.95...Now: $395.95
+
+2003 Pichler, F.X. Riesling Kellerberg Smaragd 750 ml
+In stock: 8...Was: $64.95...Now: $49.95
+
+2007 Prager Riesling Klaus Smaragd 1.5 L
+In stock: 2...Was: $119.95...Now: $91.95
+
+BURGUNDY
+2008 Angerville Meursault 1er Cru Santenots 750 ml
+In stock: 6...Was: $59.95...Now: $48.95
+
+2008 Arnoux, Robert Vosne-Romanee 1er Cru Les Chaumes 750 ml
+In stock: 6...Was: $74.99...Now: $64.95
+
+2007 Bachelet Gevrey-Chambertin 1er Cru Les Corbeaux 750 ml
+In stock: 8...Was: $104.95...Now: $87.95
+
+2007 Barthod Chambolle-Musigny 1er Cru Les Cras 1.5 L
+In stock: 2...Was: $264.99...Now: $225.99
+
+2006 Chezeaux Clos St Denis 750 ml
+In stock: 6...Was: $219.95...Now: $174.95
+
+2008 Comte Armand Pommard 1er Cru Clos Des Epeneaux 750 ml
+In stock: 5...Was: $93.95...Now: $79.95
+
+2005 Comte Armand Pommard 1er Cru Clos Des Epeneaux 3.0 L
+In stock: 1...Was: $629.95...Now: $539.95
+
+2008 D'Angerville Volnay 1er Cru 750 ml
+In stock: 12...Was: $69.95...Now: $49.95
+
+2008 De Montille Pommard 1er Cru Pezerolles 750 ml
+In stock: 5...Was: $99.95...Now: $59.95
+
+2006 De Montille Puligny-Montrachet Caillerets 750 ml
+In stock: 6...Was: $124.95...Now: $85.95
+
+2008 Des Croix Corton Charlemagne 750 ml
+In stock: 3...Was: $139.95...Now: $105.95
+
+2007 d'Eugenie Clos de Vougeot 750 ml
+In stock: 12...Was: $239.95...Now: $163.95
+
+1999 Domaine Hudelot-Noellat Romanee-St-Vivant 1.5 L
+In stock: 1...Was: $899.95...Now: $699.95
+
+2006 Drouhin Bonnes-Mares 750 ml
+In stock: 6...Was: $199.99...Now: $151.95
+
+2007 Drouhin Grands Echezeaux 1.5 L
+In stock: 2...Was: $389.95...Now: $339.95
+
+2008 Drouhin Griotte-Chambertin 1.5 L
+In stock: 2...Was: $339.95...Now: $289.95
+
+2007 Drouhin Griotte-Chambertin 1.5 L
+In stock: 4...Was: $334.95...Now: $289.95
+
+2007 Drouhin Vosne-Romanee 1er Cru Les Petits Monts 1.5 L
+In stock: 4...Was: $299.95...Now: $222.95
+
+2005 Drouhin-Laroze Clos de Vougeot 750 ml
+In stock: 3...Was: $159.95...Now: $139.95
+
+2008 Fevre Chablis Les Clos 1.5 L
+In stock: 2...Was: $164.95...Now: $139.95
+
+2008 Fevre Chablis Les Clos 3.0 L
+In stock: 2...Was: $419.95...Now: $325.95
+
+2008 Grivot, Jean Nuits-St-Georges 1er Cru Boudots 750 ml
+In stock: 9...Was: $99.95...Now: $75.95
+
+2005 Leclerc, Philippe Gevrey-Chambertin 1er Combe Moine 750 ml
+In stock: 5...Was: $119.95...Now: $96.95
+
+2008 Lignier, Hubert Chambolle-Musigny Les Baudes 750 ml
+In stock: 6...Was: $129.95...Now: $99.95
+
+2008 Lignier, Hubert Charmes-Chambertin 750 ml
+In stock: 3...Was: $209.95...Now: $169.95
+
+2008 Lignier, Hubert Gevrey-Chambertin Les Seuvrees 750 ml
+In stock: 12...Was: $62.95...Now: $50.95
+
+2008 Mugneret-Gibourg Nuits-St-Georges 1er Vignes Rondes 750 ml
+In stock...Was: $74.95...Now: $64.95
+
+2005 Perrot-Minot Mazoyeres-Chambertin 750 ml
+In stock: 7...Was: $319.99...Now: $259.99
+
+2006 Ponsot Clos de la Roche Vieilles Vignes 1.5 L
+In stock: 3...Was: $799.95...Now: $425.95
+
+CHAMPAGNE
+NV Prevost Champagne La Closerie les Beguines (2006) 750 ml
+In stock: 12...Was: $85.95...Now: $69.95
+
+1990 Veuve Clicquot La Grande Dame 3.0 L
+In stock: 1...Was: $799.95...Now: $675.95
+
+LOIRE
+2009 Huet Vouvray Clos du Bourg Moelleux 1er Trie 750 ml
+In stock: 6...Was: $59.95...Now: $37.95
+
+2009 Huet Vouvray Moelleux Cuvee Constance 500 ml
+In stock: 6...Was: $114.95...Now: $102.95
+
+RHONE
+2006 Charvin Chateauneuf-du-Pape 1.5 L
+In stock: 4...Was: $99.95...Now: $79.95
+
+GERMANY
+2009 Haag, Fritz Riesling Juffer Sonnenuhr GG Trocken 750 ml
+In stock: 12...Was: $44.95...Now: $37.95
+
+2009 Muller, Egon Riesling Auslese Scharzhofberger 750 ml
+In stock: 6...Was: $319.95...Now: $249.95
+
+2005 Prum, J. J. Riesling Auslese GK Wehlener Sonnenuhr 750 ml
+In stock: 9...Was: $109.95...Now: $69.95
+
+2007 Prum, J. J. Riesling Auslese Wehlener Sonnenuhr 1.5 L
+In stock: 1...Was: $159.95...Now: $125.95
+
+2009 Prum, J. J. Riesling Spatlese Graacher Himmelreich 750 ml
+In stock: 6...Was: $34.95...Now: $29.95
+
+2009 Donnhoff Riesling Grosses Gewachs Hermannshohle Dry 750 ml
+In stock: 12...Was: $59.95...Now: $49.95
+
+2009 Schafer-Frohlich Riesling Spatlese Felseneck 750 ml
+In stock: 12...Was: $32.95...Now: $26.95
+
+1998 Muller-Catoir Scheurebe Auslese Haardter Mandelring 375 ml
+In stock: 4...Was: $54.95...Now: $44.95
+
+ITALY
+2008 Conterno, Giacomo Barbera Cascina Francia 750 ml
+In stock: 6...Was: $49.95...Now: $36.95
+
+2006 Montevertine Le Pergole Torte 1.5 L
+In stock: 2...Was: $184.95...Now: $160.95
+
+Pickup/Deliveries available week of Monday, July 11.
+
+-----------------------------------------------------------------
+
+
+
+
+
+This email was sent to =
+wineflashapp@gmail.com.=
+
+If you are no longer interested you can unsubscribe instantly:
+http://crushwinespirits.createsend1.com=
+/t/r/u/junzl/=
+=
+pcdjykf=
+/t/
+
+--_=aspNetEmail=_79bb5d1ca4934b988051254ee7543dcd
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crush Wine &amp; Spirits</title>
+</head>
+<body style=3D"font-family:Verdana;font-size:12px;" >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Verdana;" >
+        <tr>
+            <td align=3D"center">
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-width:1px;border-style:solid;border-color:#7072B3;border-=
+bottom-style:none;" >
+                    <tr>
+                        <td align=3D"left" valign=3D"bottom">
+                            <img src=3D"https=
+://i3.=
+createsend1.com=
+/ti/r/0A/E5F/091/054824/images/header.jpg" width=3D"=
+655" height=3D"189" alt=3D"Crush Wine &amp; Spirits - the truth is in the=
+ bottle" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"655" border=3D"0" cellspacing=
+=3D"16" cellpadding=3D"0" style=3D"font-family:Verdana;" >
+                                <tr>
+                                    <td width=3D"655" align=3D"left">
+                                        <h3 style=3D"color:#7072B3;margin=
+-bottom:4px;margin-top:0px;font-size:12px;" >
+                                            July 4, 2011</h3>
+                                        <h1 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:bold;" >
+                                            ONE DAY (4th of July) SALE!</=
+h1>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:normal;" >
+                                            Angerville, Bachelet, Barthod=
+, Conterno, Drouhin, Hirtzberger, Egon M=C3=BCller, FX Pichler, Pr=C3=BCm=
+, Veuve Clicquot...</h2>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:14pt;font-weight:normal;" >
+                                            <b>ORDERS *ONLY* TAKEN BY EMA=
+IL!!!<br>
+FIRST COME, FIRST SERVED!!!</b></h2>
+                                        <p style=3D"font-size:14pt;" >
+                                            Some early fireworks for your=
+ holiday.</p>
+                                        <span style=3D"font-size:12px;" >=
+<p>A finely curated list of the greatest winemakers/bottles in the world =
+(with an obvious focus on Burgundy) marked way, <em>way</em> down for one=
+ day only.</p>
+<p>We'll be closing early today, at 7pm, and when we do, that's it - SALE=
+ OVER.</p>
+<table border=3D"0" align=3D"right" style=3D"margin-right:10px;margin-bot=
+tom:5px;" >
+    <tbody>
+        <tr>
+            <td><img src=3D"http://www.crushwineco.com/images/mailer/July=
+4SalePhoto.jpg" alt=3D"" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>So let's get to it - just a few things to keep in mind as you peruse t=
+he list below.</p>
+<p><strong>1) </strong><u><strong>WE WILL ONLY BE TAKING ORDERS VIA EMAIL=
+ - THE ONLY WAY TO ORDER IS TO REPLY TO THIS EMAIL!</strong></u> This way=
+ we can log exactly when orders come in and allocate first come, first se=
+rved. <em>NO WEB ORDERS, NO PHONE ORDERS, NO EXCEPTIONS! </em></p>
+<p>2) Please give us your payment information. If you have credit cards o=
+n file, let us know which one to use. <strong>We cannot hold wine without=
+ payment information! </strong></p>
+<p>3) <strong>All sales are final</strong> - no exceptions.</p>
+<p>4) While the wine is all in stock, we'll need a few days to pack it up=
+, so <strong>nothing will be available for pickup or delivery until next =
+Monday, July 11th.</strong></p>
+<p>That's all. So enjoy the savings, enjoy the holiday.</p>
+<p>And, remember: <strong>THE ONLY WAY TO ORDER IS TO REPLY TO THIS EMAIL=
+!</strong></p>
+<p>Robert Schagrin<br />
+Managing Partner<br />
+Crush Wine &amp; Spirits</p>
+<h2 style=3D"color:#7072B3;font-size:13px;font-weight:bold;margin-bottom:=
+5px;" >
+                                                    <a name=3D"CD7FDBBECF=
+406804"></a><div style=3D"text-align:left;font-size:22px;" >4th of July C=
+ellar</div></h2>
+                                                <table cellspacing=3D"0" =
+cellpadding=3D"0" border=3D"0" width=3D"590" style=3D"width:442.5pt;color=
+:rgb(0, 0, 0);font-family:Verdana;border-collapse:collapse;" >
+    <colgroup>  <col width=3D"33" style=3D"width:24.75pt;" />  <col width=
+=3D"263" style=3D"width:197.25pt;" />  <col width=3D"48" style=3D"width:3=
+6pt;" />  <col width=3D"112" style=3D"width:84pt;" />  <col width=3D"67" =
+style=3D"width:50.25pt;" />  <col width=3D"67" style=3D"width:50.25pt;" /=
+>  </colgroup>
+    <tbody>
+        <tr height=3D"21" style=3D"height:15.75pt;background-color:rgb(11=
+7, 119, 182);" >
+            <td height=3D"21" width=3D"33" style=3D"font-weight:bold;widt=
+h:24.75pt;height:15.75pt;text-align:left;" >&nbsp;</td>
+            <td width=3D"263" style=3D"font-weight:bold;width:197.25pt;co=
+lor:rgb(255, 255, 255);" ><font size=3D"2">Description</font></td>
+            <td width=3D"48" style=3D"font-weight:bold;width:36pt;color:r=
+gb(255, 255, 255);text-align:center;" ><font size=3D"2">Size</font></td>
+            <td width=3D"112" style=3D"font-weight:bold;width:84pt;color:=
+rgb(255, 255, 255);text-align:center;" ><font size=3D"2">Stock/Qty</font>=
+</td>
+            <td width=3D"&lt;%=3DGetColumnWidthPx(4)%&gt;" id=3D"rptResul=
+ts_ctl00_PriceWasHeader" style=3D"font-weight:bold;color:rgb(255, 255, 25=
+5);text-align:right;" ><font size=3D"2" style=3D"width:100%;" >Price<br /=
+>
+            Was</font></td>
+            <td align=3D"right" width=3D"67" style=3D"font-weight:bold;wi=
+dth:50.25pt;color:rgb(255, 255, 255);" ><font size=3D"2" style=3D"width:1=
+00%;" >Sale<br />
+            Price</font></td>
+        </tr>
+        <tr colspan=3D"100%">
+            <td><b>Austria</b></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2009&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/y/" tar=
+get=3D"_blank"><font size=3D"2">Hirtzberger Gruner Veltliner Honivogl Sma=
+ragd</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl01_Pri=
+ceWasRow"><font size=3D"2"><del>$179.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$113.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/j/" tar=
+get=3D"_blank"><font size=3D"2">Hirtzberger Riesling Singerriedl Smaragd<=
+/font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">3.0 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 1<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl02_Pri=
+ceWasRow"><font size=3D"2"><del>$449.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$395.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2003&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/i/" tar=
+get=3D"_blank"><font size=3D"2">Pichler, F.X. Riesling Kellerberg Smaragd=
+</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 8</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl03_Pri=
+ceWasRow"><font size=3D"2"><del>$64.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$49.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/d/" tar=
+get=3D"_blank"><font size=3D"2">Prager Riesling Klaus Smaragd</font></a><=
+/td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl04_Pri=
+ceWasRow"><font size=3D"2"><del>$119.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$91.95=
+</b></font></td>
+        </tr>
+        <tr colspan=3D"100%">
+            <td><b>Burgundy</b></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/h/" tar=
+get=3D"_blank"><font size=3D"2">Angerville Meursault 1er Cru Santenots</f=
+ont></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl05_Pri=
+ceWasRow"><font size=3D"2"><del>$59.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$48.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/k/" tar=
+get=3D"_blank"><font size=3D"2">Arnoux, Robert Vosne-Romanee 1er Cru Les =
+Chaumes</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl06_Pri=
+ceWasRow"><font size=3D"2"><del>$74.99</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$64.99=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/u/" tar=
+get=3D"_blank"><font size=3D"2">Bachelet Gevrey-Chambertin 1er Cru Les Co=
+rbeaux</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 8<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl07_Pri=
+ceWasRow"><font size=3D"2"><del>$104.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$87.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/o/" tar=
+get=3D"_blank"><font size=3D"2">Barthod Chambolle-Musigny 1er Cru Les Cra=
+s</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl08_Pri=
+ceWasRow"><font size=3D"2"><del>$264.99</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$225.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2006&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/b/" tar=
+get=3D"_blank"><font size=3D"2">Chezeaux Clos St Denis</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl09_Pri=
+ceWasRow"><font size=3D"2"><del>$219.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$174.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/n/" tar=
+get=3D"_blank"><font size=3D"2">Comte Armand Pommard 1er Cru Clos Des Epe=
+neaux</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 5<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl10_Pri=
+ceWasRow"><font size=3D"2"><del>$93.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$79.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2005&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/p/" tar=
+get=3D"_blank"><font size=3D"2">Comte Armand Pommard 1er Cru Clos Des Epe=
+neaux</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">3.0 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 1</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl11_Pri=
+ceWasRow"><font size=3D"2"><del>$629.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$539.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/x/" tar=
+get=3D"_blank"><font size=3D"2">D'Angerville Volnay 1er Cru</font></a></t=
+d>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl12_Pri=
+ceWasRow"><font size=3D"2"><del>$69.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$49.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/m/" tar=
+get=3D"_blank"><font size=3D"2">De Montille Pommard 1er Cru Pezerolles</f=
+ont></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 5</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl13_Pri=
+ceWasRow"><font size=3D"2"><del>$99.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$59.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2006&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/c/" tar=
+get=3D"_blank"><font size=3D"2">De Montille Puligny-Montrachet Caillerets=
+</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl14_Pri=
+ceWasRow"><font size=3D"2"><del>$124.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$85.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/q/" tar=
+get=3D"_blank"><font size=3D"2">Des Croix Corton Charlemagne</font></a></=
+td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 9</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl15_Pri=
+ceWasRow"><font size=3D"2"><del>$139.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$105.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/a/" tar=
+get=3D"_blank"><font size=3D"2">d'Eugenie Clos de Vougeot</font></a></td>=
+
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl16_Pri=
+ceWasRow"><font size=3D"2"><del>$239.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$163.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">1999&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/f/" tar=
+get=3D"_blank"><font size=3D"2">Domaine Hudelot-Noellat Romanee-St-Vivant=
+</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 1</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl17_Pri=
+ceWasRow"><font size=3D"2"><del>$899.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$699.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2006&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/z/" tar=
+get=3D"_blank"><font size=3D"2">Drouhin Bonnes-Mares</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl18_Pri=
+ceWasRow"><font size=3D"2"><del>$199.99</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$151.9=
+9</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/v/" tar=
+get=3D"_blank"><font size=3D"2">Drouhin Grands Echezeaux</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl19_Pri=
+ceWasRow"><font size=3D"2"><del>$389.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$339.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/e/" tar=
+get=3D"_blank"><font size=3D"2">Drouhin Griotte-Chambertin</font></a></td=
+>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl20_Pri=
+ceWasRow"><font size=3D"2"><del>$339.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$289.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/s/" tar=
+get=3D"_blank"><font size=3D"2">Drouhin Griotte-Chambertin</font></a></td=
+>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl21_Pri=
+ceWasRow"><font size=3D"2"><del>$334.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$289.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/g/" tar=
+get=3D"_blank"><font size=3D"2">Drouhin Vosne-Romanee 1er Cru Les Petits =
+Monts</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 4</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl22_Pri=
+ceWasRow"><font size=3D"2"><del>$299.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$222.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2005&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/w/" tar=
+get=3D"_blank"><font size=3D"2">Drouhin-Laroze Clos de Vougeot</font></a>=
+</td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 3</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl23_Pri=
+ceWasRow"><font size=3D"2"><del>$159.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$139.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/yd/" ta=
+rget=3D"_blank"><font size=3D"2">Fevre Chablis Les Clos</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl24_Pri=
+ceWasRow"><font size=3D"2"><del>$164.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$139.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/yh/" ta=
+rget=3D"_blank"><font size=3D"2">Fevre Chablis Les Clos</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">3.0 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl25_Pri=
+ceWasRow"><font size=3D"2"><del>$419.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$325.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/yk/" ta=
+rget=3D"_blank"><font size=3D"2">Grivot, Jean Nuits-St-Georges 1er Cru Bo=
+udots</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 9</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl26_Pri=
+ceWasRow"><font size=3D"2"><del>$99.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$75.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top">&nbsp;</td>
+            <td valign=3D"top">&nbsp;</td>
+            <td align=3D"center" valign=3D"top">&nbsp;</td>
+            <td align=3D"center" valign=3D"top">&nbsp;</td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl27_Pri=
+ceWasRow">&nbsp;</td>
+            <td align=3D"right" valign=3D"top">&nbsp;</td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2005&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/yu/" ta=
+rget=3D"_blank"><font size=3D"2">Leclerc, Philippe Gevrey-Chambertin 1er =
+Cru Combe Au Moine</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 5</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl28_Pri=
+ceWasRow"><font size=3D"2"><del>$119.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$96.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/jl/" ta=
+rget=3D"_blank"><font size=3D"2">Lignier, Hubert Chambolle-Musigny Les Ba=
+udes</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl29_Pri=
+ceWasRow"><font size=3D"2"><del>$129.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$99.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/jr/" ta=
+rget=3D"_blank"><font size=3D"2">Lignier, Hubert Charmes-Chambertin</font=
+></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 3</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl30_Pri=
+ceWasRow"><font size=3D"2"><del>$209.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$169.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/jy/" ta=
+rget=3D"_blank"><font size=3D"2">Lignier, Hubert Gevrey-Chambertin Les Se=
+uvrees</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl31_Pri=
+ceWasRow"><font size=3D"2"><del>$62.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$50.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/jj/" ta=
+rget=3D"_blank"><font size=3D"2">Mugneret-Gibourg Nuits-St-Georges 1er Cr=
+u Vignes Rondes</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 12<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl32_Pri=
+ceWasRow"><font size=3D"2"><del>$74.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$64.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2005&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/jt/" ta=
+rget=3D"_blank"><font size=3D"2">Perrot-Minot Mazoyeres-Chambertin</font>=
+</a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 3</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl33_Pri=
+ceWasRow"><font size=3D"2"><del>$319.99</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$259.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2006&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/ji/" ta=
+rget=3D"_blank"><font size=3D"2">Ponsot Clos de la Roche Vieilles Vignes<=
+/font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl34_Pri=
+ceWasRow"><font size=3D"2"><del>$799.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$425.9=
+5</b></font></td>
+        </tr>
+        <tr colspan=3D"100%">
+            <td><b>Champagne</b></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">NV&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/jd/" ta=
+rget=3D"_blank"><font size=3D"2">Prevost Champagne La Closerie les Beguin=
+es (2006 Fruit)</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl35_Pri=
+ceWasRow"><font size=3D"2"><del>$85.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$69.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">1990&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/jh/" ta=
+rget=3D"_blank"><font size=3D"2">Veuve Clicquot La Grande Dame</font></a>=
+</td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">3.0 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 1<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl36_Pri=
+ceWasRow"><font size=3D"2"><del>$799.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$675.9=
+5</b></font></td>
+        </tr>
+        <tr colspan=3D"100%">
+            <td><b>Loire</b></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2009&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/jk/" ta=
+rget=3D"_blank"><font size=3D"2">Huet Vouvray Clos du Bourg Moelleux 1er =
+Trie</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl37_Pri=
+ceWasRow"><font size=3D"2"><del>$59.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$37.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2009&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/ju/" ta=
+rget=3D"_blank"><font size=3D"2">Huet Vouvray Moelleux Cuvee Constance</f=
+ont></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">500 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl38_Pri=
+ceWasRow"><font size=3D"2"><del>$114.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$102.9=
+5</b></font></td>
+        </tr>
+        <tr colspan=3D"100%">
+            <td><b>Rhone</b></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2006&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/tl/" ta=
+rget=3D"_blank"><font size=3D"2">Charvin Chateauneuf-du-Pape</font></a></=
+td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 4<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl39_Pri=
+ceWasRow"><font size=3D"2"><del>$99.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$79.95=
+</b></font></td>
+        </tr>
+        <tr colspan=3D"100%">
+            <td><b>Germany</b></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2009&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/tr/" ta=
+rget=3D"_blank"><font size=3D"2">Haag, Fritz Riesling Brauneberger Juffer=
+ Sonnenuhr GG Trocken</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 12<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl40_Pri=
+ceWasRow"><font size=3D"2"><del>$44.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$37.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2009&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/ty/" ta=
+rget=3D"_blank"><font size=3D"2">Muller, Egon Riesling Auslese Scharzhofb=
+erger</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl41_Pri=
+ceWasRow"><font size=3D"2"><del>$319.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$249.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2005&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/tj/" ta=
+rget=3D"_blank"><font size=3D"2">Prum, J. J. Riesling Auslese GK Wehlener=
+ Sonnenuhr</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 9<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl42_Pri=
+ceWasRow"><font size=3D"2"><del>$109.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$69.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2007&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/tt/" ta=
+rget=3D"_blank"><font size=3D"2">Prum, J. J. Riesling Auslese Wehlener So=
+nnenuhr</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 2</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl43_Pri=
+ceWasRow"><font size=3D"2"><del>$159.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$125.9=
+5</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2009&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/ti/" ta=
+rget=3D"_blank"><font size=3D"2">Prum, J. J. Riesling Spatlese Graacher H=
+immelreich</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 4</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl44_Pri=
+ceWasRow"><font size=3D"2"><del>$34.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$29.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">2009&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/td/" ta=
+rget=3D"_blank"><font size=3D"2">Donnhoff Riesling Grosses Gewachs Nieder=
+hauser Hermannshohle Dry</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 12<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl45_Pri=
+ceWasRow"><font size=3D"2"><del>$59.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$49.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2009&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/th/" ta=
+rget=3D"_blank"><font size=3D"2">Schafer-Frohlich Riesling Spatlese Bocke=
+nauer Felseneck</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 12<br />
+            </font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl46_Pri=
+ceWasRow"><font size=3D"2"><del>$32.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$26.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top"><font size=3D"2">1998&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/tk/" ta=
+rget=3D"_blank"><font size=3D"2">Muller-Catoir Scheurebe Auslese Haardter=
+ Mandelring</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">375 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 4</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl47_Pri=
+ceWasRow"><font size=3D"2"><del>$54.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$44.95=
+</b></font></td>
+        </tr>
+        <tr colspan=3D"100%">
+            <td><b>Italy</b></td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2008&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/tu/" ta=
+rget=3D"_blank"><font size=3D"2">Conterno, Giacomo Barbera Cascina Franci=
+a</font></a></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">750 ml</=
+font></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 6</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl48_Pri=
+ceWasRow"><font size=3D"2"><del>$49.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$36.95=
+</b></font></td>
+        </tr>
+        <tr height=3D"17">
+            <td valign=3D"top">&nbsp;</td>
+            <td valign=3D"top">&nbsp;</td>
+            <td align=3D"center" valign=3D"top">&nbsp;</td>
+            <td align=3D"center" valign=3D"top">&nbsp;</td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl49_Pri=
+ceWasRow">&nbsp;</td>
+            <td align=3D"right" valign=3D"top">&nbsp;</td>
+        </tr>
+        <tr height=3D"17" style=3D"background-color:rgb(234, 234, 235);" =
+>
+            <td valign=3D"top"><font size=3D"2">2006&nbsp;</font></td>
+            <td valign=3D"top"><a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/il/" ta=
+rget=3D"_blank"><font size=3D"2">Montevertine Le Pergole Torte</font></a>=
+</td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">1.5 L</f=
+ont></td>
+            <td align=3D"center" valign=3D"top"><font size=3D"2">In stock=
+: 3</font></td>
+            <td align=3D"right" valign=3D"top" id=3D"rptResults_ctl50_Pri=
+ceWasRow"><font size=3D"2"><del>$184.95</del></font></td>
+            <td align=3D"right" valign=3D"top"><font size=3D"2"><b>$160.9=
+5</b></font></td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Deliveries available week of Monday, July 11.</strong></p>
+                                        </span>
+                                    </td>
+                                </tr>
+                               <tr>
+                                    <td colspan=3D"3" width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A=
+;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"center" ali=
+gn=3D"left" width=3D"138">
+                                                    <img src=3D"=
+https=
+://i4.createsend1.com=
+/ti/r/0A/E5F/091/054824/imag=
+es/crushlogosmall.jpg" alt=3D"Crush Wine & Spirits" width=3D"138" height=3D=
+"102" />
+                                                </td>
+                                                <td width=3D"10">
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"475" valign=3D=
+"top" align=3D"left">
+                                                    <p>We are here to ser=
+ve you. We want to customize our email correspondence to best
+                                                    fit your needs by com=
+municating with you as often as you prefer. If at any time
+                                                    you would like to cha=
+nge the frequency of emails from us or unsubscribe from this
+                                                    list please
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend1.com=
+/t/r/u/junzl/=
+=
+pcdjykf=
+/r/">click here</a>.</p>
+                                                    <p>Crush and the Crus=
+h Logo are trademarks and/or service marks of Crush Wine & Spirits Inc.  =
+                                                   and are registered in =
+the United States and may be registered in other jurisdictions           =
+                                                  including international=
+ly. All other trademarks are not owned by Crush Wine & Spirits, Inc.     =
+                                                 and are the property of =
+their respective owners, who may or may not be affiliated with,          =
+                                                connected to, or sponsore=
+d by us. &copy;2007 Crush Wine & Spirits, Inc. New York, NY - All        =
+                                               Rights Reserved.</p>
+                                                    </td>
+                                            </tr>
+                                        </table>
+ <table width=3D"623" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"color:#8A8A8A;line-height:12px;font-size:10px;font-family:Verdana;=
+" >
+                                           <tr>
+                                            <td valign=3D"top" align=3D"l=
+eft" width=3D"623">      =20
+                                                 *All wines in this offer=
+ing available subject to remaining unsold<br />
+                                                 **All email offers valid=
+ for one week unless otherwise noted<br />
+                                                 ***Crush not responsible=
+ for typographical errors. All prices are subject to change without      =
+                                               notice.
+                                            </td>
+                                           </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"10" cellpadding=3D"0" style=3D"color:#8A8A8=
+A;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"201">
+                                                    <b>Shipping / Deliver=
+y Fine Print</b><br />
+                                                    <br />
+                                                    1. Availability of al=
+l wine pending phone or email confirmation.<br />
+                                                    2. We are pleased to =
+offer free local delivery with purchases of $50 or more. There
+                                                    is a $150 minimum for=
+ free delivery to non-local addresses south of 96th street
+                                                    in Manhattan and a $2=
+00 minimum for free delivery to non-local addresses north of
+                                                    96th street in Manhat=
+tan. Maps and guidelines for delivery to Brooklyn, Queens,
+                                                    Staten Island and the=
+ Bronx are outlined <a href=3D"http://crushwinespirits.createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/ir/">
+                                                        here</a>. Orders =
+not meeting the minimum are subject to a delivery charge. Please
+                                                    note that delivery mi=
+nimums are subject to change during Crush sale events.<br />
+                                                    3. Deliveries within =
+Manhattan will be made the next business day if your order
+                                                    is placed by noon. We=
+ will make our best efforts to deliver all "Neighborhood" deliveries
+                                                    on the same day. Deli=
+very to Westchester, the Hamptons etc. is periodic - please
+                                                    call for our regular =
+schedule.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    4. If wine is shipped=
+ to you, we contract with a 3rd party carrier who will ship
+                                                    wine that you have al=
+ready purchased. Ownership of any Wine that Crush sells changes
+                                                    hands at the time of =
+purchase in the state of New York and is subject to sales tax
+                                                    in this state. By req=
+uesting that your wine be shipped to you, you are authorizing
+                                                    us to engage a common=
+ carrier to deliver your wine on your behalf. Crush Wine &
+                                                    Spirits is not respon=
+sible for any breakage or damage of wine by said common carrier.
+                                                    WE MAKE NO REPRESENTA=
+TION TO THE LEGAL RIGHTS OF ANYONE TO SHIP OR IMPORT WINES
+                                                    INTO ANY STATES OUTSI=
+DE OF NEW YORK. You, the buyer, are solely responsible for
+                                                    shipment of alcoholic=
+ beverage products and assume all obligations for compliance
+                                                    with your State's law=
+s.<br />
+                                                    5. We do not profit o=
+n shipping. All shipping charges cover styrofoam shippers,
+                                                    3rd party carrier cha=
+rges, and nominal labor to pack and deliver your wine for shipment
+                                                    to the 3rd party carr=
+ier.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    6. We do not sell win=
+e we don&rsquo;t own and we guarantee the deliver of all pre-arrival
+                                                    wine; we cannot, howe=
+ver, guarantee the exact arrival date due to shipping circumstances
+                                                    beyond our control.<b=
+r />
+                                                    7. We are happy to ho=
+ld your wine, free of charge, until the appropriate shipping
+                                                    season. To keep our p=
+rices as sharp as possible however, we cannot store customer
+                                                    wine beyond the appro=
+priate shipping season. We therefore reserve the right to charge
+                                                    $10 per month, per ca=
+se, for wine that has not been taken during the first appropriate
+                                                    shipping season. <a h=
+ref=3D"http://crushwinespirits.createsend1.com=
+/t/r/l/junzl/=
+pcdjykf=
+/iy/">Click here</a>
+                                                    for more.<br />
+                                                    8. Alcoholic beverage=
+s may be sold and delivered only to persons who are at least
+                                                    21 years old. In plac=
+ing your order, you represent to us that you are at least 21
+                                                    years old and that th=
+e person to whom the delivery will be made is at least 21 years
+                                                    old.<br />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Verdana;border-width:1px;border-style:solid;border-c=
+olor:#7072B3;border-top-style:none;" >
+                    <tr>
+                        <td style=3D"background-color:#BEBD86;height:19px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=3D"background-color:#7072B3;height:11px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://createsend1.com=
+/t/r/o/junzl/=
+=
+pcdjykf=
+/o.gif"  width=3D"1" height=3D"1" border=3D"0" style=3D=
+"height:1px !important;width:1px !important;border-width:0 !important;mar=
+gin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important=
+;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impo=
+rtant;padding-right:0 !important;padding-left:0 !important;" ></body>
+</html>=
+
+
+
+
+--_=aspNetEmail=_79bb5d1ca4934b988051254ee7543dcd--

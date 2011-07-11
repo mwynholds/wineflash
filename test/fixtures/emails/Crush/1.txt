@@ -1,0 +1,556 @@
+Delivered-To: wineflashapp@gmail.com
+Received: by 10.143.27.11 with SMTP id e11cs259508wfj;
+        Fri, 8 Jul 2011 09:10:56 -0700 (PDT)
+Received: by 10.52.73.170 with SMTP id m10mr3110432vdv.160.1310141455176;
+        Fri, 08 Jul 2011 09:10:55 -0700 (PDT)
+Return-Path: <IanMcFaddenCrushWineSpirits-juljihl1pcdjykf1r@createsend1.com>
+Received: from mo111.createsend.com (mo111.createsend.com [206.72.127.111])
+        by mx.google.com with ESMTP id y7si12892797vdt.53.2011.07.08.09.10.54;
+        Fri, 08 Jul 2011 09:10:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of IanMcFaddenCrushWineSpirits-juljihl1pcdjykf1r@createsend1.com designates 206.72.127.111 as permitted sender) client-ip=206.72.127.111;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of IanMcFaddenCrushWineSpirits-juljihl1pcdjykf1r@createsend1.com designates 206.72.127.111 as permitted sender) smtp.mail=IanMcFaddenCrushWineSpirits-juljihl1pcdjykf1r@createsend1.com; dkim=pass (test mode) header.i=offers@crushwineco.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=crushwineco.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers@crushwineco.com;
+ bh=exoX24JtNaeROpxfQ7eWORMUp7I=;
+ b=cNUmw5FxyKdoGE9sfOKoMVzKPBw2Uw+FhKP3KYTxsxuUORmuFioRV5/4UhbRZgzQTFGzukrhDA3s
+   HBZlJmEk/nxkXwHGGh7Ql28wXptoECL5CijRpI9iaOhRgS0gPDdr
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=crushwineco.com;
+ b=k707wg7T6YqQWthBVgDYnpqof6xjAQDtwIDC6rgi96r7cf3fRGGsSpT1Wdd2BPwZ1MFNg4hGITBc
+   l6TD8CzH3jPERk3uwEWKiooHBu7sPHGCc7aeAfPjTxH6kAhmSWTd;
+Received: by mo111.createsend.com (PowerMTA(TM) v3.5r15) id h2sm0u0vne01 for <wineflashapp@gmail.com>; Sat, 9 Jul 2011 02:00:36 +1000 (envelope-from <IanMcFaddenCrushWineSpirits-juljihl1pcdjykf1r@createsend1.com>)
+From: "Ian McFadden, Crush Wine & Spirits" <offers@crushwineco.com> 
+To: "wineflashapp@gmail.com" <wineflashapp@gmail.com>
+Reply-To: offers@crushwineco.com
+Date: Sat, 09 Jul 2011 02:00:00 +1000
+Subject: 2009 Dauvissat: "Superb Premier Cru in the Making"
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_d6abfce8618a45edae2bbb0c539bbc31"
+X-Mailer: createsend1.com
+X-Complaints-To: abuse@createsend1.com
+List-Unsubscribe: <http://unsub.createsend1.com/t/r/u/juljihl/pcdjykf/>
+Received: from [72.43.111.114] by createsend1.com via HTTP; Sat, 09 Jul
+ 2011 02:00:00 +1000
+Message-ID: <cm.020000.juljihl.pcdjykf.r@createsend1.com>
+
+--_=aspNetEmail=_d6abfce8618a45edae2bbb0c539bbc31
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+-----------------------------------------------------------------
+2009 DAUVISSAT: "SUPERB PREMIER CRU IN THE MAKING"
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+"Knockout Chablis"
+-----------------------------------------------------------------
+2009 Dauvissat Chablis 1er Cru La Forest
+-----------------------------------------------------------------
+THIS VINTAGE IS NOT TO BE DENIED CHEZ DAUVISSAT
+-----------------------------------------------------------------
+Dauvissat's 2009s are unbelievably, almost inexplicably good.
+-----------------------------------------------------------------
+
+One of the more entertaining moments interviewing Raj Vaidya
+(Wine Director at Restaurant Daniel in NYC) about 2008 and 2009
+Burgundy was him stating, one after the other, that 2009 in
+Burgundy is really a red wine vintage and then (apropos of
+nothing) "Dauvissat killed it in 2009 - they are beautiful,
+really beautiful wines."
+
+To which I respond, "How is that?"
+
+To which he responds, "I have no idea."
+
+Fair enough - some things are just not easy to explain.
+
+I should say that the greatness of Dauvissat's 2009s, as
+inexplicable as it may be, has been confirmed by a number of
+reliable, in-the-know types including, well, us.
+
+We opened one at the store this week, not exactly doubting the
+rumors but... well. Always looking for an excuse to open some
+wine.                                   =20
+
+This is an extraordinary bottle of wine in 2009, and we're ones
+who normally look to Forest for value a bit more than for
+quality. Just not true this year.
+
+Dauvissat's Forest, ever the overlooked 1er Cru is sizzling in
+2009. This is extraordinarily good. Stephen freaked out; Joe
+called it "the greatest Clos des Briords ever made" (a reference
+which is a bit too obscure to explain, but if you get it, you get
+it).
+
+The wine is pure, pure, pure, it is mineral with an invigorating
+ocean breeze, a freshening green-herbal edge (thus the Muscadet
+reference) - awesome dimension and depth. In fact, the ripeness
+of the vintage, which in some cases can be downright flamboyant,
+is here really only noticeable as a facet of dimension, of
+texture and density.
+
+However it came together, be it black magic, voodoo or simply
+strict selections and thoughtful winemaking, Dauvissat's 2009s
+are not to be overlooked and the Forest is one of the best values
+in the 2009 stable.
+
+Perhaps none of this should be all that shocking, as year in and
+year out Vincent Dauvissat crafts what are among the greatest
+wines in the entire region. Along with Raveneau, he's widely
+considered to represent the pinnacle of Chablis.
+
+Collectors of Chablis should plan on going as deep as possible
+(time for that cellar renovation?) - customers who have endured
+our untiring promotions for this region's greatest wines, without
+succumbing, should with this bottle, succumb.=20
+
+Try just one. Experience what the greatest of Chablis can
+achieve.
+
+Even Vincent Dauvissat himself, who is always notably humble and
+candid with his thoughts on his wines and the vintages, told
+Allen Meadows that although the year was quite hot and the wines
+definitely have considerable richness, "I believe that they will
+age much better than many people seem to be predicting at
+present."
+
+The pricing is ludicrous, or at the very least, very, very, very
+good - special 6-pack pricing for those going long.
+
+Give us you're maximum order and we'll do our best. To order,
+please reply to this email or call the store at (212) 980-9463.
+
+Ian McFadden
+Director, Fine & Rare Wine
+Crush Wine & Spirits
+
+-----------------------------------------------------------------
+
+2009 Dauvissat Chablis 1er Cru La Forest
+-----------------------------------------------------------------
+Special Email Bottle Price: $49.95
+Compare at up to $70 and beyond
+
+
+Special Email 6-Pack Price: $287.70 ($47.95 / btl)
+
+
+Tanzer: "Knockout Chablis aromas of steely minerality, crushed
+stone, lemon, white flowers, fresh green vegetables and white
+pepper. Wonderfully rich and generous on the palate, the sweetest
+yet of these 2009s and boasting the roundness of the vintage's
+best examples. The minerality returns on the back end, which
+finishes with notes of silex, warm stones and licorice. Superb
+premier cru in the making."
+
+
+Burghound: "A notably more complex nose offers up more classic
+Chablis aromas that include oyster shell, tidal pool and white
+flower aromas cut with just a hint of citrus that can also be
+found on the rich, generous, concentrated and quite powerful
+medium plus weight flavors that evidence noticeable salinity on
+the mouth coating and impressively persistent finish. Good stuff
+here and worth your interest."
+
+2009 Dauvissat arrives fall 2011
+NET | No further discount=20
+
+
+We sent this email to =
+wineflashapp@gmail.com.=
+
+If you no longer wish to hear from us, click the link below to
+instantly unsubscribe:
+http://crushwinespirits.createsend1.com=
+/t/r/u/juljihl/=
+=
+pcdjykf=
+/t/
+
+Thanks,
+Ian McFadden, Crush Wine & Spirits=
+
+
+
+
+
+
+
+
+--_=aspNetEmail=_d6abfce8618a45edae2bbb0c539bbc31
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crush Wine &amp; Spirits</title>
+</head>
+<body style=3D"font-family:Verdana;font-size:12px;" >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Verdana;" >
+        <tr>
+            <td align=3D"center">
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-width:1px;border-style:solid;border-color:#7072B3;border-=
+bottom-style:none;" >
+                    <tr>
+                        <td align=3D"left" valign=3D"bottom">
+                            <img src=3D"https=
+://i3.=
+createsend1.com=
+/ti/r/62/D01/BE0/020338/images/header.jpg" width=3D"=
+655" height=3D"189" alt=3D"Crush Wine &amp; Spirits - the truth is in the=
+ bottle" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"655" border=3D"0" cellspacing=
+=3D"16" cellpadding=3D"0" style=3D"font-family:Verdana;" >
+                                <tr>
+                                    <td width=3D"655" align=3D"left">
+                                        <h3 style=3D"color:#7072B3;margin=
+-bottom:4px;margin-top:0px;font-size:12px;" >
+                                            July 8, 2011</h3>
+                                        <h1 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:bold;" >
+                                            "Knockout Chablis"</h1>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:normal;" >
+                                            2009 Dauvissat Chablis 1er Cr=
+u La Forest</h2>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:14pt;font-weight:normal;" >
+                                            <b>THIS VINTAGE IS NOT TO BE =
+DENIED CHEZ DAUVISSAT</b></h2>
+                                        <p style=3D"font-size:14pt;" >
+                                            Dauvissat's 2009s are unbelie=
+vably, almost <i>inexplicably</i> good.</p>
+                                        <span style=3D"font-size:12px;" >=
+<p>One of the more entertaining moments interviewing Raj Vaidya (Wine Dir=
+ector at Restaurant Daniel in NYC) about 2008 and 2009 Burgundy was him s=
+tating, one after the other, that 2009 in Burgundy is really a red wine v=
+intage and then (apropos of nothing) <strong>&quot;Dauvissat <em>killed</=
+em> it in 2009 - they are beautiful, really beautiful wines.&quot;</stron=
+g></p>
+<p>To which I respond, &quot;How is that?&quot;</p>
+<p>To which he responds, &quot;I have no idea.&quot;</p>
+<p>Fair enough - some things are just not easy to explain.</p>
+<p>I should say that <strong>the greatness of Dauvissat's 2009s, as inexp=
+licable as it may be, has been confirmed by a number of reliable, in-the-=
+know types</strong> including, well, us.</p>
+<p>We opened one at the store this week, not exactly doubting the rumors =
+but... well. Always looking for an excuse to open some wine.</p>
+<table border=3D"0" align=3D"right" style=3D"margin-right:10px;margin-bot=
+tom:5px;" >
+    <tbody>
+        <tr>
+            <td><img alt=3D"" src=3D"http://www.crushwineco.com/images/ma=
+iler/2009DauvissatForest250.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>This is an extraordinary bottle of wine in 2009,</strong> and =
+we're ones who normally look to Forest for value a bit more than for qual=
+ity. Just not true this year.</p>
+<p>Dauvissat's Forest, ever the overlooked 1er Cru is <em>sizzling</em> i=
+n 2009. <strong><em>This is extraordinarily good.</em></strong> Stephen f=
+reaked out; Joe called it &quot;the greatest Clos des Briords ever made&q=
+uot; (a reference which is a bit too obscure to explain, but if you get i=
+t, you get it).</p>
+<p><strong>The wine is pure, pure, pure, it is mineral with an invigorati=
+ng ocean breeze,</strong> a freshening green-herbal edge (thus the Muscad=
+et reference) - <em>awesome</em> dimension and depth. In fact, the ripene=
+ss of the vintage, which in some cases can be downright flamboyant, is he=
+re really only noticeable as a facet of dimension, of texture and density=
+.</p>
+<p>However it came together, be it black magic, voodoo or simply strict s=
+elections and thoughtful winemaking, <strong>Dauvissat's 2009s are not to=
+ be overlooked </strong>and the Forest is one of the best values in the 2=
+009 stable.</p>
+<p>Perhaps none of this should be all that shocking, as year in and year =
+out <strong>Vincent Dauvissat crafts what are among the greatest wines in=
+ the entire region.</strong> Along with Raveneau, he&rsquo;s widely consi=
+dered to represent the pinnacle of Chablis.</p>
+<p><strong>Collectors of Chablis should plan on going as deep as possible=
+ </strong>(time for that cellar renovation?) - customers who have endured=
+ our untiring promotions for this region's greatest wines, without succum=
+bing, should with this bottle, succumb.&nbsp;</p>
+<p>Try just one. <strong>Experience what the greatest of Chablis can achi=
+eve.</strong></p>
+<p>Even Vincent Dauvissat himself, who is always notably humble and candi=
+d with his thoughts on his wines and the vintages, told Allen Meadows tha=
+t although the year was quite hot and the wines definitely have considera=
+ble richness, <strong>&ldquo;I believe that they will age much better tha=
+n many people seem to be predicting at present.&quot;</strong></p>
+<p>The pricing is ludicrous, or at the very least, very, very, very good =
+- <span style=3D"font-weight:bold;" >s</span><strong>pecial 6-pack pricin=
+g for those going long.</strong></p>
+<p>Give us you're maximum order and we'll do our best. <strong>To order, =
+please reply to this email or call the store at (212) 980-9463.</strong><=
+/p>
+<p>Ian McFadden<br />
+Director, Fine &amp; Rare Wine<br />
+Crush Wine &amp; Spirits</p>
+<h2 style=3D"color:#7072B3;font-size:13px;font-weight:bold;margin-bottom:=
+5px;" >
+                                                    <a name=3D"D08A6FA56F=
+7441F0"></a><div style=3D"text-align:left;font-size:22px;" >2009 Dauvissa=
+t Chablis 1er Cru La Forest</div></h2>
+                                                <p><span style=3D"color:r=
+gb(255, 0, 0);" ><font size=3D"4">Special Email Bottle Price: $49.95</fon=
+t></span><br />
+<strong><em>Compare at up to $70 and beyond</em></strong><em><br />
+</em></p>
+<p><span style=3D"color:rgb(255, 0, 0);" ><font size=3D"4">Special Email =
+6-Pack Price: $287.70 ($47.95 / btl)<br />
+</font></span></p>
+<p><em>Tanzer: &quot;Knockout Chablis aromas of steely minerality, crushe=
+d stone, lemon, white flowers, fresh green vegetables and white pepper. W=
+onderfully rich and generous on the palate, the sweetest yet of these 200=
+9s and boasting the roundness of the vintage's best examples. The mineral=
+ity returns on the back end, which finishes with notes of silex, warm sto=
+nes and licorice. Superb premier cru in the making.&quot;<br />
+</em></p>
+<p><em>Burghound: &quot;A notably more complex nose offers up more classi=
+c Chablis aromas that include oyster shell, tidal pool and white flower a=
+romas cut with just a hint of citrus that can also be found on the rich, =
+generous, concentrated and quite powerful medium plus weight flavors that=
+ evidence noticeable salinity on the mouth coating and impressively persi=
+stent finish. Good stuff here and worth your interest.&quot;</em><br />
+<br />
+<strong><em>2009 Dauvissat arrives fall 2011<br />
+NET | No further discount </em></strong></p>
+                                        </span>
+                                    </td>
+                                </tr>
+                  =20
+                                <tr>
+                                    <td width=3D"655"border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:12px;font=
+-size:10px;font-family:Verdana;" >
+                                        <table width=3D"623" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:1=
+2px;font-size:10px;font-family:Verdana;" >
+        <tr>
+ <td  width=3D"623" border=3D"0" valign=3D"bottom" align=3D"left" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:12px;font=
+-size:10px;font-family:Verdana;" >
+<p><strong>Pre-arrival</strong><br />
+While we guarantee the delivery of pre-arrival wines, many of the factors=
+ in the delivery are beyond our control. We do the best we can to estimat=
+e the expected arrival times of your wine, but we cannot guarantee any sp=
+ecific arrival dates. Please keep in mind, delays can arise unexpectedly =
+and we are occasionally given inaccurate and/or incomplete information by=
+ our shipping agent. If at any time you feel you need to cancel your pre-=
+arrival order, you may do so. We will refund you the original purchase pr=
+ice less a 10% cancellation fee.</p>
+			      =20
+         =20
+=20
+                                                    <table border=3D"0" a=
+lign=3D"left" style=3D"margin-right:10px;margin-bottom:5px;" >
+    <tbody>
+        <tr>
+            <td><img src=3D"https=
+://i4.createsend1.com=
+=
+/ti/r/62/D01/BE0/020338/images/crushlogosmall.jpg" alt=3D"" /></=
+td>
+        </tr>
+    </tbody>
+</table><p>We are here to serve you. We want to customize our email corre=
+spondence to best
+                                                    fit your needs, by co=
+mmunicating with you as often as you prefer. If at any time
+                                                    you would like unsubs=
+cribe from this list please <a href=3D"http://crushwinespirits.=
+createsend1.com=
+/t/r/u/juljihl/=
+pcdjykf=
+/r/">Clic=
+k Here</a>.</p>
+                                                    <p>Crush and the Crus=
+h Logo are trademarks and/or service marks of Crush Wine & Spirits Inc.  =
+                                                   and are registered in =
+the United States and may be registered in other jurisdictions           =
+                                                  including international=
+ly. All other trademarks are not owned by Crush Wine & Spirits, Inc.     =
+                                                 are the property of thei=
+r respective owners, who may or may not be affiliated with,              =
+                                                connected to, or sponsore=
+d by us. &copy;2007 Crush Wine & Spirits, Inc. New York, NY - All Rights =
+                                                    Reserved.</p>
+                                              =20
+</td>
+                                      =20
+</tr>
+                                           <tr>
+                                            <td  valign=3D"top" align=3D"=
+left" width=3D"623">      =20
+                                                 *All wines in this offer=
+ing available subject to remaining unsold<br />
+                                                 **All email offers valid=
+ for one week unless otherwise noted<br />
+                                                 ***Crush not responsible=
+ for typographical errors. All prices are subject to change without      =
+                                               notice.
+                                            </td>
+                                           </tr>
+                                        </table>
+                                     =20
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"10" cellpadding=3D"0" style=3D"color:#8A8A8=
+A;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"201">
+                                                    <b>Shipping / Deliver=
+y Fine Print</b><br />
+                                                    <br />
+                                                    1. Availability of al=
+l wine pending phone or email confirmation.<br />
+                                                    2. We are pleased to =
+offer free local delivery with purchases of $50 or more. There
+                                                    is a $150 minimum for=
+ free delivery to non-local addresses south of 96th street
+                                                    in Manhattan and a $2=
+00 minimum for free delivery to non-local addresses north of
+                                                    96th street in Manhat=
+tan. Maps and guidelines for delivery to Brooklyn, Queens,
+                                                    Staten Island and the=
+ Bronx are outlined <a href=3D"http://crushwinespirits.createsend1.com=
+/t/r/l/juljihl/=
+pcdjykf=
+/y/">
+                                                        here</a>. Orders =
+not meeting the minimum are subject to a delivery charge. Please
+                                                    note that delivery mi=
+nimums are subject to change during Crush sale events.<br />
+                                                    3. Deliveries within =
+Manhattan will be made the next business day if your order
+                                                    is placed by noon. We=
+ will make our best efforts to deliver all "Neighborhood" deliveries
+                                                    on the same day. Deli=
+very to Westchester, the Hamptons etc. is periodic - please
+                                                    call for our regular =
+schedule.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    4. If wine is shipped=
+ to you, we contract with a 3rd party carrier who will ship
+                                                    wine that you have al=
+ready purchased. Ownership of any Wine that Crush sells changes
+                                                    hands at the time of =
+purchase in the state of New York and is subject to sales tax
+                                                    in this state. By req=
+uesting that your wine be shipped to you, you are authorizing
+                                                    us to engage a common=
+ carrier to deliver your wine on your behalf. Crush Wine &
+                                                    Spirits is not respon=
+sible for any breakage or damage of wine by said common carrier.
+                                                    WE MAKE NO REPRESENTA=
+TION TO THE LEGAL RIGHTS OF ANYONE TO SHIP OR IMPORT WINES
+                                                    INTO ANY STATES OUTSI=
+DE OF NEW YORK. You, the buyer, are solely responsible for
+                                                    shipment of alcoholic=
+ beverage products and assume all obligations for compliance
+                                                    with your State's law=
+s.<br />
+                                                    5. We do not profit o=
+n shipping. All shipping charges cover styrofoam shippers,
+                                                    3rd party carrier cha=
+rges, and nominal labor to pack and deliver your wine for shipment
+                                                    to the 3rd party carr=
+ier.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    6. We do not sell win=
+e we don&rsquo;t own and we guarantee the delivery of all pre-arrival
+                                                    wine; we cannot, howe=
+ver, guarantee the exact arrival date due to shipping circumstances
+                                                    beyond our control.<b=
+r />
+                                                    7. We are happy to ho=
+ld your wine, free of charge, until the appropriate shipping
+                                                    season. To keep our p=
+rices as sharp as possible however, we cannot store customer
+                                                    wine beyond the appro=
+priate shipping season. We therefore reserve the right to charge
+                                                    $10 per month, per ca=
+se, for wine that has not been taken during the first appropriate
+                                                    shipping season. <a h=
+ref=3D"http://crushwinespirits.createsend1.com=
+/t/r/l/juljihl/=
+pcdjykf=
+/j/">Click here</a>
+                                                    for more.<br />
+                                                    8. Alcoholic beverage=
+s may be sold and delivered only to persons who are at least
+                                                    21 years old. In plac=
+ing your order, you represent to us that you are at least 21
+                                                    years old and that th=
+e person to whom the delivery will be made is at least 21 years
+                                                    old.<br />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Verdana;border-width:1px;border-style:solid;border-c=
+olor:#7072B3;border-top-style:none;" >
+                    <tr>
+                        <td style=3D"background-color:#BEBD86;height:19px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=3D"background-color:#7072B3;height:11px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://createsend1.com=
+/t/r/o/juljihl/=
+=
+pcdjykf=
+/o.gif"  width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;" ></body>
+</html>=
+
+
+
+
+--_=aspNetEmail=_d6abfce8618a45edae2bbb0c539bbc31--

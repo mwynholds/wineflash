@@ -4,12 +4,12 @@ class FlashEmail < ActiveRecord::Base
 
   validates :raw_sha256, :uniqueness => true
 
-  def self.parse(msg)
-    mime = Mail.new msg.force_encoding('ASCII-8BIT')
+  def self.parse(raw)
+    mime = Mail.new raw.force_encoding('ASCII-8BIT')
 
     email = FlashEmail.new
-    email.raw = msg
-    email.raw_sha256 = Digest::SHA2.new.update(msg).to_s
+    email.raw = raw
+    email.raw_sha256 = Digest::SHA2.new.update(raw).to_s
     email.subject = mime.subject
 
     parser = Parser::Base.parser_for mime
@@ -26,9 +26,7 @@ class FlashEmail < ActiveRecord::Base
       return email
     end
 
-    email.deals << Deal.new(:wine => parser.wine, :country => parser.country, :vintage => parser.vintage,
-                            :varietal => parser.varietal, :size => parser.size, :price => parser.price)
-
+    email.deals += parser.deals
     email
   end
 

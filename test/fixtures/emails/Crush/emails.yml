@@ -1,0 +1,131 @@
+- message_id: 1
+  source: Crush
+  subject: "2009 Dauvissat: \"Superb Premier Cru in the Making\""
+  deals:
+    - wine: Dauvissat Chablis 1er Cru La Forest
+      varietal: Chardonnay
+      vintage: 2009
+      price: 49.95
+      country: France
+      size: 750
+
+- message_id: 2
+  source: Crush
+  subject: "2010 Dönnhoff: Kabinett to Spatlesen and Beyond"
+  deals:
+    - wine: Dönnhoff Oberhäuser Leistenberg Kabinett
+      varietal: Riesling
+      vintage: 2010
+      price: 22.95
+      country: Germany
+      size: 750
+    - wine: Dönnhoff Norheimer Kirschheck Spätlese
+      varietal: Riesling
+      vintage: 2010
+      price: 35.95
+      country: Germany
+      size: 750
+    - wine: Dönnhoff Niederhäuser Hermannshöhle Spätlese
+      varietal: Riesling
+      vintage: 2010
+      price: 51.95
+      country: Germany
+      size: 750
+    - wine: Dönnhoff Oberhäuser Brücke Spätlese
+      varietal: Riesling
+      vintage: 2010
+      price: 45.95
+      country: Germany
+      size: 750
+    - wine: Dönnhoff Hermannshöhle Auslese Gold-Kapsule
+      varietal: Riesling
+      vintage: 2010
+      price: 42.95
+      country: Germany
+      size: 375
+    - wine: Dönnhoff Brücke Auslese Gold-Kapsule
+      varietal: Riesling
+      vintage: 2010
+      price: 39.95
+      country: Germany
+      size: 375
+
+- message_id: 4
+  source: Crush
+  subject: "2008 Sassicaia: Italy's \"First Growth\""
+  deals:
+    - wine: Sassicaia
+      varietal: Bordeaux Blend
+      vintage: 2008
+      price: 169.95
+      country: Italy
+      size: 750
+
+- message_id: 214
+  source: Crush
+  subject: "THE Summer Champagne Steal: Roederer Brut Premier"
+  deals:
+    - wine: Roederer Brut Premier
+      varietal: Champagne
+      vintage: NV
+      price: 35.95
+      country: France
+      size: 750
+
+- message_id: 166
+  source: Crush
+  subject: "2006 Sandrone: \"Unqualified Successes\" - Cannubi Boschis, Le Vigne"
+  deals:
+    - wine: Barolo "Le Vigne"
+      varietal: Nebbiolo
+      vintage: 2006
+      price: 115.95
+      country: Italy
+      size: 750
+    - wine: Barolo Cannubi Boschis
+      varietal: Nebbiolo
+      vintage: 2006
+      price: 139.95
+      country: Italy
+      size: 750
+
+- message_id: 172
+  source: Crush
+  subject: "2010 Donnhoff Grand Cru Dry Wines: German Futures Continue..."
+  deals:
+    - wine: Dönnhoff Mixed Grosses Gewächs Three-Pack
+      varietal: Riesling
+      vintage: 2010
+      price: 174.97
+      country: Germany
+      size: 750
+    - wine: Dönnhoff Dellchen Grosses Gewächs (Grand Cru Dry)
+      varietal: Riesling
+      vintage: 2010
+      price: 59.95
+      country: Germany
+      size: 750
+    - wine: Dönnhoff Felsenberg "Felsentürmchen" GG (Grand Cru Dry)
+      varietal: Riesling
+      vintage: 2010
+      price: 58.95
+      country: Germany
+      size: 750
+    - wine: Dönnhoff Hermannshöhle GG (Grand Cru Dry)
+      varietal: Riesling
+      vintage: 2010
+      price: 62.95
+      country: Germany
+      size: 750
+
+- message_id: 88
+  source: Crush
+  subject: Champagne on the Rocks? Moet Ice Imperial Party Pack
+  deals:
+    - wine: Moët et Chandon Ice Impérial Party Packs
+      varietal: Champagne
+      vintage: NV
+      price: 179.95
+      country: France
+      size: 750
+

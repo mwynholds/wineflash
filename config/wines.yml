@@ -1,0 +1,31 @@
+nebbiolo: &nebbiolo
+  country: Italy
+  varietal: Nebbiolo
+
+german_riesling: &german_riesling
+  country: Germany
+  varietal: Riesling
+
+super_tuscan: &super_tuscan
+  country: Italy
+  varietal: Bordeaux Blend
+
+
+auslese: *german_riesling
+barbaresco: *nebbiolo
+barolo: *nebbiolo
+chablis:
+  country: France
+  varietal: Chardonnay
+champagne:
+  country: France
+  vintage: NV
+  varietal: Champagne
+gewächs: *german_riesling
+kabinett: *german_riesling
+magnum:
+  size: 1500
+ornellaia: *super_tuscan
+sassicaia: *super_tuscan
+spatlese: *german_riesling
+spätlese: *german_riesling

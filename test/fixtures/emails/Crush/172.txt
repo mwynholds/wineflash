@@ -1,0 +1,551 @@
+Delivered-To: wineflashapp@gmail.com
+Received: by 10.142.242.5 with SMTP id p5cs52072wfh;
+        Sat, 18 Jun 2011 09:32:02 -0700 (PDT)
+Received: by 10.236.77.66 with SMTP id c42mr5252453yhe.481.1308414721062;
+        Sat, 18 Jun 2011 09:32:01 -0700 (PDT)
+Return-Path: <StephenBitterolfCrushWineSpirits-jhldjlk1pcdjykf1r@cmail2.com>
+Received: from mo111.createsend.com (mo111.createsend.com [206.72.127.111])
+        by mx.google.com with ESMTP id s3si17734713yhn.136.2011.06.18.09.32.00;
+        Sat, 18 Jun 2011 09:32:01 -0700 (PDT)
+Received-SPF: pass (google.com: domain of StephenBitterolfCrushWineSpirits-jhldjlk1pcdjykf1r@cmail2.com designates 206.72.127.111 as permitted sender) client-ip=206.72.127.111;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of StephenBitterolfCrushWineSpirits-jhldjlk1pcdjykf1r@cmail2.com designates 206.72.127.111 as permitted sender) smtp.mail=StephenBitterolfCrushWineSpirits-jhldjlk1pcdjykf1r@cmail2.com; dkim=pass (test mode) header.i=offers@crushwineco.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=crushwineco.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers@crushwineco.com;
+ bh=AN5eEePnXzYBw2QJBXxIt1OeXno=;
+ b=pvaSItp3qC4zNCtUsHppKUWrQCEyn1E3ffGGpXcgZWFSqU8zGbmkdiBkMTGCGKVw2/WMl8LxN8UX
+   s+fL3g2Qri5xoH62DKkGTlpgni0Hnph+rf5BMRVt9vgbBEJi4U3H
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=crushwineco.com;
+ b=ByqMHhNML6QwMrrjJ5kneipS6d8QF/fgl1ROBDUS3Di62hy7qtPHCMr0CtaDXPq7dhDZoap03qKy
+   2nEXFzkzS6SE4Cyp7WcWGteob5djD+eKXUOOyZJpYGush8Ht7OzZ;
+Received: by mo111.createsend.com (PowerMTA(TM) v3.5r15) id hvj9g00vne02 for <wineflashapp@gmail.com>; Sun, 19 Jun 2011 02:30:23 +1000 (envelope-from <StephenBitterolfCrushWineSpirits-jhldjlk1pcdjykf1r@cmail2.com>)
+From: "Stephen Bitterolf, Crush Wine & Spirits" <offers@crushwineco.com> 
+To: "wineflashapp@gmail.com" <wineflashapp@gmail.com>
+Reply-To: offers@crushwineco.com
+Date: Sun, 19 Jun 2011 02:30:02 +1000
+Subject: 2010 Donnhoff Grand Cru Dry Wines: German Futures Continue...
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_311072b9648143b2aca2b6e49a59396f"
+X-Mailer: cmail2.com
+X-Complaints-To: abuse@cmail2.com
+List-Unsubscribe: <http://unsub.cmail2.com/t/r/u/jhldjlk/pcdjykf/>
+Received: from [72.43.111.114] by cmail2.com via HTTP; Sun, 19 Jun 2011
+ 02:30:02 +1000
+Message-ID: <cm.023002.jhldjlk.pcdjykf.r@cmail2.com>
+
+--_=aspNetEmail=_311072b9648143b2aca2b6e49a59396f
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+-----------------------------------------------------------------
+2010 D=C3=96NNHOFF GRAND CRU DRY WINES: GERMAN FUTURES CONTINUE...
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Grand Cru Dry Wines of Helmut D=C3=B6nnhoff
+-----------------------------------------------------------------
+2010 D=C3=B6nnhoff "Grosses Gew=C3=A4chs"
+Hermannsh=C3=B6hle - Felsent=C3=BCrmchen - Dellchen
+-----------------------------------------------------------------
+Special German "Futures" Pricing
+-----------------------------------------------------------------
+"This is a very, very strong vintage for this consistently
+excellent estate." - John Gilman, View from the Cellar
+-----------------------------------------------------------------
+
+D=C3=B6nnhoff is the elder statesman of the Nahe; he is also one of
+Germany's greatest winemakers. In all honestly, I'm sort of
+surprised Gilman only used two "verys" in describing the strength
+of his 2010ers.
+
+D=C3=B6nnhoff's Rieslings are, year in and year out, some of the most
+inspiring Rieslings made in Germany; the style is deep, fruit
+forward yet sparkling in clarity and purity. This is a term
+that's way overused, but the wines are flawless. They are
+seductive and feminine and meditative yet also mineral and
+rigorous.
+
+How's this for a line? D=C3=B6nnhoff's wines always have everything.
+That's about it... but that's a lot.                            =20
+     =20
+
+Today we're thrilled to offer out D=C3=B6nnhoff's three "Grand Cru"
+dry Rieslings, the "Grosses Gew=C3=A4chs" as they are called in
+German. The pricing is as lean as you've come to expect from our
+futures pricing.
+
+As I've written before, 2010 in Germany is an extreme vintage -
+record high ripeness levels matched to record high acidities,
+meaning these wines have everything and you can taste it. (I'm
+sorry, I'm still working on the vintage report... it's been a
+busy week!)
+
+D=C3=B6nnhoff's wines have a huge reputation, so I'll keep it short
+today. It's a Saturday after all. But a few things are worth
+considering...
+
+First, this is a very short vintage, with quantities dramatically
+down. For the moment, our 2010 allocation is about half of what
+we received in 2009.
+
+Second, while the Hermannsh=C3=B6hle is the star of the show and the
+most complete wine year after year, it really is a mistake to
+skip the other two vineyards. For the sake of balance, diversity,
+for the sake of terroir people, we highly recommend the
+three-pack purchase.=20
+
+This gets you a discount and it gets you one bottle of each of
+the Grand Crus. That's good.
+
+As I stated last year, the Dellchen is my personal favorite - in
+2009 the wine was absolutely blazing - fiercely mineral. It's
+interesting to note that Gilman gives the Dellchen special praise
+in 2010. The rise of a new star? We'll see...
+
+This is it people - D=C3=B6nnhoff 2010. Unlikely to come around
+again... To order, reply to this email or call the store at (212)
+980-9463. Keep in mind you may not hear from us until Monday.
+
+
+Stephen Bitterolf
+Wine Director
+Crush Wine & Spirits
+
+-----------------------------------------------------------------
+
+
+2010 D=C3=B6nnhoff Grosses Gew=C3=A4chs
+-----------------------------------------------------------------
+2010 D=C3=B6nnhoff Mixed Grosses Gew=C3=A4chs Three-Pack
+Special Futures Price: $174.97
+1 x 2010 Dellchen GG @ $57.99
+1 x 2010 Felst=C3=BCrmchen GG @ $56.99
+1 x 2010 Hermannsh=C3=B6hle GG @ $59.99 =20
+
+2010 D=C3=B6nnhoff Dellchen Grosses Gew=C3=A4chs (Grand Cru Dry)
+Special Futures Price: $59.95
+Preference given to balanced orders including all of the Grosses
+Gewachs!
+John Gilman, View from the Cellar: "The 2010 Dellchen Grosses
+Gew=C3=A4chs is very refined and elegant this year, with the usual
+power of this vineyard coming across as brilliant intensity of
+flavor. The bouquet is deep and very classy, as it jumps from the
+glass in a blaze of tart orange, lime, grapefruit, petrol,
+crystalline minerality and orange zest. On the palate the wine is
+deep, full-bodied and beautifully complex, with fine mid-palate
+depth, excellent focus and balance and a very, very long, tensile
+finish. This will be an extremely long-lived Dellchen Grosses
+Gew=C3=A4chs."
+
+
+2010 D=C3=B6nnhoff Felsenberg "Felsent=C3=BCrmchen" GG (Grand Cru Dry)
+Special Futures Price: $58.95
+Preference given to balanced orders including all of the Grosses
+Gewachs!
+John Gilman, View from the Cellar: "The 2010 Felsenberg Grosses
+Gew=C3=A4chs bottling all hails from the T=C3=BCrmchen section of the
+vineyard and is excellent in this vintage. The superb bouquet
+offers up scents of white cherries, sweet grapefruit, very
+complex stoniness, petrol, citrus peel and a distinctly smoky
+topnote. On the palate the wine is deep, full-bodied and utterly
+seamless, with a rock solid core of fruit, great focus and cut,
+lovely balance and excellent grip on the long and tensile finish.
+In comparison to the Felsenberg Trocken, here the snappy acids
+are even better integrated into the body of the wine and even
+more completely buffered by dry extract. A very impressive
+bottle."
+
+
+2010 D=C3=B6nnhoff Hermannsh=C3=B6hle GG (Grand Cru Dry)
+Special Futures Price: $62.95
+John Gilman, View from the Cellar: "In 2010, the Hermannsh=C3=B6hle
+Grosses Gew=C3=A4chs is the top dry Riesling in the cellar, but it is
+a very close race between this and the stunning Dellchen. The
+deep and beautifully complex bouquet on the Hermannsh=C3=B6hle
+delivers scents of pink grapefruit, lemon peel, wild yeasts,
+incipient notes of petrol and a stunningly complex base of
+minerality. On the palate the wine is full-bodied, tight and
+tensile, with a rock solid core of fruit, laser-like focus and
+great length and grip on the very mineral-driven finish. All
+three of the Grosses Gew=C3=A4chs bottlings in the D=C3=B6nnhoff cellars
+this year show beautiful acid integration, as the snappy acids
+are seamlessly woven into the body of the wine without losing any
+cut or precision on the backend. This is no small feat in 2010!"
+
+
+2010 D=C3=B6nnhoff GGs are released, by law, after September 1=20
+Expected arrival: Fall 2011
+Net / No Further Discounts
+
+We sent this email to =
+wineflashapp@gmail.com.=
+
+If you no longer wish to hear from us, click the link below to
+instantly unsubscribe:
+http://crushwinespirits.cmail2.com=
+/t/r/u/jhldjlk/=
+=
+pcdjykf=
+/y/
+
+Thanks,
+Stephen Bitterolf, Crush Wine & Spirits=
+
+
+
+
+
+
+
+
+--_=aspNetEmail=_311072b9648143b2aca2b6e49a59396f
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crush Wine &amp; Spirits</title>
+</head>
+<body style=3D"font-family:Verdana;font-size:12px;" >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Verdana;" >
+        <tr>
+            <td align=3D"center">
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-width:1px;border-style:solid;border-color:#7072B3;border-=
+bottom-style:none;" >
+                    <tr>
+                        <td align=3D"left" valign=3D"bottom">
+                            <img src=3D"http=
+://i9.=
+cmail2.com=
+/ti/r/62/632/386//header.jpg" width=3D"655" height=3D=
+"189" alt=3D"Crush Wine &amp; Spirits - the truth is in the bottle" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"655" border=3D"0" cellspacing=
+=3D"16" cellpadding=3D"0" style=3D"font-family:Verdana;" >
+                                <tr>
+                                    <td width=3D"655" align=3D"left">
+                                        <h3 style=3D"color:#7072B3;margin=
+-bottom:4px;margin-top:0px;font-size:12px;" >
+                                            June 18, 2011</h3>
+                                        <h1 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:bold;" >
+                                            Grand Cru Dry Wines of Helmut=
+ D=C3=B6nnhoff</h1>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:normal;" >
+                                            2010 D=C3=B6nnhoff "Grosses G=
+ew=C3=A4chs"<br>
+Hermannsh=C3=B6hle - Felsent=C3=BCrmchen - Dellchen</h2>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:14pt;font-weight:normal;" >
+                                            <b>Special German "Futures" P=
+ricing</b></h2>
+                                        <p style=3D"font-size:14pt;" >
+                                            <i>"This is a very, very stro=
+ng vintage for this consistently excellent estate." - John Gilman, View f=
+rom the Cellar</i></p>
+                                        <span style=3D"font-size:12px;" >=
+<p>D&ouml;nnhoff is the elder statesman of the Nahe;<strong> he is also o=
+ne of Germany's greatest winemakers.</strong> In all honestly, I'm sort o=
+f surprised Gilman only used two &quot;verys&quot; in describing the stre=
+ngth of his 2010ers.</p>
+<p>D&ouml;nnhoff's Rieslings are, year in and year out, some of the most =
+inspiring Rieslings made in Germany; <strong>the style is deep, fruit for=
+ward yet sparkling in clarity and purity.</strong> This is a term that's =
+way overused, but the wines are <em>flawless.</em> They are seductive and=
+ feminine and meditative yet also mineral and rigorous.</p>
+<p>How's this for a line? <strong>D&ouml;nnhoff's wines always have every=
+thing.</strong> That's about it... but that's <em>a lot.</em></p>
+<table border=3D"0" align=3D"right" style=3D"margin-right:10px;margin-bot=
+tom:5px;" >
+    <tbody>
+        <tr>
+            <td><img alt=3D"" src=3D"http://www.crushwineco.com/images/ho=
+mepage/5056_400.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Today <span style=3D"font-weight:bold;" >we're</span><strong> thrilled=
+ to offer out D&ouml;nnhoff's three &quot;Grand Cru&quot; dry Rieslings,<=
+/strong> the &quot;Grosses Gew&auml;chs&quot; as they are called in Germa=
+n. The pricing is as lean as you've come to expect from our futures prici=
+ng.</p>
+<p>As I've written before, <strong>2010 in Germany is an extreme vintage<=
+/strong> - record high ripeness levels matched to record high acidities, =
+meaning these wines have everything and you can taste it. (I'm sorry, I'm=
+ still working on the vintage report... it's been a busy week!)</p>
+<p><strong>D&ouml;nnhoff's wines have a huge reputation, so I'll keep it =
+short today.</strong> It's a Saturday after all. But a few things are wor=
+th considering...</p>
+<p>First, this is a very short vintage, with quantities dramatically down=
+. For the moment, <strong>our 2010 allocation is about half of what we re=
+ceived in 2009.</strong></p>
+<p>Second, while the Hermannsh&ouml;hle is the star of the show and the m=
+ost <em>complete</em> wine year after year, it really is a mistake to ski=
+p the other two vineyards. For the sake of balance, diversity, for the sa=
+ke of <em>terroir</em> people, <strong>we highly recommend the three-pack=
+ purchase. </strong></p>
+<p>This gets you a discount <em>and</em> it gets you one bottle of each o=
+f the Grand Crus. <em>That's good.</em></p>
+<p>As I stated last year, <strong>the Dellchen is my personal favorite</s=
+trong> - in 2009 the wine was absolutely blazing - fiercely mineral. It's=
+ interesting to note that Gilman gives the Dellchen special praise in 201=
+0. The rise of a new star? We'll see...</p>
+<p>This is it people - D&ouml;nnhoff 2010. Unlikely to come around again.=
+.. <strong>To order, reply to this email or call the store at (212) 980-9=
+463.</strong><span style=3D"font-style:italic;" > Keep in mind you may no=
+t hear from us until Monday.<br />
+</span></p>
+<p>Stephen Bitterolf<br />
+Wine Director<br />
+Crush Wine &amp; Spirits</p>
+<h2 style=3D"color:#7072B3;font-size:13px;font-weight:bold;margin-bottom:=
+5px;" >
+                                                    <a name=3D"75FCD12C81=
+D86C00"></a><font size=3D5>2010 D&ouml;nnhoff Grosses Gew&auml;chs</font =
+size></h2>
+                                                <p><strong><font size=3D"=
+3">2010 D&ouml;nnhoff Mixed Grosses Gew&auml;chs Three-Pack</font></stron=
+g><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $17=
+4.97</span></strong></font><br />
+<strong>1 x 2010 Dellchen GG @ $57.99<br />
+1 x 2010 Felst&uuml;rmchen GG @ $56.99<br />
+1 x 2010 Hermannsh&ouml;hle GG @ $59.99  </strong></p>
+<p><strong><font size=3D"3">2010 D&ouml;nnhoff Dellchen Grosses Gew&auml;=
+chs (Grand Cru Dry)</font></strong><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $59=
+.95</span></strong></font><br />
+<strong><em>Preference given to balanced orders including all of the Gros=
+ses Gewachs!<br />
+</em></strong><em>John Gilman, View from the Cellar: &quot;The 2010 Dellc=
+hen Grosses Gew&auml;chs is very refined and elegant this year, with the =
+usual power of this vineyard coming across as brilliant intensity of flav=
+or. The bouquet is deep and very classy, as it jumps from the glass in a =
+blaze of tart orange, lime, grapefruit, petrol, crystalline minerality an=
+d orange zest. On the palate the wine is deep, full-bodied and beautifull=
+y complex, with fine mid-palate depth, excellent focus and balance and a =
+very, very long, tensile finish. This will be an extremely long-lived Del=
+lchen Grosses Gew&auml;chs.&quot;<br />
+</em></p>
+<p><strong><font size=3D"3">2010 D&ouml;nnhoff Felsenberg </font></strong=
+><strong><font size=3D"3">&quot;Felsent&uuml;rmchen&quot; </font></strong=
+><strong><font size=3D"3">GG (Grand Cru Dry)</font></strong><font size=3D=
+"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $58=
+.95</span></strong></font><br />
+<strong><em>Preference given to balanced orders including all of the Gros=
+ses Gewachs!<br />
+</em></strong><em>John Gilman, View from the Cellar: &quot;The 2010 Felse=
+nberg Grosses Gew&auml;chs bottling all hails from the T&uuml;rmchen sect=
+ion of the vineyard and is excellent in this vintage. The superb bouquet =
+offers up scents of white cherries, sweet grapefruit, very complex stonin=
+ess, petrol, citrus peel and a distinctly smoky topnote. On the palate th=
+e wine is deep, full-bodied and utterly seamless, with a rock solid core =
+of fruit, great focus and cut, lovely balance and excellent grip on the l=
+ong and tensile finish. In comparison to the Felsenberg Trocken, here the=
+ snappy acids are even better integrated into the body of the wine and ev=
+en more completely buffered by dry extract. A very impressive bottle.&quo=
+t;</em><em><br />
+</em></p>
+<p><strong><font size=3D"3">2010 D&ouml;nnhoff Hermannsh&ouml;hle GG (Gra=
+nd Cru Dry)</font></strong><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $62=
+.95</span></strong></font><br />
+<em>John Gilman, View from the Cellar: &quot;In 2010, the Hermannsh&ouml;=
+hle Grosses Gew&auml;chs is the top dry Riesling in the cellar, but it is=
+ a very close race between this and the stunning Dellchen. The deep and b=
+eautifully complex bouquet on the Hermannsh&ouml;hle delivers scents of p=
+ink grapefruit, lemon peel, wild yeasts, incipient notes of petrol and a =
+stunningly complex base of minerality. On the palate the wine is full-bod=
+ied, tight and tensile, with a rock solid core of fruit, laser-like focus=
+ and great length and grip on the very mineral-driven finish. All three o=
+f the Grosses Gew&auml;chs bottlings in the D&ouml;nnhoff cellars this ye=
+ar show beautiful acid integration, as the snappy acids are seamlessly wo=
+ven into the body of the wine without losing any cut or precision on the =
+backend. This is no small feat in 2010!&quot;<br />
+</em></p>
+<p><strong>2010 D&ouml;nnhoff GGs are released, by law, after September 1=
+ <br />
+Expected arrival: Fall 2011<br />
+Net / No Further Discounts</strong></p>
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A=
+;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"128">
+                                                    <img src=3D"=
+http=
+://i10.cmail2.com=
+/ti/r/62/632/386//crushlogo=
+small.jpg" alt=3D"Crush Wine & Spirits" width=3D"128" height=3D"82" />
+                                                </td>
+                                                <td width=3D"20">
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"475" valign=3D=
+"top" align=3D"left">
+                                                    We are here to serve =
+you. We want to customize our email correspondence to best
+                                                    fit your needs, by co=
+mmunicating with you as often as you prefer. If at any time
+                                                    you would like to cha=
+nge the frequency of emails from us or unsubscribe from this
+                                                    list please
+                                                    <a href=3D"http://cru=
+shwinespirits.cmail2.com=
+/t/r/u/jhldjlk/=
+=
+pcdjykf=
+/">Click Here</a>
+                                                    .
+                                                    <br />
+                                                    <br />
+                                                    *All wines in this of=
+fering available subject to remaining unsold<br />
+                                                    **All email offers va=
+lid for one week unless otherwise noted<br />
+                                                    ***Crush not responsi=
+ble for typographical errors
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"10" cellpadding=3D"0" style=3D"color:#8A8A8=
+A;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"201">
+                                                    <b>Shipping / Deliver=
+y Fine Print</b><br />
+                                                    <br />
+                                                    1. Availability of al=
+l wine pending phone or email confirmation.<br />
+                                                    2. We are pleased to =
+offer free local delivery with purchases of $50 or more. There
+                                                    is a $150 minimum for=
+ free delivery to non-local Manhattan locations and a $200
+                                                    minimum for free deli=
+very to Brooklyn, Queens, and the Bronx. Orders not meeting
+                                                    the minimum are subje=
+ct to a delivery charge. Please note that delivery minimums
+                                                    are subject to change=
+ during Crush sale events.<br />
+                                                    3. Deliveries within =
+Manhattan will be made the next business day if your order
+                                                    is placed by 2pm. We =
+will make our best efforts to deliver all "Neighborhood" deliveries
+                                                    on the same day. Deli=
+very to Westchester, the Hamptons etc. is periodic - please
+                                                    call for our regular =
+schedule.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    4. If wine is shipped=
+ to you, we contract with a 3rd party carrier who will ship
+                                                    wine that you have al=
+ready purchased. Ownership of any Wine that Crush sells changes
+                                                    hands at the time of =
+purchase in the state of New York and is subject to sales tax
+                                                    in this state. By req=
+uesting that your wine be shipped to you, you are authorizing
+                                                    us to engage a common=
+ carrier to deliver your wine on your behalf. Crush Wine &
+                                                    Spirits is not respon=
+sible for any breakage or damage of wine by said common carrier.
+                                                    WE MAKE NO REPRESENTA=
+TION TO THE LEGAL RIGHTS OF ANYONE TO SHIP OR IMPORT WINES
+                                                    INTO ANY STATES OUTSI=
+DE OF NEW YORK. You, the buyer, are solely responsible for
+                                                    shipment of alcoholic=
+ beverage products and assume all obligations for compliance
+                                                    with your State's law=
+s.
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    5. We do not profit o=
+n shipping. All shipping charges cover styrofoam shippers,
+                                                    3rd party carrier cha=
+rges, and nominal labor to pack and deliver your wine for shipment
+                                                    to the 3rd party carr=
+ier.<br />
+                                                    6. Alcoholic beverage=
+s may be sold and delivered only to persons who are at least
+                                                    21 years old. In plac=
+ing your order, you represent to us that you are at least 21
+                                                    years old and that th=
+e person to whom the delivery will be made is at least 21 years
+                                                    old.
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Verdana;border-width:1px;border-style:solid;border-c=
+olor:#7072B3;border-top-style:none;" >
+                    <tr>
+                        <td style=3D"background-color:#BEBD86;height:19px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=3D"background-color:#7072B3;height:11px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://cmail2.com=
+/t/r/o/jhldjlk/=
+=
+pcdjykf=
+/o.gif"  width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;" ></body>
+</html>=
+
+
+
+
+--_=aspNetEmail=_311072b9648143b2aca2b6e49a59396f--

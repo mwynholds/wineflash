@@ -1,5 +1,9 @@
 class Parser::WTSOParser < Parser::Base
 
+  def source
+    'WTSO'
+  end
+
   def self.supports?(mime)
     mime.from[0] == 'wines@wtso.com'
   end
@@ -8,9 +12,12 @@ class Parser::WTSOParser < Parser::Base
     ! @dom.xpath("//td[text() = 'Appellation:']").empty?
   end
 
-  def source
-    'WTSO'
+  def deals
+    [ Deal.new(:wine => wine, :country => country, :vintage => vintage,
+               :varietal => varietal, :size => size, :price => price) ]
   end
+
+  private
 
   def wine
     @mime.subject

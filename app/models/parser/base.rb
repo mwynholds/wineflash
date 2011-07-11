@@ -2,8 +2,10 @@ class Parser::Base
 
   @@parsers = []
   @@countries = {}
+  @@wines = {}
 
   cattr_accessor :parsers
+  cattr_writer :wines
 
   def self.inherited(subclass)
     @@parsers << subclass
@@ -29,12 +31,17 @@ class Parser::Base
   def initialize(mime)
     @mime = mime
 
-    html = mime.body.parts.find { |part| part.content_type == 'text/html' }.body.to_s
+    html = html_part
     unless html =~ /^<html>/
       html = "<html>#{html}</html>"
     end
 
     @dom = Nokogiri::HTML html
+    @dom.encoding = 'UTF-8'
+  end
+
+  def html_part
+    @mime.html_part.body.to_s.force_encoding 'UTF-8'
   end
 
   def normalize_size(str)
@@ -49,7 +56,7 @@ class Parser::Base
     return nil if str.nil?
     str.sub(/\$/, '').to_d
   end
-  
+
   def normalize_country(str)
     str = text(str) if str.is_a? Nokogiri::XML::NodeSet
     return nil if str.nil?
@@ -61,4 +68,26 @@ class Parser::Base
     nodeset[0].text().strip
   end
 
+  def apply_keywords(deal, *strings)
+    strings.compact.each do |str|
+      s = str.downcase
+      @@wines.each do |keyword, attrs|
+        deal.apply attrs if s =~ /#{keyword.downcase}/
+      end
+    end
+  end
+
+end
+
+class Nokogiri::XML::NodeSet
+  def val
+    return nil if empty?
+    self[0].val
+  end
+end
+
+class Nokogiri::XML::Node
+  def val
+    content().strip
+  end
 end

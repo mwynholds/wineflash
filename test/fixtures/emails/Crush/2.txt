@@ -1,0 +1,678 @@
+Delivered-To: wineflashapp@gmail.com
+Received: by 10.143.27.11 with SMTP id e11cs152168wfj;
+        Wed, 6 Jul 2011 09:36:15 -0700 (PDT)
+Received: by 10.229.134.199 with SMTP id k7mr6572182qct.171.1309970174951;
+        Wed, 06 Jul 2011 09:36:14 -0700 (PDT)
+Return-Path: <StephenBitterolfCrushWineSpirits-jhujihk1pcdjykf1r@cmail1.com>
+Received: from mo112.createsend.com (mo112.createsend.com [206.72.127.112])
+        by mx.google.com with ESMTP id s6si10272577qcn.11.2011.07.06.09.36.14;
+        Wed, 06 Jul 2011 09:36:14 -0700 (PDT)
+Received-SPF: pass (google.com: domain of StephenBitterolfCrushWineSpirits-jhujihk1pcdjykf1r@cmail1.com designates 206.72.127.112 as permitted sender) client-ip=206.72.127.112;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of StephenBitterolfCrushWineSpirits-jhujihk1pcdjykf1r@cmail1.com designates 206.72.127.112 as permitted sender) smtp.mail=StephenBitterolfCrushWineSpirits-jhujihk1pcdjykf1r@cmail1.com; dkim=pass (test mode) header.i=offers@crushwineco.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=crushwineco.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers@crushwineco.com;
+ bh=zfMptFUKemHB2cpMmw4RM0JPj5U=;
+ b=DNjYA3SwONJh3pLpC0IOpK47Z2veIIPaVvnLCnEWpF1yo+sXJtxT10XJjTequbuUCUriMqNmwfZn
+   ZyKNZAn5gMaZsFzef8cb+JUXKotadtssSETMhP9zqOxSLNeMwVll
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=crushwineco.com;
+ b=DWRFTrlUZoumu1Ne2P9vydvRXo1AA0Ez3YW/tidKk/JcHFYCgNKAGxCFkF+nDUMjiGXmCWe6cNvP
+   aUbvWhJZFQBE4Sw3EWMbx9j/6hbQ9vvWTemk8V5WZtyrKtLigMv4;
+Received: by mo112.createsend.com (PowerMTA(TM) v3.5r15) id h2i7fs0vne0j for <wineflashapp@gmail.com>; Thu, 7 Jul 2011 02:35:42 +1000 (envelope-from <StephenBitterolfCrushWineSpirits-jhujihk1pcdjykf1r@cmail1.com>)
+From: "Stephen Bitterolf, Crush Wine & Spirits" <offers@crushwineco.com> 
+To: "wineflashapp@gmail.com" <wineflashapp@gmail.com>
+Reply-To: offers@crushwineco.com
+Date: Thu, 07 Jul 2011 02:35:02 +1000
+Subject: =?utf-8?Q?2010_D=c3=b6nnhoff:_Kabinett_to_Spatlesen_and_Beyond?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_7ea70e9e8a2342c39afb784a5631878f"
+X-Mailer: cmail1.com
+X-Complaints-To: abuse@cmail1.com
+List-Unsubscribe: <http://unsub.cmail1.com/t/r/u/jhujihk/pcdjykf/>
+Received: from [72.43.111.114] by cmail1.com via HTTP; Thu, 07 Jul 2011
+ 02:35:02 +1000
+Message-ID: <cm.023502.jhujihk.pcdjykf.r@cmail1.com>
+
+--_=aspNetEmail=_7ea70e9e8a2342c39afb784a5631878f
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+-----------------------------------------------------------------
+2010 D=C3=96NNHOFF: KABINETT TO SPATLESEN AND BEYOND
+-----------------------------------------------------------------
+2010 D=C3=B6nnhoff
+-----------------------------------------------------------------
+Kabinett to Sp=C3=A4tlesen and Beyond...
+-----------------------------------------------------------------
+Special "German Futures" Pricing
+-----------------------------------------------------------------
+"This is a very, very strong  vintage for this consistently
+excellent estate." - John Gilman, View from the Cellar
+-----------------------------------------------------------------
+
+While there is already a lot of chatter about the obvious
+challenges the 2010 German vintage presented, the fanatics who
+skip this vintage are going to be very disappointed in years to
+come.
+
+The 2010 Germans are extreme - record high ripeness levels
+matched to record high acidities. In many cases, this is a very
+good thing.
+
+Today we present a strong case in point with the Rieslings of one
+of Germany's greatest estates: D=C3=B6nnhoff.
+
+Helmut D=C3=B6nnhoff himself compares his 2010ers with his wines from
+1998, 2001 and 2004. If you've had any of these wines then go
+ahead and read into this comment all the praise it implies. All
+three of these vintages were higher-acid years that produced
+wines of verve and really mind-bending purity. These are great
+D=C3=B6nnhoff vintages.
+
+Only time will tell with the 2010ers but John Gilman from the
+View from the Cellar penned some glowing reviews - all presented
+below.
+
+Balance was key in 2010 and few thread this needle better than
+Mr. Helmut D=C3=B6nnhoff. Year in and year out, the style at D=C3=B6nnhof=
+f
+is one of fruit that is glowing, somehow both plush and ethereal
+and always styled into something super, super fine by an acidity
+that can be described as downright Baroque.=20
+
+As profound and stupefying as these wines can be (it's my sense
+that more Riesling fanatics have had their "I see God!"
+experience with a bottle of D=C3=B6nnhoff than with any other
+producer) the truth is that these bottles are also just downright
+delicious. They are a pleasure to drink; they are fun and joyous
+and, almost incidentally, they happen to be great.              =20
+                   =20
+
+A few notes on the wines below. The Leistenberg Kabinett is
+always superb and we've done our best to keep the pricing as
+sharp as possible, even despite the strength of the Euro and the
+lower quantities available. For $23, this wine is slamming.
+
+The Sp=C3=A4tlesen are perhaps the focal point of most U.S. consumers
+- which to my palate isn't in the least bit illogical. The
+Hermannsh=C3=B6hle Sp=C3=A4tlese is one of those special, special bottles=
+,
+every year and the Brucke is somehow both muscular and finessed.
+
+That said, in 2010 I think someone has to make a plea for the
+greatness of Auslesen. The greatest 2010 Auslesen I've tasted
+have been absolutely mind-freak wines, Rieslings gone insane (in
+a good way) with so much extreme tension, so much breadth and
+power and electricity.
+
+I simply have never tasted wines like this. It is impossible to
+describe the experience - so buy one and taste for yourself!
+(Though for those of you who want some notes, again, Gilman's are
+below and he gives the Auslesen the heaviest praise and greatest
+marks.) As he does every year, D=C3=B6nnhoff bottles the majority of
+his Auslesen in half-bottle which makes not only the perfect
+format for the intensity of the wines, but it also makes them
+reasonable purchases. $40 for one of Germany's greatest sweet
+wines? How much is Yquem these days?
+
+Take a look at the list below and give us your maximum order as
+soon as you can. Quantities are quite limited.
+
+To order, please reply to this email or call the store at (212)
+980-9463.
+
+Stephen Bitterolf
+Wine Director
+Crush Wine & Spirits
+
+-----------------------------------------------------------------
+
+
+2010 D=C3=B6nnhoff
+-----------------------------------------------------------------
+2010 D=C3=B6nnhoff Oberh=C3=A4user Leistenberg Kabinett
+Special Futures Price: $22.95
+John Gilman, View from the Cellar: "The 2010 Leistenberg Kabinett
+is also a very successful example of the vintage, with a very
+pronounced, citric profile that is most appealing on both the
+nose and palate. The bouquet offers up a classy me=CC=81lange of
+orange, pink grapefruit, slate, petrol, orange blossoms and a
+beautifully crystalline expression of minerality. On the palate
+the wine is medium-full, deep and very tangy, with a lovely core,
+zesty acidity and excellent length and grip on the complex
+finish. Very classy wine."
+
+
+2010 D=C3=B6nnhoff Norheimer Kirschheck Sp=C3=A4tlese
+Special Futures Price: $35.95
+John Gilman, View from the Cellar: "The 2010 Kirschheck Spa=CC=88tlese
+from Helmut Do=CC=88nnhoff is a very successful example of the
+vintage. The complex and vibrant nose offers up a mix of white
+cherries, apples, bee pollen, a touch of sweet grapefruit,
+incipient notes of petrol and a lovely base of crystalline
+minerality. On the palate the wine is deep, fullish and very pure
+on the attack, with snappy acids, lovely focus and impressive
+length and grip on the soil-driven finish. Stylistically, this is
+a bit more powerful than most vintages of Kirschheck Spa=CC=88tlese,
+but is a lovely bottle in the making."
+
+
+2010 D=C3=B6nnhoff Niederh=C3=A4user Hermannsh=C3=B6hle Sp=C3=A4tlese
+Special Futures Price: $51.95
+John Gilman, View from the Cellar: "The 2010 Hermannsho=CC=88hle
+Spa=CC=88tlese is another very beautiful example of the vintage. The
+wine today offers up a stunning, crystalline expression of its
+slate minerality on both the nose and palate, to go along with a
+superb aromatic mix of sweet grapefruit, orange peel, incipient
+notes of petrol and a topnote of orange zest. On the palate the
+wine is deep, full-bodied and very pure on the attack, with a
+kaleidoscopic base of minerality, snappy acids and a very long,
+focused and electric finish. This wine is beautifully light on
+its feet and so intensely flavored that it is almost painful to
+taste today in its youth. It is a beautiful bottle of Spa=CC=88tlese
+that seems likely to be a stylistic mix of the 2001 and 2004."
+
+
+2010 D=C3=B6nnhoff Oberh=C3=A4user Br=C3=BCcke Sp=C3=A4tlese
+Special Futures Price: $45.95
+John Gilman, View from the Cellar: "The 2010 Oberha=CC=88user Bru=CC=88ck=
+e
+Spa=CC=88tlese is a beautifully filigreed bottle that really shows off
+this great terroir. The bouquet is deep, precise and vibrant, as
+it soars from the glass in a me=CC=81lange of blood orange, pink
+grapefruit, glorious minerality, citrus zest and a gentle topnote
+of honeycomb. On the palate the wine is medium-full, tight and
+racy, with lovely filigree, fine mid-palate depth, bright acids
+and superb length and grip on the nascently complex finish. As
+this wine has a pretty serious girdle of acidity at the present
+time, it is entirely possible that it will prove to be even
+better than my initial note."
+
+
+2010 D=C3=B6nnhoff Hermannsh=C3=B6hle Auslese Gold-Kapsule (375ml)
+Special Futures Price: $42.95
+John Gilman, View from the Cellar: "The 2010 Hermannsh=C3=B6hle
+Auslese is also brilliant in this vintage and one of the true
+superstars to be found at this Pr=C3=A4dikat level in the Nahe this
+year. The hauntingly beautiful bouquet offers up a blazing blend
+of blood orange, pink grapefruit, oranges, glorious minerality, a
+touch of petrol, irises and orange blossoms in the upper
+register. On the palate the wine is medium-full, deep and very
+intensely flavored, with great focus, ripe, snappy acids,
+impeccable balance and a very, very, very long and racy finish.
+Just a brilliant bottle of Auslese in the making!"
+
+
+2010 D=C3=B6nnhoff Br=C3=BCcke Auslese Gold-Kapsule (375ml)
+Special Futures Price: $39.95
+John Gilman, View from the Cellar: "The 2010 Oberh=C3=A4user Br=C3=BCcke
+Auslese is a really stunning wine in the making. The wine simply
+soars from the glass in a superb aromatic m=C3=A9lange of apples,
+oranges, a touch of petrol, striking minerality, honeycomb,
+orange zest and citrus flowers. On the palate the wine is deep,
+fullish and wonderfully filigreed, with a great core of fruit,
+snappy acids, great focus and balance and stunning grip on the
+very long, dancing finish. I love the interplay of soil, glazed
+fruit and acids that are on display in this beautiful vintage of
+Br=C3=BCcke Auslese."
+
+
+All 2010 D=C3=B6nnhoff are pre-arrival
+Net / No further discount
+
+
+
+We sent this email to =
+wineflashapp@gmail.com.=
+
+If you no longer wish to hear from us, click the link below to
+instantly unsubscribe:
+http://crushwinespirits.createsend1.com=
+/t/r/u/jhujihk/=
+=
+pcdjykf=
+/t/
+
+Thanks,
+Stephen Bitterolf, Crush Wine & Spirits=
+
+
+
+
+
+
+
+
+--_=aspNetEmail=_7ea70e9e8a2342c39afb784a5631878f
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crush Wine &amp; Spirits</title>
+</head>
+<body style=3D"font-family:Verdana;font-size:12px;" >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Verdana;" >
+        <tr>
+            <td align=3D"center">
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-width:1px;border-style:solid;border-color:#7072B3;border-=
+bottom-style:none;" >
+                    <tr>
+                        <td align=3D"left" valign=3D"bottom">
+                            <img src=3D"https=
+://i3.=
+createsend1.com=
+/ti/r/0A/E5F/091/032203/tuesday%20-%20update%20for%2=
+0no%20sidebar%20template/images/header.jpg" width=3D"655" height=3D"189" =
+alt=3D"Crush Wine &amp; Spirits - the truth is in the bottle" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"655" border=3D"0" cellspacing=
+=3D"16" cellpadding=3D"0" style=3D"font-family:Verdana;" >
+                                <tr>
+                                    <td width=3D"655" align=3D"left">
+                                        <h3 style=3D"color:#7072B3;margin=
+-bottom:4px;margin-top:0px;font-size:12px;" >
+                                            July 6, 2011</h3>
+                                        <h1 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:bold;" >
+                                            2010 D=C3=B6nnhoff</h1>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:normal;" >
+                                            Kabinett to Sp=C3=A4tlesen an=
+d Beyond...</h2>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:14pt;font-weight:normal;" >
+                                            <b>Special "German Futures" P=
+ricing</b></h2>
+                                        <p style=3D"font-size:14pt;" >
+                                            "This is a very, very strong =
+ vintage for this consistently excellent estate." - <i>John Gilman, View =
+from the Cellar</i></p>
+                                        <span style=3D"font-size:12px;" >=
+<p>While there is already a lot of chatter about the obvious challenges t=
+he 2010 German vintage presented, the fanatics who skip this vintage are =
+going to be <em>very</em> disappointed in years to come.</p>
+<p><span style=3D"font-weight:bold;" >T</span><strong>he 2010 Germans are=
+ <em>extreme</em> - </strong>record high ripeness levels matched to recor=
+d high acidities. In many cases, this is a <em>very</em> good thing.</p>
+<p>Today we present a strong case in point with the Rieslings of one of G=
+ermany's greatest estates: D&ouml;nnhoff.</p>
+<p><strong>Helmut D&ouml;nnhoff himself compares his 2010ers with his win=
+es from 1998, 2001 and 2004.</strong> If you've had any of these wines th=
+en go ahead and read into this comment all the praise it implies. All thr=
+ee of these vintages were higher-acid years that produced wines of verve =
+and really mind-bending purity. <em>These are great D&ouml;nnhoff vintage=
+s.</em></p>
+<p>Only time will tell with the 2010ers but <strong>John Gilman from the =
+<em>View from the Cellar</em> penned some glowing reviews</strong> - all =
+presented below.</p>
+<p><strong>Balance was <em>key</em> in 2010 and few thread this needle be=
+tter than Mr. Helmut D&ouml;nnhoff.</strong> Year in and year out, the st=
+yle at D&ouml;nnhoff is one of fruit that is glowing, somehow both plush =
+and ethereal and always styled into something super, super fine by an aci=
+dity that can be described as downright Baroque.&nbsp;</p>
+<p>As profound and stupefying as these wines can be (it's my sense that m=
+ore Riesling fanatics have had their &quot;I see God!&quot; experience wi=
+th a bottle of D&ouml;nnhoff than with any other producer) the truth is t=
+hat these bottles are also just downright delicious. <strong>They are a p=
+leasure to drink;</strong> they are fun and joyous and, almost incidental=
+ly, they happen to be <em>great.</em></p>
+<table border=3D"0" align=3D"right" style=3D"margin-left:10px;margin-bott=
+om:5px;" >
+    <tbody>
+        <tr>
+            <td><img alt=3D"" src=3D"http://www.crushwineco.com/images/ma=
+iler/Donnhoff400.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>A few notes on the wines below. <strong>The Leistenberg Kabinett is al=
+ways superb</strong> and we've done our best to keep the pricing as sharp=
+ as possible, even despite the strength of the Euro and the lower quantit=
+ies available. For $23, this wine is <em>slamming.</em></p>
+<p>The <strong>Sp&auml;tlesen are perhaps the focal point of most U.S. co=
+nsumers</strong> - which to my palate isn't in the least bit illogical. T=
+he Hermannsh&ouml;hle Sp&auml;tlese is one of those special, special bott=
+les every year and the Brucke is somehow both muscular <em>and</em> fines=
+sed.</p>
+<p>That said, <u><strong>in 2010 I think someone has to make a plea for t=
+he greatness of Auslesen</strong></u><strong>.</strong> The greatest 2010=
+ Auslesen I've tasted have been absolutely mind-freak wines, Rieslings go=
+ne insane (in a good way) with so much extreme tension, so much breadth a=
+nd power and electricity.</p>
+<p>I simply have never tasted wines like this. It is impossible to descri=
+be the experience - so buy one and taste for yourself! (Though for those =
+of you who want some notes, again, Gilman's are below and he gives the Au=
+slesen the heaviest praise and greatest marks.) As he does every year, D&=
+ouml;nnhoff bottles the majority of his <strong>Auslesen in half-bottle w=
+hich makes not only the perfect format for the intensity of the wines, bu=
+t it also makes them reasonable purchases.</strong> $40 for one of German=
+y's greatest sweet wines? How much is Yquem these days?</p>
+<p>Take a look at the list below and <strong>give us your maximum order a=
+s soon as you can.</strong> <em>Quantities are quite limited.</em></p>
+<p>To order, <strong>please reply to this email or call the store at (212=
+) 980-9463.</strong></p>
+<p>Stephen Bitterolf<br />
+Wine Director<br />
+Crush Wine &amp; Spirits</p>
+<h2 style=3D"color:#7072B3;font-size:13px;font-weight:bold;margin-bottom:=
+5px;" >
+                                                    <a name=3D"A0677AD1A3=
+1C3DD3"></a><div style=3D"text-align:left;font-size:22px;" >2010 D&ouml;n=
+nhoff</div></h2>
+                                                <p><strong><font size=3D"=
+3">2010 D&ouml;nnhoff Oberh&auml;user Leistenberg Kabinett</font></strong=
+><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $22=
+.95</span></strong></font><br />
+<em>John Gilman, View from the Cellar: &quot;The 2010 Leistenberg Kabinet=
+t is also a very successful example of the vintage, with a very pronounce=
+d, citric profile that is most appealing on both the nose and palate. The=
+ bouquet offers up a classy me=CC=81lange of orange, pink grapefruit, sla=
+te, petrol, orange blossoms and a beautifully crystalline expression of m=
+inerality. On the palate the wine is medium-full, deep and very tangy, wi=
+th a lovely core, zesty acidity and excellent length and grip on the comp=
+lex finish. Very classy wine.&quot;<br />
+</em></p>
+<p><strong><font size=3D"3">2010 D&ouml;nnhoff Norheimer Kirschheck Sp&au=
+ml;tlese</font></strong><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $35=
+.95</span></strong></font><br />
+<em>John Gilman, View from the Cellar: &quot;The 2010 Kirschheck Spa=CC=88=
+tlese from Helmut Do=CC=88nnhoff is a very successful example of the vint=
+age. The complex and vibrant nose offers up a mix of white cherries, appl=
+es, bee pollen, a touch of sweet grapefruit, incipient notes of petrol an=
+d a lovely base of crystalline minerality. On the palate the wine is deep=
+, fullish and very pure on the attack, with snappy acids, lovely focus an=
+d impressive length and grip on the soil-driven finish. Stylistically, th=
+is is a bit more powerful than most vintages of Kirschheck Spa=CC=88tlese=
+, but is a lovely bottle in the making.&quot;<br />
+</em></p>
+<p><strong><font size=3D"3">2010 D&ouml;nnhoff Niederh&auml;user Hermanns=
+h&ouml;hle Sp&auml;tlese</font></strong><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $51=
+.95</span></strong></font><br />
+<em>John Gilman, View from the Cellar: &quot;The 2010 Hermannsho=CC=88hle=
+ Spa=CC=88tlese is another very beautiful example of the vintage. The win=
+e today offers up a stunning, crystalline expression of its slate mineral=
+ity on both the nose and palate, to go along with a superb aromatic mix o=
+f sweet grapefruit, orange peel, incipient notes of petrol and a topnote =
+of orange zest. On the palate the wine is deep, full-bodied and very pure=
+ on the attack, with a kaleidoscopic base of minerality, snappy acids and=
+ a very long, focused and electric finish. This wine is beautifully light=
+ on its feet and so intensely flavored that it is almost painful to taste=
+ today in its youth. It is a beautiful bottle of Spa=CC=88tlese that seem=
+s likely to be a stylistic mix of the 2001 and 2004.&quot;<br />
+</em></p>
+<p><strong><font size=3D"3">2010 D&ouml;nnhoff Oberh&auml;user Br&uuml;ck=
+e Sp&auml;tlese</font></strong><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $45=
+.95</span></strong></font><br />
+<em>John Gilman, View from the Cellar: &quot;The 2010 Oberha=CC=88user Br=
+u=CC=88cke Spa=CC=88tlese is a beautifully filigreed bottle that really s=
+hows off this great terroir. The bouquet is deep, precise and vibrant, as=
+ it soars from the glass in a me=CC=81lange of blood orange, pink grapefr=
+uit, glorious minerality, citrus zest and a gentle topnote of honeycomb. =
+On the palate the wine is medium-full, tight and racy, with lovely filigr=
+ee, fine mid-palate depth, bright acids and superb length and grip on the=
+ nascently complex finish. As this wine has a pretty serious girdle of ac=
+idity at the present time, it is entirely possible that it will prove to =
+be even better than my initial note.&quot;</em><em><br />
+</em></p>
+<p><strong><font size=3D"3">2010 D&ouml;nnhoff Hermannsh&ouml;hle Auslese=
+ Gold-Kapsule (375ml)</font></strong><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $42=
+.95</span></strong></font><br />
+<em>John Gilman, View from the Cellar: &quot;The 2010 Hermannsh&ouml;hle =
+Auslese is also brilliant in this vintage and one of the true superstars =
+to be found at this Pr&auml;dikat level in the Nahe this year. The haunti=
+ngly beautiful bouquet offers up a blazing blend of blood orange, pink gr=
+apefruit, oranges, glorious minerality, a touch of petrol, irises and ora=
+nge blossoms in the upper register. On the palate the wine is medium-full=
+, deep and very intensely flavored, with great focus, ripe, snappy acids,=
+ impeccable balance and a very, very, very long and racy finish. Just a b=
+rilliant bottle of Auslese in the making!&quot;<br />
+</em></p>
+<p><strong><font size=3D"3">2010 D&ouml;nnhoff Br&uuml;cke Auslese Gold-K=
+apsule (375ml)</font></strong><font size=3D"3"><br />
+<strong><span style=3D"color:rgb(255, 0, 0);" >Special Futures Price: $39=
+.95</span></strong></font><br />
+<em>John Gilman, View from the Cellar: &quot;The 2010 Oberh&auml;user Br&=
+uuml;cke Auslese is a really stunning wine in the making. The wine simply=
+ soars from the glass in a superb aromatic m&eacute;lange of apples, oran=
+ges, a touch of petrol, striking minerality, honeycomb, orange zest and c=
+itrus flowers. On the palate the wine is deep, fullish and wonderfully fi=
+ligreed, with a great core of fruit, snappy acids, great focus and balanc=
+e and stunning grip on the very long, dancing finish. I love the interpla=
+y of soil, glazed fruit and acids that are on display in this beautiful v=
+intage of Br&uuml;cke Auslese.&quot;<br />
+</em></p>
+<p><strong>All 2010 D&ouml;nnhoff are pre-arrival<br />
+Net / No further discount</strong></p>
+                                        </span>
+                                    </td>
+                                </tr>
+                               <tr>
+                                    <td colspan=3D"3" width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A=
+;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"center" ali=
+gn=3D"left" width=3D"138">
+                                                    <img src=3D"=
+https=
+://i4.createsend1.com=
+/ti/r/0A/E5F/091/032203/tues=
+day%20-%20update%20for%20no%20sidebar%20template/images/crushlogosmall.jp=
+g" alt=3D"Crush Wine & Spirits" width=3D"138" height=3D"102" />
+                                                </td>
+                                                <td width=3D"10">
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"475" valign=3D=
+"top" align=3D"left">
+                                                    <p>We are here to ser=
+ve you. We want to customize our email correspondence to best
+                                                    fit your needs by com=
+municating with you as often as you prefer. If at any time
+                                                    you would like to cha=
+nge the frequency of emails from us or unsubscribe from this
+                                                    list please
+                                                    <a href=3D"http://cru=
+shwinespirits.createsend1.com=
+/t/r/u/jhujihk/=
+=
+pcdjykf=
+/r/">click here</a>.</p>
+                                                    <p>Crush and the Crus=
+h Logo are trademarks and/or service marks of Crush Wine & Spirits Inc.  =
+                                                   and are registered in =
+the United States and may be registered in other jurisdictions           =
+                                                  including international=
+ly. All other trademarks are not owned by Crush Wine & Spirits, Inc.     =
+                                                 and are the property of =
+their respective owners, who may or may not be affiliated with,          =
+                                                connected to, or sponsore=
+d by us. &copy;2007 Crush Wine & Spirits, Inc. New York, NY - All        =
+                                               Rights Reserved.</p>
+                                                    </td>
+                                            </tr>
+                                        </table>
+ <table width=3D"623" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"color:#8A8A8A;line-height:12px;font-size:10px;font-family:Verdana;=
+" >
+                                           <tr>
+                                            <td valign=3D"top" align=3D"l=
+eft" width=3D"623">      =20
+                                                 *All wines in this offer=
+ing available subject to remaining unsold<br />
+                                                 **All email offers valid=
+ for one week unless otherwise noted<br />
+                                                 ***Crush not responsible=
+ for typographical errors. All prices are subject to change without      =
+                                               notice.
+                                            </td>
+                                           </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"10" cellpadding=3D"0" style=3D"color:#8A8A8=
+A;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"201">
+                                                    <b>Shipping / Deliver=
+y Fine Print</b><br />
+                                                    <br />
+                                                    1. Availability of al=
+l wine pending phone or email confirmation.<br />
+                                                    2. We are pleased to =
+offer free local delivery with purchases of $50 or more. There
+                                                    is a $150 minimum for=
+ free delivery to non-local addresses south of 96th street
+                                                    in Manhattan and a $2=
+00 minimum for free delivery to non-local addresses north of
+                                                    96th street in Manhat=
+tan. Maps and guidelines for delivery to Brooklyn, Queens,
+                                                    Staten Island and the=
+ Bronx are outlined <a href=3D"http://crushwinespirits.createsend1.com=
+/t/r/l/jhujihk/=
+pcdjykf=
+/y/">
+                                                        here</a>. Orders =
+not meeting the minimum are subject to a delivery charge. Please
+                                                    note that delivery mi=
+nimums are subject to change during Crush sale events.<br />
+                                                    3. Deliveries within =
+Manhattan will be made the next business day if your order
+                                                    is placed by noon. We=
+ will make our best efforts to deliver all "Neighborhood" deliveries
+                                                    on the same day. Deli=
+very to Westchester, the Hamptons etc. is periodic - please
+                                                    call for our regular =
+schedule.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    4. If wine is shipped=
+ to you, we contract with a 3rd party carrier who will ship
+                                                    wine that you have al=
+ready purchased. Ownership of any Wine that Crush sells changes
+                                                    hands at the time of =
+purchase in the state of New York and is subject to sales tax
+                                                    in this state. By req=
+uesting that your wine be shipped to you, you are authorizing
+                                                    us to engage a common=
+ carrier to deliver your wine on your behalf. Crush Wine &
+                                                    Spirits is not respon=
+sible for any breakage or damage of wine by said common carrier.
+                                                    WE MAKE NO REPRESENTA=
+TION TO THE LEGAL RIGHTS OF ANYONE TO SHIP OR IMPORT WINES
+                                                    INTO ANY STATES OUTSI=
+DE OF NEW YORK. You, the buyer, are solely responsible for
+                                                    shipment of alcoholic=
+ beverage products and assume all obligations for compliance
+                                                    with your State's law=
+s.<br />
+                                                    5. We do not profit o=
+n shipping. All shipping charges cover styrofoam shippers,
+                                                    3rd party carrier cha=
+rges, and nominal labor to pack and deliver your wine for shipment
+                                                    to the 3rd party carr=
+ier.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    6. We do not sell win=
+e we don&rsquo;t own and we guarantee the delivery of all pre-arrival
+                                                    wine; we cannot, howe=
+ver, guarantee the exact arrival date due to shipping circumstances
+                                                    beyond our control.<b=
+r />
+                                                    7. We are happy to ho=
+ld your wine, free of charge, until the appropriate shipping
+                                                    season. To keep our p=
+rices as sharp as possible however, we cannot store customer
+                                                    wine beyond the appro=
+priate shipping season. We therefore reserve the right to charge
+                                                    $10 per month, per ca=
+se, for wine that has not been taken during the first appropriate
+                                                    shipping season. <a h=
+ref=3D"http://crushwinespirits.createsend1.com=
+/t/r/l/jhujihk/=
+pcdjykf=
+/j/">Click here</a>
+                                                    for more.<br />
+                                                    8. Alcoholic beverage=
+s may be sold and delivered only to persons who are at least
+                                                    21 years old. In plac=
+ing your order, you represent to us that you are at least 21
+                                                    years old and that th=
+e person to whom the delivery will be made is at least 21 years
+                                                    old.<br />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Verdana;border-width:1px;border-style:solid;border-c=
+olor:#7072B3;border-top-style:none;" >
+                    <tr>
+                        <td style=3D"background-color:#BEBD86;height:19px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=3D"background-color:#7072B3;height:11px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://createsend1.com=
+/t/r/o/jhujihk/=
+=
+pcdjykf=
+/o.gif"  width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;" ></body>
+</html>=
+
+
+
+
+--_=aspNetEmail=_7ea70e9e8a2342c39afb784a5631878f--

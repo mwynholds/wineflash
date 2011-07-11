@@ -1,0 +1,604 @@
+Delivered-To: wineflashapp@gmail.com
+Received: by 10.142.242.5 with SMTP id p5cs28589wfh;
+        Fri, 17 Jun 2011 10:16:23 -0700 (PDT)
+Received: by 10.151.68.20 with SMTP id v20mr2870214ybk.65.1308330982829;
+        Fri, 17 Jun 2011 10:16:22 -0700 (PDT)
+Return-Path: <IanMcFaddenCrushWineSpirits-jdulhty1pcdjykf1r@cmail4.com>
+Received: from mo113.createsend.com (mo113.createsend.com. [206.72.127.113])
+        by mx.google.com with ESMTP id v20si885082ybm.27.2011.06.17.10.16.22;
+        Fri, 17 Jun 2011 10:16:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of IanMcFaddenCrushWineSpirits-jdulhty1pcdjykf1r@cmail4.com designates 206.72.127.113 as permitted sender) client-ip=206.72.127.113;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of IanMcFaddenCrushWineSpirits-jdulhty1pcdjykf1r@cmail4.com designates 206.72.127.113 as permitted sender) smtp.mail=IanMcFaddenCrushWineSpirits-jdulhty1pcdjykf1r@cmail4.com; dkim=pass (test mode) header.i=offers@crushwineco.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=crushwineco.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers@crushwineco.com;
+ bh=JeX7sKE4TUl1k8hUr/pWU3iH9Pg=;
+ b=a6onQrcMXj6zZETz2yqfH0O9ShgJvN82OIwpSDPaM6FMWlfsoBqCnNXuHjuGA6T5Dg0tpcw7OUMG
+   Ku9tU8fyWaoM6gRIuFlC9aDY2x5l4GNauM0uKizxXujDtR9Ex3O+
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=crushwineco.com;
+ b=IhXWFyVfM0qmeu5Kjz7Ac8gkDK0cGcfolz47QJK3LsGmE5PFN/nTCEile6Ln2uLic93cGgAyDldi
+   Fva+qKNZI7J0VupqMxZcrZLy/0/E/o1D+fNSO3WreHmgNmOoBBte;
+Received: by mo113.createsend.com (PowerMTA(TM) v3.5r15) id hve5uc0vne0h for <wineflashapp@gmail.com>; Sat, 18 Jun 2011 03:15:27 +1000 (envelope-from <IanMcFaddenCrushWineSpirits-jdulhty1pcdjykf1r@cmail4.com>)
+From: "Ian McFadden, Crush Wine & Spirits" <offers@crushwineco.com> 
+To: "wineflashapp@gmail.com" <wineflashapp@gmail.com>
+Reply-To: offers@crushwineco.com
+Date: Sat, 18 Jun 2011 03:15:02 +1000
+Subject: 2006 Sandrone: "Unqualified Successes" - Cannubi Boschis, Le Vigne
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_76eaee3ec04a41e481550aca0a74a7b6"
+X-Mailer: cmail4.com
+X-Complaints-To: abuse@cmail4.com
+List-Unsubscribe: <http://unsub.cmail4.com/t/r/u/jdulhty/pcdjykf/>
+Received: from [72.43.111.114] by cmail4.com via HTTP; Sat, 18 Jun 2011
+ 03:15:02 +1000
+Message-ID: <cm.031502.jdulhty.pcdjykf.r@cmail4.com>
+
+--_=aspNetEmail=_76eaee3ec04a41e481550aca0a74a7b6
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+-----------------------------------------------------------------
+2006 SANDRONE: "UNQUALIFIED SUCCESSES" - CANNUBI BOSCHIS, LE
+VIGNE
+-----------------------------------------------------------------
+"Unqualified Successes"
+-----------------------------------------------------------------
+2006 Sandrone Barolo=20
+Le Vigne and Cannubi Boschis
+-----------------------------------------------------------------
+"Sandrone's 2006 Barolos are among the unqualified successes of
+the 2006 harvest." -Antonio Galloni, Wine Advocate
+-----------------------------------------------------------------
+
+Each vintage, we become more and more impressed with the wines of
+Sandrone.
+
+Few producers are able to weave such purity and energy with such
+textural elegance... and nobody does it at anything close to this
+price. Yes, Giacosa's red labels are among the most seductive
+wines on earth, forget about limiting the discussion to
+Barolo/Barbaresco, but they also hover around $400 a bottle.=20
+
+
+The 2006 Sandrones are among the wines of the vintage - I think
+it's fair to say that Galloni flipped for them, but read the
+reviews for yourself, they're below.
+
+Sandrone has always been a very well respected producer in the
+Piedmont, but in the last 5-10 years they have quite simply moved
+to the next level. The oak has been dialed back and the
+transparency and precision dialed up - few Barolos thread the
+needle so finely, satiny, seductive, curvaceous... yet also
+finessed, energetic.   =20
+
+Galloni calls Sandrone's 06s "focused, driven" in style. These
+are beautiful, beautiful wines.
+
+Today we offer the estate's two 2006 Barolos: Le Vigne and
+Cannubi Boschis. One, the Le Vigne, is a masterpiece of blending,
+the other, Cannubi Boschis, is one of the Piedmont's most
+authoritative vineyards. Both are worth having and for those who
+want to crack them open, side by side on the dinner table, we
+have provided special two-pack pricing. (The two-pack pricing is
+also not a bad idea for those looking to cellar the best of the
+Piedmont.)
+
+It's worth noting that pricing for Sandrone's Barolos does tend
+to consistently go up; very fair U.S. retailers are selling the
+2004 Cannubi Boschis at $200. The 1989 (gulp) is a $500+
+proposition at this point. At $245 all-in for a bottle of Le
+Vigne and Cannubi Boschis, we're happy to highlight the value of
+buying early. =20
+
+The Cannubi Boschis is Sandrone's flagship wine: a single, great
+site in the Barolo commune, known for its synergy of ripeness
+with freshness. In line with that, Galloni calls the 06 Cannubi
+"seductive, round and sweet in its ripe, dark fruit..." He ends
+with an apt mention of "tons of energy and muscle" - requiring
+patience. The Cannubi's aging potential should be outstanding:
+two decades in the cellar, plus some.
+                                   =20
+
+The Le Vigne in this vintage should not be overlooked. This is a
+blend that offers up such a  multifaceted complexity that,
+certainly in 06, it puts the Le Vigne in the same general
+vicinity as the Cannubi. The quality of this bottling in 2006 is
+extraordinary. It's a testament to Sandrone's skills as a blender
+- similar to  the great chef de caves of Champagne or, as another
+example that comes  immediately to mind, Chave in Hermitage.
+
+
+Our Piedmont program has become very selective over the years;
+Giacosa, Conterno, Giuseppe Mascarello. These are our heroes.
+Just too many tart or tannic wines use the famous name of Barolo
+to get on shelves and in cellars... only to disappoint.
+
+Sandrone is earning his place among our holy trinity; in 2006 the
+wines are not to be missed.
+
+To order, please reply to this email or call the store at (212)
+980-9463.
+
+Ian McFadden
+Director, Fine & Rare Wine
+Crush Wine & Spirits
+
+-----------------------------------------------------------------
+
+
+2006 Sandrone Barolo=20
+ Le Vigne and Cannubi Boschis
+-----------------------------------------------------------------
+Special Email 2-Pack Price: $245.90
+1x 2006 Barolo "Le Vigne" @ $111.95
+1x 2006 Barolo Cannubi Boschis @ $133.95
+=20
+
+2006 Barolo "Le Vigne"
+Special Email Bottle Price: $115.95
+Compare at up to $156
+          Antonio Galloni, Wine Advocate: "Sandrone's 2006 Barolo
+Le Vigne possesses awesome balance as intricately woven layers of
+aromas and flavors come together in the glass. The 2006 is an
+especially powerful Le Vigne boasting a solid core of floral, red
+fruits supported by firm yet elegant tannins. This, too, shows
+the considerable drive and focus that is the hallmark of the
+vintage. The wine's overall balance is impeccable. Le Vigne is
+made from parcels in Vignane (Barolo), Conterni and Ceretta
+(Monforte) and Merli (Novello). The wines are aged separately for
+a year in 500-liter barrels. The final blend is assembled, after
+which the wine spends an additional year in oak prior to being
+bottled. Sandrone's 2006 Barolos are among the unqualified
+successes of the 2006 harvest. The wines show more richness and
+density than the 2005s, but less exuberance than the       2007s,
+   in  a focused, driven style I find quite attractive."
+
+2006 Barolo Cannubi Boschis
+Special Email Bottle Price: $139.95=20
+Compare at up to $170
+Antonio Galloni, Wine Advocate: "The 2006 Barolo Cannubi Boschis
+is seductive, round and sweet in its ripe dark fruit. The wine
+continues to gain weight in the glass, showing a level of density
+that nearly manages to cover the tannins. Floral notes add lift
+on the finish. This is a powerful, linear Cannubi Boschis with
+tons of energy and muscle, but it will require quite a bit of
+patience. Sandrone harvests his three parcels in Cannubi Boschis
+separately. Vinification takes place in stainless steel. The
+wines undergo malolactic fermentation and are aged in 500-liter
+barrels (roughly 20% new) for a year. Once the final blend is
+assembled, the wine goes back into oak for another year prior to
+being bottled in the spring. Sandrone is one of the earliest
+producers to bottle, which he does to preserve as much freshness
+as possible."
+
+Wine is pre-arrival
+NET | No further discount=20
+
+
+
+We sent this email to =
+wineflashapp@gmail.com.=
+
+If you no longer wish to hear from us, click the link below to
+instantly unsubscribe:
+http://crushwinespirits.cmail4.com=
+/t/r/u/jdulhty/=
+=
+pcdjykf=
+/r/
+
+Thanks,
+Ian McFadden, Crush Wine & Spirits=
+
+
+
+
+
+
+
+
+--_=aspNetEmail=_76eaee3ec04a41e481550aca0a74a7b6
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crush Wine &amp; Spirits</title>
+</head>
+<body style=3D"font-family:Verdana;font-size:12px;" >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Verdana;" >
+        <tr>
+            <td align=3D"center">
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-width:1px;border-style:solid;border-color:#7072B3;border-=
+bottom-style:none;" >
+                    <tr>
+                        <td align=3D"left" valign=3D"bottom">
+                            <img src=3D"http=
+://i3.=
+cmail4.com=
+/ti/r/62/D01/BE0/020338/images/header.jpg" width=3D"=
+655" height=3D"189" alt=3D"Crush Wine &amp; Spirits - the truth is in the=
+ bottle" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"655" border=3D"0" cellspacing=
+=3D"16" cellpadding=3D"0" style=3D"font-family:Verdana;" >
+                                <tr>
+                                    <td width=3D"655" align=3D"left">
+                                        <h3 style=3D"color:#7072B3;margin=
+-bottom:4px;margin-top:0px;font-size:12px;" >
+                                            June 17, 2011</h3>
+                                        <h1 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:bold;" >
+                                            "Unqualified Successes"</h1>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:normal;" >
+                                            2006 Sandrone Barolo <br>
+ Le Vigne and Cannubi Boschis</h2>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:14pt;font-weight:normal;" >
+                                            </h2>
+                                        <p style=3D"font-size:14pt;" >
+                                            "Sandrone's 2006 Barolos are =
+among the unqualified successes of the 2006 harvest." -<i>Antonio Galloni=
+, Wine Advocate</i></p>
+                                        <span style=3D"font-size:12px;" >=
+<p>Each vintage, we become more and more impressed with the wines of Sand=
+rone.</p>
+<p><span style=3D"font-weight:bold;" >Few</span><strong> producers are ab=
+le to weave such purity and energy with such textural elegance...</strong=
+> and <em>nobody</em> does it at anything close to this price. Yes, Giaco=
+sa's red labels are among the most seductive wines on earth, forget about=
+ limiting the discussion to Barolo/Barbaresco, but they also hover around=
+ $400 a bottle. <strong><br />
+</strong></p>
+<p><strong>The 2006 Sandrones are among the wines of the vintage</strong>=
+ - I think it's fair to say that Galloni flipped for them, but read the r=
+eviews for yourself, they're below.</p>
+<p>Sandrone has always been a very well respected producer in the Piedmon=
+t, but <strong>in the last 5-10 years they have quite simply moved to the=
+ next level.</strong> The oak has been dialed back and the transparency a=
+nd precision dialed up - few Barolos thread the needle so finely, satiny,=
+ seductive, curvaceous... yet also finessed, energetic.</p>
+<center>  <img src=3D"http://www.crushwineco.com/images/mailer/SandroneCa=
+nnubi600.jpg" alt=3D"" />  </center>
+<p><strong>Galloni calls Sandrone's 06s &quot;focused, driven&quot; in st=
+yle.</strong> These are beautiful, <em>beautiful</em> wines.</p>
+<p><strong>Today we offer the estate's two 2006 Barolos: Le Vigne and Can=
+nubi Boschis.</strong> One, the Le Vigne, is a masterpiece of blending, t=
+he other, Cannubi Boschis, is one of the Piedmont's most authoritative vi=
+neyards. Both are worth having and for those who want to crack them open,=
+ side by side on the dinner table, we have provided special two-pack pric=
+ing. (The two-pack pricing is also not a bad idea for those looking to ce=
+llar the best of the Piedmont.)</p>
+<p>It's worth noting that pricing for Sandrone's Barolos does tend to con=
+sistently go up; very fair U.S. retailers are selling the 2004 Cannubi Bo=
+schis at $200. The 1989 (gulp) is a $500+ proposition at this point. <str=
+ong>At $245 all-in for a bottle of Le Vigne <em>and</em> Cannubi Boschis,=
+ we're happy to highlight the value of buying early.&nbsp; </strong></p>
+<p>The Cannubi Boschis is Sandrone's flagship wine: a single, great site =
+in the Barolo commune, known for its synergy of ripeness with freshness. =
+In line with that, Galloni calls the 06 Cannubi &quot;seductive, round an=
+d sweet in its ripe, dark fruit...&quot; He ends with an apt mention of &=
+quot;tons of energy and muscle&quot; - requiring patience. <strong>The Ca=
+nnubi's aging potential should be outstanding: two decades in the cellar,=
+ plus some.<br />
+</strong></p>
+<table border=3D"0" align=3D"right" style=3D"margin-right:10px;margin-bot=
+tom:5px;" >
+    <tbody>
+        <tr>
+            <td><img alt=3D"" src=3D"http://www.crushwineco.com/images/ma=
+iler/SandroneLabels250.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>The Le Vigne in this vintage should not be overlooked. <span style=3D"=
+font-weight:bold;" >This is a blend that</span><strong> offers up such a =
+ multifaceted complexity that, certainly in 06, it puts the Le Vigne in t=
+he same general vicinity as the Cannubi. </strong>The quality of this bot=
+tling in 2006 is extraordinary. It's a testament to Sandrone's skills as =
+a blender - similar to  the great chef de caves of Champagne or, as anoth=
+er example that comes  immediately to mind, Chave in Hermitage.<strong><b=
+r />
+</strong></p>
+<p><strong>Our Piedmont program has become <em>very</em> selective over t=
+he years; Giacosa, Conterno, Giuseppe Mascarello.</strong> These are our =
+heroes. Just too many tart or tannic wines use the famous name of Barolo =
+to get on shelves and in cellars... only to disappoint.</p>
+<p>Sandrone is earning his place among our holy trinity; <em><strong>in 2=
+006 the wines are not to be missed.</strong></em></p>
+<p>To order,<strong> please reply to this email or call the store at (212=
+) 980-9463.</strong></p>
+<p>Ian McFadden<br />
+Director, Fine &amp; Rare Wine<br />
+Crush Wine &amp; Spirits</p>
+<h2 style=3D"color:#7072B3;font-size:13px;font-weight:bold;margin-bottom:=
+5px;" >
+                                                    <a name=3D"23FA518574=
+CD05CA"></a><div style=3D"text-align:left;font-size:22px;" >2006 Sandrone=
+ Barolo <br>
+ Le Vigne and Cannubi Boschis</div></h2>
+                                                <p><span style=3D"color:r=
+gb(255, 0, 0);" ><font size=3D"4">Special Email 2-Pack Price: $245.90</fo=
+nt></span><br />
+<font size=3D"3">1x 2006 Barolo &quot;Le Vigne&quot; @ $111.95<br />
+1x 2006 Barolo Cannubi Boschis @ $133.95</font><br />
+&nbsp;</p>
+<p><font size=3D"4">2006 Barolo &quot;Le Vigne&quot;</font><br />
+<span style=3D"color:rgb(255, 0, 0);" ><font size=3D"4">Special Email Bot=
+tle Price: $115.95</font></span><br />
+<strong><em>Compare at up to $156</em></strong><em><br />
+</em><em>
+          Antonio Galloni, Wine Advocate: &quot;Sandrone&rsquo;s 2006 Bar=
+olo Le Vigne possesses awesome balance as intricately woven layers of aro=
+mas and flavors come together in the glass. The 2006 is an especially pow=
+erful Le Vigne boasting a solid core of floral, red fruits supported by f=
+irm yet elegant tannins. This, too, shows the considerable drive and focu=
+s that is the hallmark of the vintage. The wine&rsquo;s overall balance i=
+s impeccable. Le Vigne is made from parcels in Vignane (Barolo), Conterni=
+ and Ceretta (Monforte) and Merli (Novello). The wines are aged separatel=
+y for a year in 500-liter barrels. The final blend is assembled, after wh=
+ich the wine spends an additional year in oak prior to being bottled. San=
+drone&rsquo;s 2006 Barolos are among the unqualified successes of the 200=
+6 harvest. The wines show more richness and density than the 2005s, but l=
+ess exuberance than the=20
+      2007s,    in  a focused, driven style I find quite attractive.&quot=
+;</em></p>
+<p><font size=3D"4">2006 Barolo Cannubi Boschis<br />
+</font><span style=3D"color:rgb(255, 0, 0);" ><font size=3D"4">Special Em=
+ail Bottle Price: $139.95 </font></span><br />
+<strong><em>Compare at up to $170<br />
+</em></strong><em>Antonio Galloni, Wine Advocate: &quot;The 2006 Barolo C=
+annubi Boschis is seductive, round and sweet in its ripe dark fruit. The =
+wine continues to gain weight in the glass, showing a level of density th=
+at nearly manages to cover the tannins. Floral notes add lift on the fini=
+sh. This is a powerful, linear Cannubi Boschis with tons of energy and mu=
+scle, but it will require quite a bit of patience. Sandrone harvests his =
+three parcels in Cannubi Boschis separately. Vinification takes place in =
+stainless steel. The wines undergo malolactic fermentation and are aged i=
+n 500-liter barrels (roughly 20% new) for a year. Once the final blend is=
+ assembled, the wine goes back into oak for another year prior to being b=
+ottled in the spring. Sandrone is one of the earliest producers to bottle=
+, which he does to preserve as much freshness as possible.&quot;</em></p>=
+
+<p><strong><em>Wine is pre-arrival<br />
+NET | No further discount </em></strong></p>
+                                        </span>
+                                    </td>
+                                </tr>
+                  =20
+                                <tr>
+                                    <td width=3D"655"border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:12px;font=
+-size:10px;font-family:Verdana;" >
+                                        <table width=3D"623" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:1=
+2px;font-size:10px;font-family:Verdana;" >
+        <tr>
+ <td  width=3D"623" border=3D"0" valign=3D"bottom" align=3D"left" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A;line-height:12px;font=
+-size:10px;font-family:Verdana;" >
+<p><strong>Pre-arrival</strong><br />
+While we guarantee the delivery of pre-arrival wines, many of the factors=
+ in the delivery are beyond our control. We do the best we can to estimat=
+e the expected arrival times of your wine, but we cannot guarantee any sp=
+ecific arrival dates. Please keep in mind, delays can arise unexpectedly =
+and we are occasionally given inaccurate and/or incomplete information by=
+ our shipping agent. If at any time you feel you need to cancel your pre-=
+arrival order, you may do so. We will refund you the original purchase pr=
+ice less a 10% cancellation fee.</p>
+			      =20
+         =20
+=20
+                                                    <table border=3D"0" a=
+lign=3D"left" style=3D"margin-right:10px;margin-bottom:5px;" >
+    <tbody>
+        <tr>
+            <td><img src=3D"http=
+://i4.cmail4.com=
+=
+/ti/r/62/D01/BE0/020338/images/crushlogosmall.jpg" alt=3D"" /></=
+td>
+        </tr>
+    </tbody>
+</table><p>We are here to serve you. We want to customize our email corre=
+spondence to best
+                                                    fit your needs, by co=
+mmunicating with you as often as you prefer. If at any time
+                                                    you would like unsubs=
+cribe from this list please <a href=3D"http://crushwinespirits.=
+cmail4.com=
+/t/r/u/jdulhty/=
+pcdjykf=
+/j/">Clic=
+k Here</a>.</p>
+                                                    <p>Crush and the Crus=
+h Logo are trademarks and/or service marks of Crush Wine & Spirits Inc.  =
+                                                   and are registered in =
+the United States and may be registered in other jurisdictions           =
+                                                  including international=
+ly. All other trademarks are not owned by Crush Wine & Spirits, Inc.     =
+                                                 are the property of thei=
+r respective owners, who may or may not be affiliated with,              =
+                                                connected to, or sponsore=
+d by us. &copy;2007 Crush Wine & Spirits, Inc. New York, NY - All Rights =
+                                                    Reserved.</p>
+                                              =20
+</td>
+                                      =20
+</tr>
+                                           <tr>
+                                            <td  valign=3D"top" align=3D"=
+left" width=3D"623">      =20
+                                                 *All wines in this offer=
+ing available subject to remaining unsold<br />
+                                                 **All email offers valid=
+ for one week unless otherwise noted<br />
+                                                 ***Crush not responsible=
+ for typographical errors. All prices are subject to change without      =
+                                               notice.
+                                            </td>
+                                           </tr>
+                                        </table>
+                                     =20
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"10" cellpadding=3D"0" style=3D"color:#8A8A8=
+A;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"201">
+                                                    <b>Shipping / Deliver=
+y Fine Print</b><br />
+                                                    <br />
+                                                    1. Availability of al=
+l wine pending phone or email confirmation.<br />
+                                                    2. We are pleased to =
+offer free local delivery with purchases of $50 or more. There
+                                                    is a $150 minimum for=
+ free delivery to non-local addresses south of 96th street
+                                                    in Manhattan and a $2=
+00 minimum for free delivery to non-local addresses north of
+                                                    96th street in Manhat=
+tan. Maps and guidelines for delivery to Brooklyn, Queens,
+                                                    Staten Island and the=
+ Bronx are outlined <a href=3D"http://crushwinespirits.cmail4.com=
+/t/r/l/jdulhty/=
+pcdjykf=
+/t/">
+                                                        here</a>. Orders =
+not meeting the minimum are subject to a delivery charge. Please
+                                                    note that delivery mi=
+nimums are subject to change during Crush sale events.<br />
+                                                    3. Deliveries within =
+Manhattan will be made the next business day if your order
+                                                    is placed by noon. We=
+ will make our best efforts to deliver all "Neighborhood" deliveries
+                                                    on the same day. Deli=
+very to Westchester, the Hamptons etc. is periodic - please
+                                                    call for our regular =
+schedule.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    4. If wine is shipped=
+ to you, we contract with a 3rd party carrier who will ship
+                                                    wine that you have al=
+ready purchased. Ownership of any Wine that Crush sells changes
+                                                    hands at the time of =
+purchase in the state of New York and is subject to sales tax
+                                                    in this state. By req=
+uesting that your wine be shipped to you, you are authorizing
+                                                    us to engage a common=
+ carrier to deliver your wine on your behalf. Crush Wine &
+                                                    Spirits is not respon=
+sible for any breakage or damage of wine by said common carrier.
+                                                    WE MAKE NO REPRESENTA=
+TION TO THE LEGAL RIGHTS OF ANYONE TO SHIP OR IMPORT WINES
+                                                    INTO ANY STATES OUTSI=
+DE OF NEW YORK. You, the buyer, are solely responsible for
+                                                    shipment of alcoholic=
+ beverage products and assume all obligations for compliance
+                                                    with your State's law=
+s.<br />
+                                                    5. We do not profit o=
+n shipping. All shipping charges cover styrofoam shippers,
+                                                    3rd party carrier cha=
+rges, and nominal labor to pack and deliver your wine for shipment
+                                                    to the 3rd party carr=
+ier.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    6. We do not sell win=
+e we don&rsquo;t own and we guarantee the delivery of all pre-arrival
+                                                    wine; we cannot, howe=
+ver, guarantee the exact arrival date due to shipping circumstances
+                                                    beyond our control.<b=
+r />
+                                                    7. We are happy to ho=
+ld your wine, free of charge, until the appropriate shipping
+                                                    season. To keep our p=
+rices as sharp as possible however, we cannot store customer
+                                                    wine beyond the appro=
+priate shipping season. We therefore reserve the right to charge
+                                                    $10 per month, per ca=
+se, for wine that has not been taken during the first appropriate
+                                                    shipping season. <a h=
+ref=3D"http://crushwinespirits.cmail4.com=
+/t/r/l/jdulhty/=
+pcdjykf=
+/i/">Click here</a>
+                                                    for more.<br />
+                                                    8. Alcoholic beverage=
+s may be sold and delivered only to persons who are at least
+                                                    21 years old. In plac=
+ing your order, you represent to us that you are at least 21
+                                                    years old and that th=
+e person to whom the delivery will be made is at least 21 years
+                                                    old.<br />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Verdana;border-width:1px;border-style:solid;border-c=
+olor:#7072B3;border-top-style:none;" >
+                    <tr>
+                        <td style=3D"background-color:#BEBD86;height:19px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=3D"background-color:#7072B3;height:11px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://cmail4.com=
+/t/r/o/jdulhty/=
+=
+pcdjykf=
+/o.gif"  width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;" ></body>
+</html>=
+
+
+
+
+--_=aspNetEmail=_76eaee3ec04a41e481550aca0a74a7b6--

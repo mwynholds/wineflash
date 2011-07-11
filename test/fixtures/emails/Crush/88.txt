@@ -1,0 +1,499 @@
+Delivered-To: wineflashapp@gmail.com
+Received: by 10.143.5.21 with SMTP id h21cs190699wfi;
+        Thu, 2 Jun 2011 11:32:15 -0700 (PDT)
+Received: by 10.236.185.69 with SMTP id t45mr1414192yhm.56.1307039534018;
+        Thu, 02 Jun 2011 11:32:14 -0700 (PDT)
+Return-Path: <RobertSchagrinCrushWineSpirits-jdtitdd1pcdjykf1r@cmail1.com>
+Received: from mo113.createsend.com (mo113.createsend.com [206.72.127.113])
+        by mx.google.com with ESMTP id n61si4433282yhj.134.2011.06.02.11.32.13;
+        Thu, 02 Jun 2011 11:32:14 -0700 (PDT)
+Received-SPF: pass (google.com: domain of RobertSchagrinCrushWineSpirits-jdtitdd1pcdjykf1r@cmail1.com designates 206.72.127.113 as permitted sender) client-ip=206.72.127.113;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of RobertSchagrinCrushWineSpirits-jdtitdd1pcdjykf1r@cmail1.com designates 206.72.127.113 as permitted sender) smtp.mail=RobertSchagrinCrushWineSpirits-jdtitdd1pcdjykf1r@cmail1.com; dkim=pass (test mode) header.i=offers@crushwineco.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=crushwineco.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers@crushwineco.com;
+ bh=utikTwxo72VNdXlgACETsIUnE5s=;
+ b=PDFGqNQOf8+v7DhkSkQ0MjbkS7FE8I8NLkpJwGZz0crjczpLMOKaj9jx5nMzcFoJ14UEzpct+8Y9
+   rrbgEmHfpmtsnmQFKQpIvaUUm+l877+4JkeJ45yDzRh5lbSivshy
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=crushwineco.com;
+ b=j2Q5pmnKdDeg1p0XaKxBBGb+ksPPrTwX1ty2TVXrg1pz67RqOlwZx/hUs7T3fHvAMPd5SOdonEBm
+   Xsa66UIm0LinlO+7BopUlwaAqNmcfJBZCqLnNDAvzHJubopmiDz4;
+Received: by mo113.createsend.com (PowerMTA(TM) v3.5r15) id hsvbiq0vne0n for <wineflashapp@gmail.com>; Fri, 3 Jun 2011 04:30:51 +1000 (envelope-from <RobertSchagrinCrushWineSpirits-jdtitdd1pcdjykf1r@cmail1.com>)
+From: "Robert Schagrin, Crush Wine & Spirits" <offers@crushwineco.com> 
+To: "wineflashapp@gmail.com" <wineflashapp@gmail.com>
+Reply-To: offers@crushwineco.com
+Date: Fri, 03 Jun 2011 04:30:07 +1000
+Subject: Champagne on the Rocks? Moet Ice Imperial Party Pack
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_4470c8adc5f147019be360354975719e"
+X-Mailer: cmail1.com
+X-Complaints-To: abuse@cmail1.com
+List-Unsubscribe: <http://unsub.cmail1.com/t/r/u/jdtitdd/pcdjykf/>
+Received: from [72.43.111.114] by cmail1.com via HTTP; Fri, 03 Jun 2011
+ 04:30:07 +1000
+Message-ID: <cm.043007.jdtitdd.pcdjykf.r@cmail1.com>
+
+--_=aspNetEmail=_4470c8adc5f147019be360354975719e
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+-----------------------------------------------------------------
+CHAMPAGNE ON THE ROCKS? MOET ICE IMPERIAL PARTY PACK
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Champagne on the Rocks?
+-----------------------------------------------------------------
+Mo=C3=ABt et Chandon Ice Imp=C3=A9rial
+-----------------------------------------------------------------
+Three Bottles - Six Goblets - One Ice Bucket
+(Lounge Chair Not Included)
+-----------------------------------------------------------------
+We love Champagne dearly, but frosty frozen drinks have tended to
+win out over bubbles on those scorching summer days where we
+can't be bothered with anything besides casual poolside (or
+rooftop) sipping.=20
+
+But this summer, Mo=C3=ABt's changing the game...=20
+-----------------------------------------------------------------
+
+Just in time for the official start of summer, and with
+temperatures already soaring, Mo=C3=ABt has released a seasonal,
+limited production, all-inclusive "Champagne Party Pack" that's
+perfect for the summer season.
+
+This is one-stop shopping, with everything taken care of and
+smartly packaged so you don't have to worry about anything (aside
+from your guest list): You get three bottles of Mo=C3=ABt Ice
+Imp=C3=A9rial, six signature Mo=C3=ABt goblets and an ice bucket. Till
+Monday (or a sell-out), we'll offer these very limited summer
+packs (available in less than 10 retail stores nationwide) at the
+special price of $179.95, the lowest price in the nation.
+                                   =20
+
+The special cuv=C3=A9e of Mo=C3=ABt Ice Imp=C3=A9rial Champagne is, quite=
+
+literally, designed to provide icy refreshment. Developed by the
+maison's own Chef de Cave Beno=C3=AEt Gouez, it's a blend of all three
+Champagne grapes (Chardonnay, Pinot Noir and Pinot Meunier),
+uniquely crafted to be enjoyed over ice. Before you scoff: Such
+an addition would typically be an abomination (we're very serious
+about our bubbles), but the ice actually works to your advantage
+here.
+
+The Ice Imp=C3=A9rial has a slightly higher dosage and intense
+tropical fruit notes  - guava and mango plus fresh red berries
+with a hint of exotic spice - which both relax and come through
+more clearly when poured over a couple of cubes. Plus, the cooler
+temperature makes for an extra bit of refreshment=E2=80=A6 and topped off=
+
+with a simple citrus twist or fresh berries, it looks way more
+elegant than that fruit-cocktail-shish-kabobbed slushy.
+
+The set's signature glossy white goblets and ice bucket are both
+neatly designed with beach and poolside regulations in mind -
+they're sleek, hard plastic, so you can take them right over to
+your lounge chair.
+
+Today's offer represents the very limited retail launch of what's
+already become the necessary accessory at brunches and day-night
+parties in places like St. Tropez, the Hamptons and Ibiza. Though
+we're not necessarily one for "hot," sceney trends, when these
+sets arrived last week, I took one home over the long weekend and
+was seriously impressed with how well-executed both the Champagne
+and the entire package were.=20
+
+Quantities of these Mo=C3=ABt Champagne party packs are limited,
+unlike the high temperatures in the next three months' forecast.
+To place your order, please reply to this email or call the store
+at (212) 980-9463.
+
+Robert Schagrin
+Managing Partner
+Crush Wine & Spirits
+
+-----------------------------------------------------------------
+
+Mo=C3=ABt et Chandon Ice Imp=C3=A9rial Party Packs
+-----------------------------------------------------------------
+Special Email Pack Price: $179.95
+3x Mo=C3=ABt Ice Imp=C3=A9rial Champagne
+6x Mo=C3=ABt et Chandon signature goblets
+1x Mo=C3=ABt et Chandon signature ice bucket
+Compare at $200-210 per set
+
+Party Packs are in stock!
+Special pricing is good through Sunday
+NET | No further discount=20
+
+
+
+We sent this email to =
+wineflashapp@gmail.com.=
+
+If you no longer wish to hear from us, click the link below to
+instantly unsubscribe:
+http://crushwinespirits.cmail1.com=
+/t/r/u/jdtitdd/=
+=
+pcdjykf=
+/t/
+
+Thanks,
+Robert Schagrin, Crush Wine & Spirits=
+
+
+
+
+
+
+
+
+--_=aspNetEmail=_4470c8adc5f147019be360354975719e
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crush Wine &amp; Spirits</title>
+</head>
+<body style=3D"font-family:Verdana;font-size:12px;" >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"font-family:Verdana;" >
+        <tr>
+            <td align=3D"center">
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-width:1px;border-style:solid;border-color:#7072B3;border-=
+bottom-style:none;" >
+                    <tr>
+                        <td align=3D"left" valign=3D"bottom">
+                            <img src=3D"http=
+://i3.=
+cmail1.com=
+/ti/r/0A/E5F/091/054824/images/header.jpg" width=3D"=
+655" height=3D"189" alt=3D"Crush Wine &amp; Spirits - the truth is in the=
+ bottle" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width=3D"655" border=3D"0" cellspacing=
+=3D"16" cellpadding=3D"0" style=3D"font-family:Verdana;" >
+                                <tr>
+                                    <td width=3D"655" align=3D"left">
+                                        <h3 style=3D"color:#7072B3;margin=
+-bottom:4px;margin-top:0px;font-size:12px;" >
+                                            June 2, 2011</h3>
+                                        <h1 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:bold;" >
+                                            Champagne on the Rocks?</h1>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:18pt;font-weight:normal;" >
+                                            Mo=C3=ABt et Chandon Ice Imp=C3=
+=A9rial</h2>
+                                        <h2 style=3D"margin-bottom:4px;ma=
+rgin-top:0px;font-size:14pt;font-weight:normal;" >
+                                            <b>Three Bottles - Six Goblet=
+s - One Ice Bucket<br>
+(Lounge Chair Not Included)</b></h2>
+                                        <p style=3D"font-size:14pt;" >
+                                            We love Champagne dearly, but=
+ frosty frozen drinks have tended to win out over bubbles on those scorch=
+ing summer days where we can&rsquo;t be bothered with anything besides ca=
+sual poolside (or rooftop) sipping. <br>
+<br>
+But this summer, Mo=C3=ABt&rsquo;s changing the game... </p>
+                                        <span style=3D"font-size:12px;" >=
+<p>Just in time for the official start of summer, and with temperatures a=
+lready soaring, <strong>Mo&euml;t has released a seasonal, limited produc=
+tion, all-inclusive &ldquo;Champagne Party Pack&rdquo; that's <em>perfect=
+</em> for the summer season.</strong></p>
+<p>This is one-stop shopping, with everything taken care of and smartly p=
+ackaged so you don't have to worry about anything (aside from your guest =
+list): You get three bottles of Mo&euml;t Ice Imp&eacute;rial, six signat=
+ure Mo&euml;t goblets and an ice bucket. Till Monday (or a sell-out), we'=
+ll offer these <strong>very limited summer packs (available in less than =
+10 retail stores nationwide)</strong> <strong>at the special price of $17=
+9.95, the lowest price in the nation.<br />
+</strong></p>
+<table border=3D"0" align=3D"right" style=3D"margin-right:10px;margin-bot=
+tom:5px;" >
+    <tbody>
+        <tr>
+            <td><img src=3D"http://www.crushwineco.com/images/mailer/Moet=
+Ice300.jpg" alt=3D"" /></td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>The special cuv&eacute;e of Mo&euml;t Ice Imp&eacute;rial Cham=
+pagne is, quite literally, designed to provide icy refreshment.</strong> =
+Developed by the maison&rsquo;s own Chef de Cave Beno&icirc;t Gouez, it&r=
+squo;s a blend of all three Champagne grapes (Chardonnay, Pinot Noir and =
+Pinot Meunier), uniquely crafted to be enjoyed over ice. Before you scoff=
+: Such an addition would typically be an abomination (we&rsquo;re <em>ver=
+y</em> serious about our bubbles), but the ice actually works to your adv=
+antage here.</p>
+<p><strong>The Ice Imp&eacute;rial has a slightly higher dosage and inten=
+se tropical fruit notes</strong>  - guava and mango plus fresh red berrie=
+s with a hint of exotic spice - which both relax and come through more cl=
+early when poured over a couple of cubes. Plus, the cooler temperature ma=
+kes for an extra bit of refreshment&hellip; and topped off with a simple =
+citrus twist or fresh berries, it looks way more elegant than that fruit-=
+cocktail-shish-kabobbed slushy.</p>
+<p>The set&rsquo;s <strong>signature glossy white goblets and ice bucket<=
+/strong> are both neatly designed with beach and poolside regulations in =
+mind - they&rsquo;re sleek, hard plastic, so you can take them right over=
+ to your lounge chair.</p>
+<p><strong>Today's offer represents the <em>very limited</em> retail laun=
+ch</strong> of what's already become the necessary accessory at brunches =
+and day-night parties in places like St. Tropez, the Hamptons and Ibiza. =
+Though we're not necessarily one for &quot;hot,&quot; sceney trends, when=
+ these sets arrived last week, I took one home over the long weekend and =
+was <strong>seriously impressed with how well-executed both the Champagne=
+ and the entire package were. </strong></p>
+<p>Quantities of these Mo&euml;t Champagne party packs are limited, unlik=
+e the high temperatures in the next three months' forecast. <strong>To pl=
+ace your order, please reply to this email or call the store at (212) 980=
+-9463.</strong></p>
+<p>Robert Schagrin<br />
+Managing Partner<br />
+Crush Wine &amp; Spirits</p>
+<h2 style=3D"color:#7072B3;font-size:13px;font-weight:bold;margin-bottom:=
+5px;" >
+                                                    <a name=3D"38C2931858=
+A2762A"></a><div style=3D"text-align:left;font-size:22px;" >Mo&euml;t et =
+Chandon Ice Imp&eacute;rial Party Packs</div></h2>
+                                                <p><span style=3D"color:r=
+gb(255, 0, 0);" ><font size=3D"4">Special Email Pack Price: $179.95</font=
+></span><br />
+<font size=3D"3">3x Mo&euml;t Ice Imp&eacute;rial Champagne<br />
+6x Mo&euml;t et Chandon signature goblets<br />
+1x Mo&euml;t et Chandon signature ice bucket</font><br />
+<em>Compare at $200-210 per set</em><br />
+<br />
+<strong><em>Party Packs are in stock!<br />
+Special pricing is good through Sunday<br />
+NET | No further discount <br />
+<br type=3D"_moz" />
+</em></strong></p>
+                                        </span>
+                                    </td>
+                                </tr>
+                               <tr>
+                                    <td colspan=3D"3" width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#8A8A8A=
+;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"center" ali=
+gn=3D"left" width=3D"138">
+                                                    <img src=3D"=
+http=
+://i4.cmail1.com=
+/ti/r/0A/E5F/091/054824/imag=
+es/crushlogosmall.jpg" alt=3D"Crush Wine & Spirits" width=3D"138" height=3D=
+"102" />
+                                                </td>
+                                                <td width=3D"10">
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"475" valign=3D=
+"top" align=3D"left">
+                                                    <p>We are here to ser=
+ve you. We want to customize our email correspondence to best
+                                                    fit your needs by com=
+municating with you as often as you prefer. If at any time
+                                                    you would like to cha=
+nge the frequency of emails from us or unsubscribe from this
+                                                    list please
+                                                    <a href=3D"http://cru=
+shwinespirits.cmail1.com=
+/t/r/u/jdtitdd/=
+=
+pcdjykf=
+/r/">click here</a>.</p>
+                                                    <p>Crush and the Crus=
+h Logo are trademarks and/or service marks of Crush Wine & Spirits Inc.  =
+                                                   and are registered in =
+the United States and may be registered in other jurisdictions           =
+                                                  including international=
+ly. All other trademarks are not owned by Crush Wine & Spirits, Inc.     =
+                                                 and are the property of =
+their respective owners, who may or may not be affiliated with,          =
+                                                connected to, or sponsore=
+d by us. &copy;2007 Crush Wine & Spirits, Inc. New York, NY - All        =
+                                               Rights Reserved.</p>
+                                                    </td>
+                                            </tr>
+                                        </table>
+ <table width=3D"623" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"color:#8A8A8A;line-height:12px;font-size:10px;font-family:Verdana;=
+" >
+                                           <tr>
+                                            <td valign=3D"top" align=3D"l=
+eft" width=3D"623">      =20
+                                                 *All wines in this offer=
+ing available subject to remaining unsold<br />
+                                                 **All email offers valid=
+ for one week unless otherwise noted<br />
+                                                 ***Crush not responsible=
+ for typographical errors. All prices are subject to change without      =
+                                               notice.
+                                            </td>
+                                           </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width=3D"655">
+                                        <table width=3D"623" height=3D"65=
+" border=3D"0" cellspacing=3D"10" cellpadding=3D"0" style=3D"color:#8A8A8=
+A;line-height:12px;font-size:10px;font-family:Verdana;" >
+                                            <tr>
+                                                <td valign=3D"top" align=3D=
+"left" width=3D"201">
+                                                    <b>Shipping / Deliver=
+y Fine Print</b><br />
+                                                    <br />
+                                                    1. Availability of al=
+l wine pending phone or email confirmation.<br />
+                                                    2. We are pleased to =
+offer free local delivery with purchases of $50 or more. There
+                                                    is a $150 minimum for=
+ free delivery to non-local addresses south of 96th street
+                                                    in Manhattan and a $2=
+00 minimum for free delivery to non-local addresses north of
+                                                    96th street in Manhat=
+tan. Maps and guidelines for delivery to Brooklyn, Queens,
+                                                    Staten Island and the=
+ Bronx are outlined <a href=3D"http://crushwinespirits.cmail1.com=
+/t/r/l/jdtitdd/=
+pcdjykf=
+/y/">
+                                                        here</a>. Orders =
+not meeting the minimum are subject to a delivery charge. Please
+                                                    note that delivery mi=
+nimums are subject to change during Crush sale events.<br />
+                                                    3. Deliveries within =
+Manhattan will be made the next business day if your order
+                                                    is placed by noon. We=
+ will make our best efforts to deliver all "Neighborhood" deliveries
+                                                    on the same day. Deli=
+very to Westchester, the Hamptons etc. is periodic - please
+                                                    call for our regular =
+schedule.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    4. If wine is shipped=
+ to you, we contract with a 3rd party carrier who will ship
+                                                    wine that you have al=
+ready purchased. Ownership of any Wine that Crush sells changes
+                                                    hands at the time of =
+purchase in the state of New York and is subject to sales tax
+                                                    in this state. By req=
+uesting that your wine be shipped to you, you are authorizing
+                                                    us to engage a common=
+ carrier to deliver your wine on your behalf. Crush Wine &
+                                                    Spirits is not respon=
+sible for any breakage or damage of wine by said common carrier.
+                                                    WE MAKE NO REPRESENTA=
+TION TO THE LEGAL RIGHTS OF ANYONE TO SHIP OR IMPORT WINES
+                                                    INTO ANY STATES OUTSI=
+DE OF NEW YORK. You, the buyer, are solely responsible for
+                                                    shipment of alcoholic=
+ beverage products and assume all obligations for compliance
+                                                    with your State's law=
+s.<br />
+                                                    5. We do not profit o=
+n shipping. All shipping charges cover styrofoam shippers,
+                                                    3rd party carrier cha=
+rges, and nominal labor to pack and deliver your wine for shipment
+                                                    to the 3rd party carr=
+ier.<br />
+                                                </td>
+                                                <td  width=3D"1" style=3D=
+"border-right-width:1px;border-right-style:solid;border-right-color:#DDDE=
+ED;" >
+                                                    &nbsp;
+                                                </td>
+                                                <td width=3D"201" valign=3D=
+"top" align=3D"left">
+                                                    6. We do not sell win=
+e we don&rsquo;t own and we guarantee the deliver of all pre-arrival
+                                                    wine; we cannot, howe=
+ver, guarantee the exact arrival date due to shipping circumstances
+                                                    beyond our control.<b=
+r />
+                                                    7. We are happy to ho=
+ld your wine, free of charge, until the appropriate shipping
+                                                    season. To keep our p=
+rices as sharp as possible however, we cannot store customer
+                                                    wine beyond the appro=
+priate shipping season. We therefore reserve the right to charge
+                                                    $10 per month, per ca=
+se, for wine that has not been taken during the first appropriate
+                                                    shipping season. <a h=
+ref=3D"http://crushwinespirits.cmail1.com=
+/t/r/l/jdtitdd/=
+pcdjykf=
+/j/">Click here</a>
+                                                    for more.<br />
+                                                    8. Alcoholic beverage=
+s may be sold and delivered only to persons who are at least
+                                                    21 years old. In plac=
+ing your order, you represent to us that you are at least 21
+                                                    years old and that th=
+e person to whom the delivery will be made is at least 21 years
+                                                    old.<br />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"657" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Verdana;border-width:1px;border-style:solid;border-c=
+olor:#7072B3;border-top-style:none;" >
+                    <tr>
+                        <td style=3D"background-color:#BEBD86;height:19px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=3D"background-color:#7072B3;height:11px=
+;" >
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://cmail1.com=
+/t/r/o/jdtitdd/=
+=
+pcdjykf=
+/o.gif"  width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;" ></body>
+</html>=
+
+
+
+
+--_=aspNetEmail=_4470c8adc5f147019be360354975719e--
