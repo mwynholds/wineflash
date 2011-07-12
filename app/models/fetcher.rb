@@ -12,14 +12,17 @@ class Fetcher
 
     options = { }.merge(opts)
 
+    verbose = options[:verbose]
     count = 0
-    list = ( opts[:subject] ? @box.search(opts[:subject]) : @box.list )
+    list = ( opts[:query] ? @box.search(opts[:query]) : @box.list )
     list.each do |uid|
-      break if options[:max] && count >= options[:max]
+      break if options[:max] && count >= options[:max].to_i
       count += 1
 
       raw = @box.fetch uid
       email = FlashEmail.parse raw
+
+      puts "Fetching email: #{email.subject}" if verbose
 
       if !email.identified?
         @box.archive uid, '_unidentified'
