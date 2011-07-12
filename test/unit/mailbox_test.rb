@@ -45,6 +45,68 @@ class MailboxTest < MiniTest::Spec
     end
   end
 
+  describe '#search' do
+    describe 'by subject' do
+      before do
+        @mock = MiniTest::Mock.new
+        @mock.expect :list, [], ['', '*']
+        @mock.expect :examine, nil, ['INBOX']
+        @mock.expect :uid_search, nil, [['SUBJECT', 'foo']]
+      end
+
+      it 'searches correctly' do
+        mailbox = Mailbox.new @mock
+        mailbox.search 'foo'
+        assert @mock.verify
+      end
+    end
+
+    describe 'by sender' do
+      before do
+        @mock = MiniTest::Mock.new
+        @mock.expect :list, [], ['', '*']
+        @mock.expect :examine, nil, ['INBOX']
+        @mock.expect :uid_search, nil, [['FROM', 'foo']]
+      end
+
+      it 'searches correctly' do
+        mailbox = Mailbox.new @mock
+        mailbox.search 'from:foo'
+        assert @mock.verify
+      end
+    end
+
+    describe 'by recipient' do
+      before do
+        @mock = MiniTest::Mock.new
+        @mock.expect :list, [], ['', '*']
+        @mock.expect :examine, nil, ['INBOX']
+        @mock.expect :uid_search, nil, [['TO', 'foo']]
+      end
+
+      it 'searches correctly' do
+        mailbox = Mailbox.new @mock
+        mailbox.search 'to:foo'
+        assert @mock.verify
+      end
+    end
+
+    describe 'in other label' do
+      before do
+        @mock = MiniTest::Mock.new
+        @mock.expect :list, [], ['', '*']
+        @mock.expect :examine, nil, ['label']
+        @mock.expect :uid_search, nil, [['SUBJECT', 'foo']]
+      end
+
+      it 'searches correctly' do
+        mailbox = Mailbox.new @mock
+        mailbox.search 'foo', 'label'
+        assert @mock.verify
+      end
+    end
+  end
+
 end
 
 class MockListResponse < Array

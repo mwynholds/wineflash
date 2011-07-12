@@ -1,6 +1,6 @@
 class Parser::CrushParser < Parser::Base
 
-  @@staff = [ 'Ian McFadden', 'Stephen Bitterolf', 'Robert Schagrin' ]
+  @@staff = [ 'Ian McFadden', 'Stephen Bitterolf', 'Robert Schagrin', 'Joe Salamone' ]
 
   def initialize(mime)
     super mime

@@ -25,9 +25,13 @@ class Mailbox
     @labels = labels
   end
 
-  def search(subject, label = 'INBOX')
+  def search(query, label = 'INBOX')
     @imap.examine label
-    @imap.uid_search ['SUBJECT', subject]
+    context, term = 'SUBJECT', query
+    query.match /^(to|from):(.*)$/ do |m|
+      context, term = m[1].upcase, m[2]
+    end
+    @imap.uid_search [context, term]
   end
 
   def list(label = 'INBOX')
