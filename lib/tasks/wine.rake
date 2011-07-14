@@ -17,4 +17,16 @@ namespace :wine do
       Fetcher.new.fetch :query => "from:#{args[:from]}", :max => args[:max], :verbose => true
     end
   end
+
+  namespace :parse do
+    desc 'Re-parse all existing emails'
+    task :all => :environment do
+      FlashEmail.re_parse :verbose => true
+    end
+
+    desc 'Re-parse existing emails from $source'
+    task :source, [:source] => [:environment] do |t, args|
+      FlashEmail.re_parse :source => args[:source], :verbose => true
+    end
+  end
 end

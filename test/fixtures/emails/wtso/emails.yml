@@ -52,3 +52,15 @@
       price: 27.99
       country: France
       size: 750
+
+- message_id: 97
+  source: WTSO
+  subject: Ciabot Berton Barolo Riserva 2004 Magnum (1.5 Liter)
+  deals:
+    - wine: Ciabot Berton Barolo Riserva 2004 Magnum (1.5 Liter)
+      varietal: Nebbiolo
+      vintage: 2004
+      price: 119.99
+      country: Italy
+      size: 1500
+

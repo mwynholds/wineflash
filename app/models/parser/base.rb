@@ -5,7 +5,7 @@ class Parser::Base
   @@wines = {}
 
   cattr_accessor :parsers
-  cattr_writer :wines
+  cattr_accessor :wines
 
   def self.inherited(subclass)
     @@parsers << subclass
@@ -18,6 +18,10 @@ class Parser::Base
         @@countries[synonym] = country
       end
     end
+  end
+
+  def self.countries
+    @@countries
   end
 
   def self.parser_for(mime)
@@ -44,30 +48,6 @@ class Parser::Base
     @mime.html_part.body.to_s.force_encoding 'UTF-8'
   end
 
-  def normalize_size(str)
-    str = text(str) if str.is_a? Nokogiri::XML::NodeSet
-    return nil if str.nil?
-    return 750 if str =~ /750/
-    nil
-  end
-
-  def normalize_price(str)
-    str = text(str) if str.is_a? Nokogiri::XML::NodeSet
-    return nil if str.nil?
-    str.sub(/\$/, '').to_d
-  end
-
-  def normalize_country(str)
-    str = text(str) if str.is_a? Nokogiri::XML::NodeSet
-    return nil if str.nil?
-    @@countries[str]
-  end
-
-  def text(nodeset)
-    return nil if nodeset.empty?
-    nodeset[0].text().strip
-  end
-
   def apply_keywords(deal, *strings)
     strings.compact.each do |str|
       s = str.downcase
@@ -77,17 +57,4 @@ class Parser::Base
     end
   end
 
-end
-
-class Nokogiri::XML::NodeSet
-  def val
-    return nil if empty?
-    self[0].val
-  end
-end
-
-class Nokogiri::XML::Node
-  def val
-    content().strip
-  end
 end
